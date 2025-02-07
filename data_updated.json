@@ -1,0 +1,5443 @@
+{
+    "stations": [
+        {
+            "Station": "Nagavali River near NH-16 Bridge, Up stream of Srikakulam, before cofluence of\ntown Sewage .",
+            "Latitude": 18.3158821,
+            "Longitude": 83.9272346,
+            "District": "Srikakulam",
+            "Fluoride": 0.6
+        },
+        {
+            "Station": "Nagavali River near Water pump house (Killipalem), Down stream of Srikakulam,\nafter confluence of town sewage",
+            "Latitude": 18.2708903343021,
+            "Longitude": 83.9106808595696,
+            "District": "Srikakulam",
+            "Fluoride": 0.38
+        },
+        {
+            "Station": "River Vamsadhara at Battili (V), Bhamini (M), Parvathipuram Manyam District",
+            "Latitude": 19.0122905,
+            "Longitude": 83.7857627,
+            "District": "Parvathipuram Manyam District",
+            "Fluoride": 0.16
+        },
+        {
+            "Station": "Sea Water,Bay of Bengal,after Confluence of marine outfall of M/s.Aurobindo pharma Ltd, M/s.Andhra Organics Ltd and M/s.Lantech Pharmaceuticals Ltd, Dhonipeta(V), Ranasthalam, Srikakulam",
+            "Latitude": 18.1975758,
+            "Longitude": 83.7038348999999,
+            "District": "Srikakulam",
+            "Fluoride": 0.38
+        },
+        {
+            "Station": "River Vamsadhara at Gara (V&M),\nSrikakulam",
+            "Latitude": 18.2949165,
+            "Longitude": 83.8938017999999,
+            "District": "Srikakulam",
+            "Fluoride": 0.25
+        },
+        {
+            "Station": "Patha Tekkali Cheruvu at Patha Tekkali (V),Vajrapu Kotturu (M), Srikakulam District",
+            "Latitude": 18.6288398,
+            "Longitude": 84.3617283999999,
+            "District": "Srikakulam",
+            "Fluoride": 0.77
+        },
+        {
+            "Station": "Nowpada Sample at Nowpada (V), Tekkali\n(M), Srikakulam District",
+            "Latitude": 18.6336911,
+            "Longitude": 84.3608793,
+            "District": "Srikakulam",
+            "Fluoride": 0.84
+        },
+        {
+            "Station": "Dali Tank at Vemulada (V), Tekkali (M),\nSrikakulam District",
+            "Latitude": 18.611836,
+            "Longitude": 84.2376584,
+            "District": "Srikakulam",
+            "Fluoride": 0.32
+        },
+        {
+            "Station": "River Nagavali Immediate Border between Andhra Pradesh & Orissa States, Near Sivalayam, Kuneru (V), Komarada\n(M),Parvathipuram Manyam District.",
+            "Latitude": 18.896252,
+            "Longitude": 83.4660878999999,
+            "District": "Parvathipuram Manyam District",
+            "Fluoride": 0.18
+        },
+        {
+            "Station": "Sea water, Bay of Bengal, after confluence of Marine outfall of M/s Myan & M/s SMS Pharmaceuticals Ltd., Thammayyapalem, Poosapatirega, Vizianagaram District.",
+            "Latitude": 18.0922075,
+            "Longitude": 83.5511468999999,
+            "District": "Vizianagaram",
+            "Fluoride": 1.33
+        },
+        {
+            "Station": "Tatipudi Reservoir, Gantyada (M),\nVizianagaram District",
+            "Latitude": 18.1722115,
+            "Longitude": 83.1913807,
+            "District": "Vizianagaram",
+            "Fluoride": 0.05
+        },
+        {
+            "Station": "Pedda Cheruvu, Vizianagaram District",
+            "Latitude": 18.6021665,
+            "Longitude": 83.1862520999999,
+            "District": "Vizianagaram",
+            "Fluoride": 0.71
+        },
+        {
+            "Station": "Koti Cheruvu, Bobbili Town, Vizianagaram\nDistrict",
+            "Latitude": 18.5727886,
+            "Longitude": 83.356381,
+            "District": "Vizianagaram",
+            "Fluoride": 0.79
+        },
+        {
+            "Station": "Water sample collected at River Godavari After Confluence with Sabari Tributary (Kunavaram) at Weddigudem (V), V.R.Puram (M), Alluri Sita Ramaraju District",
+            "Latitude": 17.5644225,
+            "Longitude": 81.2973009,
+            "District": "ASR District",
+            "Fluoride": 0.31
+        },
+        {
+            "Station": "River Sabari at Kunavaram (V), V.R.Puram, Alluri Sita Ramaraju District",
+            "Latitude": 17.5644225,
+            "Longitude": 81.2973009,
+            "District": "ASR District",
+            "Fluoride": 0.743431372549019
+        },
+        {
+            "Station": "Kondakarla-Ava Lake, Kondakarla",
+            "Latitude": 17.5957632,
+            "Longitude": 82.9930964,
+            "District": "Visakhapatnam",
+            "Fluoride": 0.98
+        },
+        {
+            "Station": "Yeleru Canal, Near Pharma City,\nVisakhapatnam",
+            "Latitude": 17.6868159,
+            "Longitude": 83.2184815,
+            "District": "Visakhapatnam",
+            "Fluoride": 0.89
+        },
+        {
+            "Station": "Rushikonda Beach, Rushikonda,\nVisakhapatnam",
+            "Latitude": 17.7825201,
+            "Longitude": 83.3851153999999,
+            "District": "Visakhapatnam",
+            "Fluoride": 1.71
+        },
+        {
+            "Station": "Meghadrigedda Reservoir, Visakhapatnam",
+            "Latitude": 17.781236,
+            "Longitude": 83.1809775999999,
+            "District": "Visakhapatnam",
+            "Fluoride": 0.48
+        },
+        {
+            "Station": "Sea water sample collected at Annavaram (V), Chippada, Bheemunipatnam (M), Visakhapatnam Distrit",
+            "Latitude": 17.9332102,
+            "Longitude": 83.4566857,
+            "District": "Visakhapatnam",
+            "Fluoride": 1.52
+        },
+        {
+            "Station": "Creek water sample collected at Sardar Vallabhai Patel Bridge, Naval Dockyard,\nVisakhapatnam",
+            "Latitude": 17.7110898,
+            "Longitude": 83.2630126,
+            "District": "Visakhapatnam",
+            "Fluoride": 1.91
+        },
+        {
+            "Station": "Sea water sample collected at Dondawaka,\nPayakaraopeta, Triupati",
+            "Latitude": 17.362436,
+            "Longitude": 82.553086,
+            "District": "Anakapalli",
+            "Fluoride": 0.15
+        },
+        {
+            "Station": "Sea water sample collected at Rajanagaram,\nNakkapalli",
+            "Latitude": 17.4072904,
+            "Longitude": 82.7154634,
+            "District": "Anakapalli",
+            "Fluoride": 1.26
+        },
+        {
+            "Station": "Sea water sample collected at Pudimadaka,\nAtchutapuram",
+            "Latitude": 17.4927131,
+            "Longitude": 83.0027674,
+            "District": "Anakapalli",
+            "Fluoride": 1.78
+        },
+        {
+            "Station": "Sea water sample collected at\nTikkavanipalem, Parawada",
+            "Latitude": 17.6217306,
+            "Longitude": 83.0817699,
+            "District": "Anakapalli",
+            "Fluoride": 1.45
+        },
+        {
+            "Station": "D/s of River Godavari at Rajahmundry\n(Dowlaiswaram)",
+            "Latitude": 16.955761,
+            "Longitude": 81.7927436,
+            "District": "East Godavari",
+            "Fluoride": 0.743431372549019
+        },
+        {
+            "Station": "Samalkota Canal Near Samalkota,\nKakinada, Kakinada District",
+            "Latitude": 17.0500453,
+            "Longitude": 82.1679386,
+            "District": "Kakinada District",
+            "Fluoride": 0.84
+        },
+        {
+            "Station": "Teki drain at Tallarevu, East Godavari\nDistrict",
+            "Latitude": 16.7618247293814,
+            "Longitude": 82.0622932494652,
+            "District": "East Godavari",
+            "Fluoride": 0.61
+        },
+        {
+            "Station": "River Godavari at Rajahmundry U/s of  Nalla channel",
+            "Latitude": 17.0005383,
+            "Longitude": 81.8040345,
+            "District": "East Godavari",
+            "Fluoride": 0.26
+        },
+        {
+            "Station": "River Godavari at Rajahmundry D/s of  Nalla channel",
+            "Latitude": 16.9783774,
+            "Longitude": 81.7984752999999,
+            "District": "East Godavari",
+            "Fluoride": 0.11
+        },
+        {
+            "Station": "D/s River Godavari Dowleiswaram after\nconfluence of STP Outlet",
+            "Latitude": 16.955761,
+            "Longitude": 81.7927436,
+            "District": "East Godavari",
+            "Fluoride": 0.22
+        },
+        {
+            "Station": "River Gowthami (Godavari) Govalanka, Injaram (V), Near GMC Balayogi Bridge,\nTallarevu (M), East Godavari District",
+            "Latitude": 16.7306374,
+            "Longitude": 82.1755501,
+            "District": "East Godavari",
+            "Fluoride": 1.33
+        },
+        {
+            "Station": "Sea water Bay of Bengal, Uppada Beach Road, Kakinada, East Godavari District",
+            "Latitude": 16.9913227,
+            "Longitude": 82.277426,
+            "District": "East Godavari",
+            "Fluoride": 1.04
+        },
+        {
+            "Station": "Sea water Bay of Bengal, Near Deep water port, Kakinada, East Godavari District (1Km\naway from jetty)",
+            "Latitude": 16.9710235,
+            "Longitude": 82.274254,
+            "District": "East Godavari",
+            "Fluoride": 0.67
+        },
+        {
+            "Station": "Sea water Bay of Bengal, Near\nKumbhabhishekam Temple, Kakinada, East Godavari District",
+            "Latitude": 16.9577692,
+            "Longitude": 82.2695014999999,
+            "District": "East Godavari",
+            "Fluoride": 1.2
+        },
+        {
+            "Station": "Uppalanka Mudflats, Mahalakshmi Nagar,\nTurangi (V), Kakinada",
+            "Latitude": 16.9353642,
+            "Longitude": 82.2284821,
+            "District": "Kakinada District",
+            "Fluoride": 0.72
+        },
+        {
+            "Station": "P.E.Chinnaiah Palem cheruvu",
+            "Latitude": 17.07899,
+            "Longitude": 81.666949,
+            "District": "East Godavari",
+            "Fluoride": 0.51
+        },
+        {
+            "Station": "Gacchakayala Pora (Lagoon)",
+            "Latitude": 16.5199128813055,
+            "Longitude": 82.1408914149326,
+            "District": "East Godavari",
+            "Fluoride": 1.06
+        },
+        {
+            "Station": "Pampa Reservoir, Annavaram (V&M),\nKakinada",
+            "Latitude": 17.2873006,
+            "Longitude": 82.4075192,
+            "District": "Kakinada District",
+            "Fluoride": 0.38
+        },
+        {
+            "Station": "Yeleswaram Reservoir,Yeleswaram,\nKakinada",
+            "Latitude": 17.3075168,
+            "Longitude": 82.0962312,
+            "District": "Kakinada District",
+            "Fluoride": 0.18
+        },
+        {
+            "Station": "Coolling water blow downs from Andhra Sugars Ltd., Kovvur, Before joining River\nGodavari",
+            "Latitude": 17.0125618,
+            "Longitude": 81.727383,
+            "District": "Kakinada District",
+            "Fluoride": 0.19
+        },
+        {
+            "Station": "Sea water Bay of Bengal, Near Shivalayam,\nAddaripeta (V), Kakinada",
+            "Latitude": 16.9890648,
+            "Longitude": 82.2474648,
+            "District": "Kakinada District",
+            "Fluoride": 1.3
+        },
+        {
+            "Station": "Sea water sample collected at Kakinada Fishing Harbour",
+            "Latitude": 16.9890648,
+            "Longitude": 82.2474648,
+            "District": "Kakinada District",
+            "Fluoride": 1.52
+        },
+        {
+            "Station": "Confluence point of Gowthami Godavari at Bhairavapalem (V), Thallrevu (M), Kakinada\nDistrict",
+            "Latitude": 16.9890648,
+            "Longitude": 82.2474648,
+            "District": "Kakinada Godavari",
+            "Fluoride": 1.47
+        },
+        {
+            "Station": "Sea water sample collected at Tulyabhaga- Sangarasamga, River at Koringa Wildlife Sanctuary, Koringa (V), Kakinada",
+            "Latitude": 16.8212486,
+            "Longitude": 82.2982966,
+            "District": "Kakinada District",
+            "Fluoride": 1.13
+        },
+        {
+            "Station": "Bay of Bengal at Odalarevu (V), Allavaram (M), Dr.B.R.Ambedkar Konaseema District",
+            "Latitude": 16.512902,
+            "Longitude": 81.9882370999999,
+            "District": "Dr. B.R.\nAmbdekar Konaseema District",
+            "Fluoride": 1.41
+        },
+        {
+            "Station": "U/s of River Godavari at Rajahmundry (Kumaradevam)",
+            "Latitude": 17.0660129,
+            "Longitude": 81.7068388,
+            "District": "East Godavari",
+            "Fluoride": 0.54
+        },
+        {
+            "Station": "Sea water Bay of Bengal at Perupalem Beach, Perupalem (V), Mogalturu (M), West Godavari District",
+            "Latitude": 16.4129245,
+            "Longitude": 81.6064007,
+            "District": "West Godavari",
+            "Fluoride": 0.17
+        },
+        {
+            "Station": "River Godavari at Polavaram",
+            "Latitude": 17.2475104,
+            "Longitude": 81.6426999,
+            "District": "West Godavari",
+            "Fluoride": 0.32
+        },
+        {
+            "Station": "River Vasista Godavari U/s of Narasapuram Town, Before confluence of Town Sewage",
+            "Latitude": 16.4393431,
+            "Longitude": 81.7014331,
+            "District": "West Godavari",
+            "Fluoride": 1.47
+        },
+        {
+            "Station": "River Vasista Godavari D/s of Narasapuram Town, After confluence of Town Sewage",
+            "Latitude": 16.4393431,
+            "Longitude": 81.7014331,
+            "District": "West Godavari",
+            "Fluoride": 0.94
+        },
+        {
+            "Station": "Sea water, Bay of Bengal, After confluence of River Vasista Godavari at Chinnamainavanilanka (V) , Narasapuram\n(M), West Godavari District.",
+            "Latitude": 16.4393431,
+            "Longitude": 81.7014331,
+            "District": "West Godavari",
+            "Fluoride": 1.86
+        },
+        {
+            "Station": "Gosthani River sample before confluence with M/s Delta Paper Mill effluents, Vendra\n(V), Palakoderu (M)",
+            "Latitude": 16.5861566,
+            "Longitude": 81.5479871,
+            "District": "West Godavari",
+            "Fluoride": 0.7
+        },
+        {
+            "Station": "Gosthani River sample after confluence with M/s Delta Paper Mill effluents, Vendra (V), Palakoderu (M) but before confluence with\nYanamadurru drain",
+            "Latitude": 16.4889675,
+            "Longitude": 81.5287857,
+            "District": "West Godavari",
+            "Fluoride": 0.65
+        },
+        {
+            "Station": "Gostha Nadi-Velpuru Canal at Hanuman Temple D/s of Tanuku Town, Attili (M)",
+            "Latitude": 16.6870295,
+            "Longitude": 81.6078635,
+            "District": "West Godavari",
+            "Fluoride": 0.16
+        },
+        {
+            "Station": "Yerrakaluva Reservoir, Konguvarigudem (V), Jangareddygudem (M), West Godvari\nDistrict",
+            "Latitude": 17.1205268,
+            "Longitude": 81.2983022,
+            "District": "West Godavari",
+            "Fluoride": 0.1
+        },
+        {
+            "Station": "Inlet of STP at Rajahmundry",
+            "Latitude": 17.0005383,
+            "Longitude": 81.8040345,
+            "District": "East Godavari",
+            "Fluoride": 0.743431372549019
+        },
+        {
+            "Station": "Outlet of STP at Rajahmundry",
+            "Latitude": 17.0005383,
+            "Longitude": 81.8040345,
+            "District": "East Godavari",
+            "Fluoride": 0.56
+        },
+        {
+            "Station": "Upstream of river Krishna at Prakasam\nbarrage",
+            "Latitude": 16.5020777,
+            "Longitude": 80.603335,
+            "District": "NTR",
+            "Fluoride": 0.8
+        },
+        {
+            "Station": "Upstream of Pennar river at Somasila",
+            "Latitude": 14.499339,
+            "Longitude": 79.3063471,
+            "District": "Nellore",
+            "Fluoride": 0.67
+        },
+        {
+            "Station": "Puligadda aqueduct near Avanigadda (V)",
+            "Latitude": 16.0463213,
+            "Longitude": 80.9065536999999,
+            "District": "Krishna",
+            "Fluoride": 0.83
+        },
+        {
+            "Station": "River Krishna at Amaravathi",
+            "Latitude": 16.5130887,
+            "Longitude": 80.5164523,
+            "District": "Guntur",
+            "Fluoride": 0.72
+        },
+        {
+            "Station": "Downstream of Krishna river at Vedadri",
+            "Latitude": 16.7992648,
+            "Longitude": 80.1484407,
+            "District": "NTR",
+            "Fluoride": 0.92
+        },
+        {
+            "Station": "Budameru canal near BDG at NH-5, Keesarapalli",
+            "Latitude": 16.522853,
+            "Longitude": 80.779208,
+            "District": "Krishna",
+            "Fluoride": 0.74
+        },
+        {
+            "Station": "Guntatippa drain B/C with Ryves canal at Enikepadu, Vijayawada",
+            "Latitude": 16.5061743,
+            "Longitude": 80.6480153,
+            "District": "Krishna",
+            "Fluoride": 0.83
+        },
+        {
+            "Station": "Downstream of Paleru river at Jaggaiahpet",
+            "Latitude": 16.8812247,
+            "Longitude": 80.0287881,
+            "District": "NTR",
+            "Fluoride": 0.86
+        },
+        {
+            "Station": "Pavitra Sangamam at Ibrahimpatnam",
+            "Latitude": 16.5888124,
+            "Longitude": 80.5210891999999,
+            "District": "NTR",
+            "Fluoride": 0.78
+        },
+        {
+            "Station": "River Krishna after confluence with River\nMusi at Vadapalli (V)",
+            "Latitude": 16.7050207,
+            "Longitude": 79.653016,
+            "District": "Palnadu",
+            "Fluoride": 0.62
+        },
+        {
+            "Station": "Sea Water Bay of Bengal Fishing Harbor,\nNizampatnam",
+            "Latitude": 15.9069453,
+            "Longitude": 80.6690697,
+            "District": "Bapatla",
+            "Fluoride": 0.743431372549019
+        },
+        {
+            "Station": "Sea Water, Bay of Bengal. Kothapatnam\nBeach",
+            "Latitude": 15.446762,
+            "Longitude": 80.1659792999999,
+            "District": "Prakasam",
+            "Fluoride": 0.743431372549019
+        },
+        {
+            "Station": "Sea Water Bay of Bengal, Vadarevu Beach,\nChirala",
+            "Latitude": 15.8166616,
+            "Longitude": 80.35869,
+            "District": "Bapatla",
+            "Fluoride": 0.743431372549019
+        },
+        {
+            "Station": "Anumalapalle Cheruvu, Anumalapalle (V),\nRacherla (M)",
+            "Latitude": 15.4619524,
+            "Longitude": 78.9648055,
+            "District": "Prakasam",
+            "Fluoride": 0.68
+        },
+        {
+            "Station": "Krishnapatnam Port",
+            "Latitude": 14.2545822,
+            "Longitude": 80.109357,
+            "District": "Nellore",
+            "Fluoride": 0.743431372549019
+        },
+        {
+            "Station": "Sea Water Bay of Bengal Manginapudi\nBeach, Machilipatnam",
+            "Latitude": 16.1808917,
+            "Longitude": 81.1302716,
+            "District": "Krishna",
+            "Fluoride": 0.743431372549019
+        },
+        {
+            "Station": "Uppalapadu Tank",
+            "Latitude": 16.3048631,
+            "Longitude": 80.5146713,
+            "District": "Guntur",
+            "Fluoride": 0.78
+        },
+        {
+            "Station": "Interu Swamps",
+            "Latitude": 16.340606267409,
+            "Longitude": 81.3250238508365,
+            "District": "Krishna",
+            "Fluoride": 0.91
+        },
+        {
+            "Station": "Budampadu Cheruvu, Budampadu (V)",
+            "Latitude": 16.2600092,
+            "Longitude": 80.4722817,
+            "District": "Guntur",
+            "Fluoride": 0.73
+        },
+        {
+            "Station": "Pampula Cheruvu",
+            "Latitude": 16.1872330503148,
+            "Longitude": 81.1231488309409,
+            "District": "Krishna",
+            "Fluoride": 0.69
+        },
+        {
+            "Station": "Cumbum Cheruvu, Cumbum (V & M),\nPrakasam District",
+            "Latitude": 15.5907554,
+            "Longitude": 79.0902057,
+            "District": "Prakasam",
+            "Fluoride": 0.59
+        },
+        {
+            "Station": "Nellore Swarnala Cheruvu(Nellore Tank, Near Barashahid Dargha, Nellore",
+            "Latitude": 14.4423409,
+            "Longitude": 79.9622566,
+            "District": "Nellore",
+            "Fluoride": 0.77
+        },
+        {
+            "Station": "Kanigiri Reservoir, Vavveru (V), Buchireddypalem (M)",
+            "Latitude": 14.5603161,
+            "Longitude": 79.873164,
+            "District": "Nellore",
+            "Fluoride": 0.87
+        },
+        {
+            "Station": "Sea water, Pakala Beach, Pakala (V),\nSingarayakonda (M)",
+            "Latitude": 15.2578742,
+            "Longitude": 80.0248857,
+            "District": "Prakasam",
+            "Fluoride": 0.743431372549019
+        },
+        {
+            "Station": "Sea Water, Bay of Bengal, Surya Lanka\nBeach",
+            "Latitude": 13.531665,
+            "Longitude": 87.5395855,
+            "District": "Bapatla",
+            "Fluoride": 0.743431372549019
+        },
+        {
+            "Station": "Mypadu Beach",
+            "Latitude": 14.5066232,
+            "Longitude": 80.178788,
+            "District": "Nellore",
+            "Fluoride": 0.743431372549019
+        },
+        {
+            "Station": "Upputeru before confluence with sea at\nChinnagollapalem",
+            "Latitude": 16.3580011,
+            "Longitude": 81.521241,
+            "District": "Krishna",
+            "Fluoride": 0.743431372549019
+        },
+        {
+            "Station": "River Thungabhadra at Bavapuram",
+            "Latitude": 15.8486633,
+            "Longitude": 77.9453091,
+            "District": "Kurnool",
+            "Fluoride": 0.68
+        },
+        {
+            "Station": "River Krishna at  Sangameshwaram",
+            "Latitude": 15.9997326,
+            "Longitude": 78.3785343,
+            "District": "Nandyal",
+            "Fluoride": 0.79
+        },
+        {
+            "Station": "River Pennar at Pushpagiri",
+            "Latitude": 12.6674335379009,
+            "Longitude": 75.6718258979297,
+            "District": "Kadapa",
+            "Fluoride": 0.72
+        },
+        {
+            "Station": "Pulicat lake between Sullurpet & SHAR\ncentre",
+            "Latitude": 13.7008756,
+            "Longitude": 80.0209065,
+            "District": "Tirupati",
+            "Fluoride": 0.83
+        },
+        {
+            "Station": "River Krishna D/s. of  Srisailam (Pathalaganga)",
+            "Latitude": 16.0767681,
+            "Longitude": 78.875583,
+            "District": "Nandyal",
+            "Fluoride": 0.79
+        },
+        {
+            "Station": "River Tungabhadra near Sivalayam Temple at Gondiparla (V)",
+            "Latitude": 15.844125,
+            "Longitude": 78.0708985,
+            "District": "Kurnool",
+            "Fluoride": 0.72
+        },
+        {
+            "Station": "River Tungabhadra at Padidempadu (V), Kurnool (M)",
+            "Latitude": 15.8115091,
+            "Longitude": 78.0944301,
+            "District": "Kurnool",
+            "Fluoride": 0.78
+        },
+        {
+            "Station": "Papavinasanam Reservoir, Tirumala",
+            "Latitude": 13.6989553,
+            "Longitude": 79.3505251,
+            "District": "Tirupati",
+            "Fluoride": 0.38
+        },
+        {
+            "Station": "Chengambakam tank, Sricity SEZ",
+            "Latitude": 13.5499373,
+            "Longitude": 80.0021349,
+            "District": "Tirupati",
+            "Fluoride": 0.72
+        },
+        {
+            "Station": "Pathakotha Cheruvu, Pathakotha (V),\nGuntakal (M)",
+            "Latitude": 15.1590097,
+            "Longitude": 77.5117542999999,
+            "District": "Anantapur",
+            "Fluoride": 0.68
+        },
+        {
+            "Station": "Mid Pennar Reservoir, Penakacherla (V),\nGarladinne (M)",
+            "Latitude": 14.819586,
+            "Longitude": 77.5954558,
+            "District": "Anantapur",
+            "Fluoride": 0.71
+        },
+        {
+            "Station": "Kattamanchi Cheruvu, near new RTC Bus\nStand",
+            "Latitude": 13.2245558,
+            "Longitude": 79.1082784,
+            "District": "Chittoor",
+            "Fluoride": 0.72
+        },
+        {
+            "Station": "Bramha Sagar, wet land, Kadapa.",
+            "Latitude": 14.4673154,
+            "Longitude": 78.8242089,
+            "District": "Kadapa",
+            "Fluoride": 0.63
+        },
+        {
+            "Station": "Sangameshwaram back water, lift irrigation scheme, Muchumarri (V)",
+            "Latitude": 16.0232497,
+            "Longitude": 78.3301422999999,
+            "District": "Nandyal",
+            "Fluoride": 0.74
+        },
+        {
+            "Station": "Devuni kadapa cheruvu pathakadapa",
+            "Latitude": 14.4900219,
+            "Longitude": 78.8329555,
+            "District": "Kadapa",
+            "Fluoride": 0.72
+        },
+        {
+            "Station": "Palasamudram lake, palasamudram(V)\n,Penukonda( M)",
+            "Latitude": 13.9627732,
+            "Longitude": 77.6750869,
+            "District": "Sri Satya Sai",
+            "Fluoride": 0.7
+        },
+        {
+            "Station": "Singanamala cheruvu, singanamala (M)",
+            "Latitude": 14.7797121,
+            "Longitude": 77.741911,
+            "District": "Anantapur",
+            "Fluoride": 0.7
+        },
+        {
+            "Station": "NTR jalasyam, kalvagunta(V)",
+            "Latitude": 13.2832146,
+            "Longitude": 79.1329801,
+            "District": "Chittoor",
+            "Fluoride": 0.67
+        },
+        {
+            "Station": "Gajuladinne Reservoir, Gajuladinne(v) Gonegandla (M)",
+            "Latitude": 15.6933813,
+            "Longitude": 77.619379,
+            "District": "Kurnool",
+            "Fluoride": 0.56
+        },
+        {
+            "Station": "Gargeyapuram lake, Gargeyapuram (V&M)",
+            "Latitude": 15.7912799,
+            "Longitude": 78.1155265,
+            "District": "Kurnool",
+            "Fluoride": 0.7
+        },
+        {
+            "Station": "Kotnur Cheruvu, Hindupuram, Satya Sai District",
+            "Latitude": 13.8426597,
+            "Longitude": 77.5102236,
+            "District": "Sri Satya Sai",
+            "Fluoride": 0.75
+        },
+        {
+            "Station": "Kothacheruvu, Puttaparthy, Satya Sai District",
+            "Latitude": 14.1883776,
+            "Longitude": 77.7652346,
+            "District": "Sri Satya Sai",
+            "Fluoride": 0.73
+        },
+        {
+            "Station": "Thondamanadu Lake, Sri Kalahasthi Mandal,",
+            "Latitude": 13.7054172,
+            "Longitude": 79.6645949,
+            "District": "Tirupati",
+            "Fluoride": 0.72
+        },
+        {
+            "Station": "Kuppam",
+            "Latitude": 12.745460434133191,
+            "Longitude": 78.3427901695627,
+            "District": "Chittoor",
+            "Fluoride": 0.7144533860256124
+        },
+        {
+            "Station": "Madakasira",
+            "Latitude": 13.940948234701546,
+            "Longitude": 77.27376673034313,
+            "District": "Anantapur",
+            "Fluoride": 0.7098544778253066
+        },
+        {
+            "Station": "Hindupur",
+            "Latitude": 13.832145196065307,
+            "Longitude": 77.49296899426034,
+            "District": "Anantapur",
+            "Fluoride": 0.7444014766014563
+        },
+        {
+            "Station": "Sullurpeta",
+            "Latitude": 13.695777785020645,
+            "Longitude": 80.01401684850512,
+            "District": "Sri Potti Sriramulu Nell*",
+            "Fluoride": 0.5810120909511518
+        },
+        {
+            "Station": "Venkatagiri",
+            "Latitude": 13.960977715073783,
+            "Longitude": 79.5781133058801,
+            "District": "Sri Potti Sriramulu Nell*",
+            "Fluoride": 0.70097317491473
+        },
+        {
+            "Station": "Srikalahasti",
+            "Latitude": 13.754844198280603,
+            "Longitude": 79.70362033704274,
+            "District": "Chittoor",
+            "Fluoride": 0.6485965483492535
+        },
+        {
+            "Station": "Chandragiri",
+            "Latitude": 13.59033549334765,
+            "Longitude": 79.31726108141274,
+            "District": "Chittoor",
+            "Fluoride": 0.6664595634934241
+        },
+        {
+            "Station": "Satyavedu",
+            "Latitude": 13.436932067222699,
+            "Longitude": 79.95602656347957,
+            "District": "Chittoor",
+            "Fluoride": 0.7169922039417095
+        },
+        {
+            "Station": "Puttur",
+            "Latitude": 13.440392813939694,
+            "Longitude": 79.55210692209798,
+            "District": "Chittoor",
+            "Fluoride": 0.7176786353372262
+        },
+        {
+            "Station": "Valmikipuram",
+            "Latitude": 13.637444041120435,
+            "Longitude": 78.63108827595273,
+            "District": "Chittoor",
+            "Fluoride": 0.638832123215039
+        },
+        {
+            "Station": "Madanapalle",
+            "Latitude": 13.551433321037965,
+            "Longitude": 78.50699928846669,
+            "District": "Chittoor",
+            "Fluoride": 0.71845767320716
+        },
+        {
+            "Station": "Punganur",
+            "Latitude": 13.361515679634937,
+            "Longitude": 78.57029949357707,
+            "District": "Chittoor",
+            "Fluoride": 0.7006991958724857
+        },
+        {
+            "Station": "Palamaner",
+            "Latitude": 13.200670341413572,
+            "Longitude": 78.7455229442145,
+            "District": "Chittoor",
+            "Fluoride": 0.7106153941760661
+        },
+        {
+            "Station": "Kavali",
+            "Latitude": 14.918008660468196,
+            "Longitude": 79.99448246252739,
+            "District": "Sri Potti Sriramulu Nell*",
+            "Fluoride": 0.7008642665698623
+        },
+        {
+            "Station": "Udayagiri",
+            "Latitude": 14.878059982036028,
+            "Longitude": 79.30045374797392,
+            "District": "Sri Potti Sriramulu Nell*",
+            "Fluoride": 0.7032381976559539
+        },
+        {
+            "Station": "Badvel",
+            "Latitude": 14.747762470751153,
+            "Longitude": 79.0631298084577,
+            "District": "Y.S.R.",
+            "Fluoride": 0.7206927046182114
+        },
+        {
+            "Station": "Atmakur",
+            "Latitude": 14.615836801634169,
+            "Longitude": 79.62512975342851,
+            "District": "Sri Potti Sriramulu Nell*",
+            "Fluoride": 0.7895647308704133
+        },
+        {
+            "Station": "Bogole",
+            "Latitude": 14.77682592340717,
+            "Longitude": 80.00052692873184,
+            "District": "Sri Potti Sriramulu Nell*",
+            "Fluoride": 0.7027212198851622
+        },
+        {
+            "Station": "Rapur",
+            "Latitude": 14.201807053171498,
+            "Longitude": 79.53508131062154,
+            "District": "Sri Potti Sriramulu Nell*",
+            "Fluoride": 0.7313217350643766
+        },
+        {
+            "Station": "Rajampet",
+            "Latitude": 14.195546089197604,
+            "Longitude": 79.15959466850582,
+            "District": "Y.S.R.",
+            "Fluoride": 0.7306136111666942
+        },
+        {
+            "Station": "Gudur",
+            "Latitude": 14.147429412313352,
+            "Longitude": 79.84948075990572,
+            "District": "Sri Potti Sriramulu Nell*",
+            "Fluoride": 0.7290523625278285
+        },
+        {
+            "Station": "Jammalamadugu",
+            "Latitude": 14.846646490421659,
+            "Longitude": 78.38248137070381,
+            "District": "Y.S.R.",
+            "Fluoride": 0.717391673229442
+        },
+        {
+            "Station": "Tadpatri",
+            "Latitude": 14.911233597191409,
+            "Longitude": 78.01206867472253,
+            "District": "Anantapur",
+            "Fluoride": 0.7012592504440232
+        },
+        {
+            "Station": "Proddatur",
+            "Latitude": 14.7532722166661,
+            "Longitude": 78.55245756862894,
+            "District": "Y.S.R.",
+            "Fluoride": 0.7177645353014214
+        },
+        {
+            "Station": "Sidhout",
+            "Latitude": 14.46826653719686,
+            "Longitude": 78.97085218908664,
+            "District": "Y.S.R.",
+            "Fluoride": 0.6383958835916137
+        },
+        {
+            "Station": "Kamalapuram",
+            "Latitude": 14.600028340350397,
+            "Longitude": 78.66893696956403,
+            "District": "Y.S.R.",
+            "Fluoride": 0.7970743345027369
+        },
+        {
+            "Station": "Kadiri",
+            "Latitude": 14.113817247103327,
+            "Longitude": 78.15994831720644,
+            "District": "Anantapur",
+            "Fluoride": 0.7261969233008303
+        },
+        {
+            "Station": "Rayachoti",
+            "Latitude": 14.058402128220635,
+            "Longitude": 78.75214071343669,
+            "District": "Y.S.R.",
+            "Fluoride": 0.7194507838697045
+        },
+        {
+            "Station": "Rayadurg",
+            "Latitude": 14.700267227322488,
+            "Longitude": 76.85128812066876,
+            "District": "Anantapur",
+            "Fluoride": 0.7461885849785579
+        },
+        {
+            "Station": "Kalyandurg",
+            "Latitude": 14.54921460914176,
+            "Longitude": 77.10979490142145,
+            "District": "Anantapur",
+            "Fluoride": 0.8177445581604396
+        },
+        {
+            "Station": "Dharmavaram",
+            "Latitude": 14.419185543798749,
+            "Longitude": 77.71999318041057,
+            "District": "Anantapur",
+            "Fluoride": 0.7237062746678572
+        },
+        {
+            "Station": "Penukonda",
+            "Latitude": 14.083761550727521,
+            "Longitude": 77.59541030546951,
+            "District": "Anantapur",
+            "Fluoride": 0.7228486136808546
+        },
+        {
+            "Station": "Bapatla",
+            "Latitude": 15.904686564536886,
+            "Longitude": 80.47113008480706,
+            "District": "Guntur",
+            "Fluoride": 0.7402471800210301
+        },
+        {
+            "Station": "Nandikotkur",
+            "Latitude": 15.857038658323102,
+            "Longitude": 78.26462190596405,
+            "District": "Kurnool",
+            "Fluoride": 0.7010669449092982
+        },
+        {
+            "Station": "Nandyal",
+            "Latitude": 15.485821943377434,
+            "Longitude": 78.48626262965202,
+            "District": "Kurnool",
+            "Fluoride": 0.6899482035199174
+        },
+        {
+            "Station": "Banaganapalle",
+            "Latitude": 15.317450991578054,
+            "Longitude": 78.22653277916524,
+            "District": "Kurnool",
+            "Fluoride": 0.7294688063805637
+        },
+        {
+            "Station": "Koilkuntla",
+            "Latitude": 15.230696005551248,
+            "Longitude": 78.31793454472755,
+            "District": "Kurnool",
+            "Fluoride": 0.7274512990670925
+        },
+        {
+            "Station": "Allagadda",
+            "Latitude": 15.1318220352813,
+            "Longitude": 78.51449723598739,
+            "District": "Kurnool",
+            "Fluoride": 0.6925068668674053
+        },
+        {
+            "Station": "Adoni",
+            "Latitude": 15.625437233747238,
+            "Longitude": 77.27531236982435,
+            "District": "Kurnool",
+            "Fluoride": 0.5921940646417668
+        },
+        {
+            "Station": "Dhone",
+            "Latitude": 15.393894133718113,
+            "Longitude": 77.87131338570401,
+            "District": "Kurnool",
+            "Fluoride": 0.7206772594698511
+        },
+        {
+            "Station": "Pattikonda",
+            "Latitude": 15.395774400217519,
+            "Longitude": 77.50320419469004,
+            "District": "Kurnool",
+            "Fluoride": 0.720596478732518
+        },
+        {
+            "Station": "Alur",
+            "Latitude": 15.393135507630777,
+            "Longitude": 77.22696346199477,
+            "District": "Kurnool",
+            "Fluoride": 0.7207127127374569
+        },
+        {
+            "Station": "Gooty",
+            "Latitude": 15.118648571732678,
+            "Longitude": 77.63720861560229,
+            "District": "Anantapur",
+            "Fluoride": 0.6957470736928301
+        },
+        {
+            "Station": "Ramachandrapuram",
+            "Latitude": 16.837404018880267,
+            "Longitude": 82.02848371322015,
+            "District": "East Godavari",
+            "Fluoride": 1.024828358203532
+        },
+        {
+            "Station": "Amalapuram",
+            "Latitude": 16.57770982301324,
+            "Longitude": 82.00559412145286,
+            "District": "East Godavari",
+            "Fluoride": 0.735002942005635
+        },
+        {
+            "Station": "Rajahmundry Rural",
+            "Latitude": 17.017683432963295,
+            "Longitude": 81.77419473742371,
+            "District": "East Godavari",
+            "Fluoride": 0.3065817636794787
+        },
+        {
+            "Station": "Kovvur",
+            "Latitude": 17.019925524246407,
+            "Longitude": 81.72760075587532,
+            "District": "West Godavari",
+            "Fluoride": 0.3245690251218237
+        },
+        {
+            "Station": "Kothapeta",
+            "Latitude": 16.718312218366805,
+            "Longitude": 81.89423741642607,
+            "District": "East Godavari",
+            "Fluoride": 0.847788099238456
+        },
+        {
+            "Station": "Tanuku",
+            "Latitude": 16.754293753334533,
+            "Longitude": 81.68950586997725,
+            "District": "West Godavari",
+            "Fluoride": 0.7992063006624726
+        },
+        {
+            "Station": "Tadepalligudem",
+            "Latitude": 16.81185636944956,
+            "Longitude": 81.52850775300523,
+            "District": "West Godavari",
+            "Fluoride": 0.998507230760765
+        },
+        {
+            "Station": "Kaikalur",
+            "Latitude": 16.550684080324547,
+            "Longitude": 81.21033430065113,
+            "District": "Krishna",
+            "Fluoride": 0.8359607970556684
+        },
+        {
+            "Station": "Gudivada",
+            "Latitude": 16.435978989529065,
+            "Longitude": 80.99481229701065,
+            "District": "Krishna",
+            "Fluoride": 1.4233333333333333
+        },
+        {
+            "Station": "Bhimavaram",
+            "Latitude": 16.542531706961885,
+            "Longitude": 81.52228614711157,
+            "District": "West Godavari",
+            "Fluoride": 0.8444119684739124
+        },
+        {
+            "Station": "Razole",
+            "Latitude": 16.474860467797484,
+            "Longitude": 81.84101288083235,
+            "District": "East Godavari",
+            "Fluoride": 0.7306767000121545
+        },
+        {
+            "Station": "Narasapuram",
+            "Latitude": 16.438559492145263,
+            "Longitude": 81.70197095035188,
+            "District": "West Godavari",
+            "Fluoride": 1.4233333333333333
+        },
+        {
+            "Station": "Jaggayyapeta",
+            "Latitude": 16.89029655827072,
+            "Longitude": 80.09592868833674,
+            "District": "Krishna",
+            "Fluoride": 0.8269111344307032
+        },
+        {
+            "Station": "Nuzvid",
+            "Latitude": 16.790158352993963,
+            "Longitude": 80.84752347648913,
+            "District": "Krishna",
+            "Fluoride": 0.8963832051138118
+        },
+        {
+            "Station": "Nandigama",
+            "Latitude": 16.77311737564913,
+            "Longitude": 80.28629904081487,
+            "District": "Krishna",
+            "Fluoride": 0.8016012594778206
+        },
+        {
+            "Station": "Gannavaram",
+            "Latitude": 16.541338929296895,
+            "Longitude": 80.80300412983489,
+            "District": "Krishna",
+            "Fluoride": 0.844484272094973
+        },
+        {
+            "Station": "Pedana",
+            "Latitude": 16.257055530257116,
+            "Longitude": 81.14684136648809,
+            "District": "Krishna",
+            "Fluoride": 0.7312653089706849
+        },
+        {
+            "Station": "Vijayawada (Rural)",
+            "Latitude": 16.516385362317717,
+            "Longitude": 80.63090966045235,
+            "District": "Krishna",
+            "Fluoride": 1.0569596320450028
+        },
+        {
+            "Station": "Sattenapalle",
+            "Latitude": 16.3968065848257,
+            "Longitude": 80.14916094944192,
+            "District": "Guntur",
+            "Fluoride": 0.5772799946318085
+        },
+        {
+            "Station": "Narasaraopet",
+            "Latitude": 16.235510563157906,
+            "Longitude": 80.04974549109642,
+            "District": "Guntur",
+            "Fluoride": 0.7227025702452038
+        },
+        {
+            "Station": "Tenali",
+            "Latitude": 16.2402890252501,
+            "Longitude": 80.64542913398283,
+            "District": "Guntur",
+            "Fluoride": 0.7238907966035644
+        },
+        {
+            "Station": "Repalle",
+            "Latitude": 16.018805373421436,
+            "Longitude": 80.83237882672486,
+            "District": "Guntur",
+            "Fluoride": 0.7587787074586547
+        },
+        {
+            "Station": "Avanigadda",
+            "Latitude": 16.022997173900556,
+            "Longitude": 80.91525221784674,
+            "District": "Krishna",
+            "Fluoride": 0.7414849443649312
+        },
+        {
+            "Station": "Gurazala",
+            "Latitude": 16.556249719759947,
+            "Longitude": 79.63412018352183,
+            "District": "Guntur",
+            "Fluoride": 0.7388406354935892
+        },
+        {
+            "Station": "Vinukonda",
+            "Latitude": 16.051217360645026,
+            "Longitude": 79.74027539961014,
+            "District": "Guntur",
+            "Fluoride": 0.8128633316768783
+        },
+        {
+            "Station": "Chintalapudi",
+            "Latitude": 17.06953848715323,
+            "Longitude": 80.98187438209803,
+            "District": "West Godavari",
+            "Fluoride": 0.567716580519201
+        },
+        {
+            "Station": "Addateegala",
+            "Latitude": 17.478527351595698,
+            "Longitude": 82.0229350649502,
+            "District": "East Godavari",
+            "Fluoride": 1.5261509497087689
+        },
+        {
+            "Station": "Polavaram",
+            "Latitude": 17.247286505436577,
+            "Longitude": 81.64041636497629,
+            "District": "West Godavari",
+            "Fluoride": 0.3198170054682847
+        },
+        {
+            "Station": "Prathipadu",
+            "Latitude": 17.228846554724818,
+            "Longitude": 82.19027748151402,
+            "District": "East Godavari",
+            "Fluoride": 0.3109694758659655
+        },
+        {
+            "Station": "Tuni",
+            "Latitude": 17.35625849638052,
+            "Longitude": 82.54295477836679,
+            "District": "East Godavari",
+            "Fluoride": 0.26073115472947145
+        },
+        {
+            "Station": "Pithapuram",
+            "Latitude": 17.11799271527202,
+            "Longitude": 82.25334844554705,
+            "District": "East Godavari",
+            "Fluoride": 0.14317877210868937
+        },
+        {
+            "Station": "Peddapuram",
+            "Latitude": 17.076543339945864,
+            "Longitude": 82.13857513398271,
+            "District": "East Godavari",
+            "Fluoride": 0.5382638214061173
+        },
+        {
+            "Station": "Ichchapuram",
+            "Latitude": 19.114151740309936,
+            "Longitude": 84.68572613493873,
+            "District": "Srikakulam",
+            "Fluoride": 0.25140755042183105
+        },
+        {
+            "Station": "Sompeta",
+            "Latitude": 18.942468057796678,
+            "Longitude": 84.58464704160282,
+            "District": "Srikakulam",
+            "Fluoride": 0.22722313000452224
+        },
+        {
+            "Station": "Pathapatnam",
+            "Latitude": 18.748191867649567,
+            "Longitude": 84.0873064069532,
+            "District": "Srikakulam",
+            "Fluoride": 0.6600084608721751
+        },
+        {
+            "Station": "Tekkali",
+            "Latitude": 18.60911035727133,
+            "Longitude": 84.23655520499929,
+            "District": "Srikakulam",
+            "Fluoride": 0.46062603995360546
+        },
+        {
+            "Station": "Narasannapeta",
+            "Latitude": 18.41686239738146,
+            "Longitude": 84.04659389230096,
+            "District": "Srikakulam",
+            "Fluoride": 0.4245859665469979
+        },
+        {
+            "Station": "Parvathipuram",
+            "Latitude": 18.78362403235892,
+            "Longitude": 83.42414449007833,
+            "District": "Vizianagaram",
+            "Fluoride": 0.5531998817835575
+        },
+        {
+            "Station": "Bobbili",
+            "Latitude": 18.575344815419847,
+            "Longitude": 83.3581302633905,
+            "District": "Vizianagaram",
+            "Fluoride": 0.7552055533326661
+        },
+        {
+            "Station": "Palakonda",
+            "Latitude": 18.602638070956303,
+            "Longitude": 83.75719590933832,
+            "District": "Srikakulam",
+            "Fluoride": 0.6923101810785337
+        },
+        {
+            "Station": "Salur",
+            "Latitude": 18.5178454409123,
+            "Longitude": 83.20559519986303,
+            "District": "Vizianagaram",
+            "Fluoride": 0.6438247022099418
+        },
+        {
+            "Station": "Gajapathinagaram",
+            "Latitude": 18.27906357107501,
+            "Longitude": 83.33860946173652,
+            "District": "Vizianagaram",
+            "Fluoride": 0.36953326153096183
+        },
+        {
+            "Station": "Srungavarapukota",
+            "Latitude": 18.11260408471103,
+            "Longitude": 83.14185279995235,
+            "District": "Vizianagaram",
+            "Fluoride": 0.9090547169784267
+        },
+        {
+            "Station": "Chirala",
+            "Latitude": 15.825650143850721,
+            "Longitude": 80.35642436787461,
+            "District": "Prakasam",
+            "Fluoride": 0.7490126083726416
+        },
+        {
+            "Station": "Addanki",
+            "Latitude": 15.809353177786729,
+            "Longitude": 79.97032047902536,
+            "District": "Prakasam",
+            "Fluoride": 0.7656248580097438
+        },
+        {
+            "Station": "Darsi",
+            "Latitude": 15.771698099893547,
+            "Longitude": 79.68080240927557,
+            "District": "Prakasam",
+            "Fluoride": 0.7302297665446723
+        },
+        {
+            "Station": "Markapur",
+            "Latitude": 15.740531770059158,
+            "Longitude": 79.27207431974004,
+            "District": "Prakasam",
+            "Fluoride": 0.6665088580427541
+        },
+        {
+            "Station": "Podili",
+            "Latitude": 15.605240492670239,
+            "Longitude": 79.61407351977861,
+            "District": "Prakasam",
+            "Fluoride": 0.5932937614738107
+        },
+        {
+            "Station": "Kandukur",
+            "Latitude": 15.214732701249488,
+            "Longitude": 79.90729741316326,
+            "District": "Prakasam",
+            "Fluoride": 0.7183773076579029
+        },
+        {
+            "Station": "Giddalur",
+            "Latitude": 15.376189539536464,
+            "Longitude": 78.92248844198689,
+            "District": "Prakasam",
+            "Fluoride": 0.7218569540312674
+        },
+        {
+            "Station": "Chodavaram",
+            "Latitude": 17.82932680133162,
+            "Longitude": 82.93868570460512,
+            "District": "Visakhapatnam",
+            "Fluoride": 1.180777080764236
+        },
+        {
+            "Station": "Chintapalle",
+            "Latitude": 17.868880968542378,
+            "Longitude": 82.35333720152035,
+            "District": "Visakhapatnam",
+            "Fluoride": 1.2691563251856997
+        },
+        {
+            "Station": "Anakapalle",
+            "Latitude": 17.685235207008137,
+            "Longitude": 83.01287153532667,
+            "District": "Visakhapatnam",
+            "Fluoride": 0.9602554898483867
+        },
+        {
+            "Station": "Narsipatnam",
+            "Latitude": 17.665588485608698,
+            "Longitude": 82.61226528136154,
+            "District": "Visakhapatnam",
+            "Fluoride": 1.2729199864640253
+        },
+        {
+            "Station": "Yelamanchili",
+            "Latitude": 17.54817689513983,
+            "Longitude": 82.85707803792194,
+            "District": "Visakhapatnam",
+            "Fluoride": 0.5928078232639372
+        },
+        {
+            "Station": "Bheemunipatnam",
+            "Latitude": 17.89004147398593,
+            "Longitude": 83.4509183351504,
+            "District": "Visakhapatnam",
+            "Fluoride": 1.332961739676364
+        },
+        {
+            "Station": "Paderu",
+            "Latitude": 18.08008240324318,
+            "Longitude": 82.66902307152908,
+            "District": "Visakhapatnam",
+            "Fluoride": 1.1141787306141182
+        },
+        {
+            "Station": "Vijayapuram",
+            "Latitude": 13.268401581776658,
+            "Longitude": 79.69796690209152,
+            "District": "Chittoor",
+            "Fluoride": 0.6850805350004371
+        },
+        {
+            "Station": "Ramakuppam",
+            "Latitude": 12.898157166431965,
+            "Longitude": 78.48632319586511,
+            "District": "Chittoor",
+            "Fluoride": 0.707008496514609
+        },
+        {
+            "Station": "Venkatagirikota",
+            "Latitude": 13.002346879345504,
+            "Longitude": 78.48906891719228,
+            "District": "Chittoor",
+            "Fluoride": 0.7038846457864323
+        },
+        {
+            "Station": "Rolla",
+            "Latitude": 13.841712314654467,
+            "Longitude": 77.10174101711414,
+            "District": "Anantapur",
+            "Fluoride": 0.7494089207259855
+        },
+        {
+            "Station": "Lepakshi",
+            "Latitude": 13.803676817362822,
+            "Longitude": 77.60973527128311,
+            "District": "Anantapur",
+            "Fluoride": 0.7603801775237848
+        },
+        {
+            "Station": "Tada",
+            "Latitude": 13.621273235505253,
+            "Longitude": 80.03094010593807,
+            "District": "Sri Potti Sriramulu Nell*",
+            "Fluoride": 0.6440895741254518
+        },
+        {
+            "Station": "Kodur",
+            "Latitude": 13.95799926624451,
+            "Longitude": 79.35158023767885,
+            "District": "Y.S.R.",
+            "Fluoride": 0.7025338009437614
+        },
+        {
+            "Station": "Renigunta",
+            "Latitude": 13.637929748236324,
+            "Longitude": 79.50694185923098,
+            "District": "Chittoor",
+            "Fluoride": 0.6387972590854796
+        },
+        {
+            "Station": "Tirupati (Urban)",
+            "Latitude": 13.63511121216793,
+            "Longitude": 79.42129147552858,
+            "District": "Chittoor",
+            "Fluoride": 0.6389923674155744
+        },
+        {
+            "Station": "Vadamalapeta",
+            "Latitude": 13.548878429181823,
+            "Longitude": 79.52414600907349,
+            "District": "Chittoor",
+            "Fluoride": 0.7191039427765069
+        },
+        {
+            "Station": "Pakala",
+            "Latitude": 13.449251209483842,
+            "Longitude": 79.11571925580681,
+            "District": "Chittoor",
+            "Fluoride": 0.7194009081462215
+        },
+        {
+            "Station": "Karvetinagar",
+            "Latitude": 13.420614107801086,
+            "Longitude": 79.4475770089886,
+            "District": "Chittoor",
+            "Fluoride": 0.713632911080939
+        },
+        {
+            "Station": "Penumuru",
+            "Latitude": 13.370967757678468,
+            "Longitude": 79.19682009210835,
+            "District": "Chittoor",
+            "Fluoride": 0.7026586027131766
+        },
+        {
+            "Station": "Puthalapattu",
+            "Latitude": 13.346703762027811,
+            "Longitude": 79.09519738417657,
+            "District": "Chittoor",
+            "Fluoride": 0.6974790669990796
+        },
+        {
+            "Station": "Narayanavanam",
+            "Latitude": 13.42659818032661,
+            "Longitude": 79.58797729009504,
+            "District": "Chittoor",
+            "Fluoride": 0.71489003295626
+        },
+        {
+            "Station": "Nagari",
+            "Latitude": 13.323943756930875,
+            "Longitude": 79.58611689171804,
+            "District": "Chittoor",
+            "Fluoride": 0.6917252457358007
+        },
+        {
+            "Station": "Chinnamandem",
+            "Latitude": 13.942213787179607,
+            "Longitude": 78.67970750391927,
+            "District": "Y.S.R.",
+            "Fluoride": 0.7093264577829027
+        },
+        {
+            "Station": "Thamballapalle",
+            "Latitude": 13.821868201990018,
+            "Longitude": 78.45149857555491,
+            "District": "Chittoor",
+            "Fluoride": 0.7562138148223934
+        },
+        {
+            "Station": "T Sundupalle",
+            "Latitude": 13.982096801520695,
+            "Longitude": 78.91598615209281,
+            "District": "Y.S.R.",
+            "Fluoride": 0.7079037286425931
+        },
+        {
+            "Station": "Kalakada",
+            "Latitude": 13.827205549538562,
+            "Longitude": 78.78839420032602,
+            "District": "Chittoor",
+            "Fluoride": 0.754786771050243
+        },
+        {
+            "Station": "Peddamandyam",
+            "Latitude": 13.928835459515826,
+            "Longitude": 78.53504760487334,
+            "District": "Chittoor",
+            "Fluoride": 0.7147045324813174
+        },
+        {
+            "Station": "Pedda Thippasamudram",
+            "Latitude": 13.71294064103602,
+            "Longitude": 78.20712602492479,
+            "District": "Chittoor",
+            "Fluoride": 0.6671157858805975
+        },
+        {
+            "Station": "Pileru",
+            "Latitude": 13.655549195842626,
+            "Longitude": 78.938673565429,
+            "District": "Chittoor",
+            "Fluoride": 0.6370241068764054
+        },
+        {
+            "Station": "B.Kothakota",
+            "Latitude": 13.657511097828197,
+            "Longitude": 78.26202075231217,
+            "District": "Chittoor",
+            "Fluoride": 0.6367368826568783
+        },
+        {
+            "Station": "Kurabalakota",
+            "Latitude": 13.65424788694555,
+            "Longitude": 78.48207965148097,
+            "District": "Chittoor",
+            "Fluoride": 0.6372011953033129
+        },
+        {
+            "Station": "Kalikiri",
+            "Latitude": 13.642390430750028,
+            "Longitude": 78.8008847802783,
+            "District": "Chittoor",
+            "Fluoride": 0.638449861318969
+        },
+        {
+            "Station": "Somala",
+            "Latitude": 13.474292282759848,
+            "Longitude": 78.80999734621594,
+            "District": "Chittoor",
+            "Fluoride": 0.7240891160502156
+        },
+        {
+            "Station": "Chowdepalle",
+            "Latitude": 13.436628119048954,
+            "Longitude": 78.6920711501253,
+            "District": "Chittoor",
+            "Fluoride": 0.7169315192722023
+        },
+        {
+            "Station": "Baireddipalle",
+            "Latitude": 13.091845328313793,
+            "Longitude": 78.61214639178692,
+            "District": "Chittoor",
+            "Fluoride": 0.7027164517664729
+        },
+        {
+            "Station": "Amarapuram",
+            "Latitude": 14.13064836940685,
+            "Longitude": 76.97740967943577,
+            "District": "Anantapur",
+            "Fluoride": 0.7277564427680777
+        },
+        {
+            "Station": "Gorantla",
+            "Latitude": 13.984198293422153,
+            "Longitude": 77.771010150211,
+            "District": "Anantapur",
+            "Fluoride": 0.7085302752904444
+        },
+        {
+            "Station": "Chilamathur",
+            "Latitude": 13.841108795396291,
+            "Longitude": 77.70683327292663,
+            "District": "Anantapur",
+            "Fluoride": 0.7490428826892254
+        },
+        {
+            "Station": "Parigi",
+            "Latitude": 13.892511900551774,
+            "Longitude": 77.45966311427853,
+            "District": "Anantapur",
+            "Fluoride": 0.7280008754949024
+        },
+        {
+            "Station": "Allur",
+            "Latitude": 14.681794078962687,
+            "Longitude": 80.0536042421286,
+            "District": "Sri Potti Sriramulu Nell*",
+            "Fluoride": 0.7572725659259535
+        },
+        {
+            "Station": "Kodavalur",
+            "Latitude": 14.564624753709909,
+            "Longitude": 79.98747968256095,
+            "District": "Sri Potti Sriramulu Nell*",
+            "Fluoride": 0.8501789498501813
+        },
+        {
+            "Station": "Marripadu",
+            "Latitude": 14.699127545902655,
+            "Longitude": 79.34780204666303,
+            "District": "Sri Potti Sriramulu Nell*",
+            "Fluoride": 0.7468461328752594
+        },
+        {
+            "Station": "Indukurpet",
+            "Latitude": 14.472271334279288,
+            "Longitude": 80.10741681400896,
+            "District": "Sri Potti Sriramulu Nell*",
+            "Fluoride": 0.6521922893553339
+        },
+        {
+            "Station": "Thotapalligudur",
+            "Latitude": 14.391108793541154,
+            "Longitude": 80.08293545786388,
+            "District": "Sri Potti Sriramulu Nell*",
+            "Fluoride": 0.715203671709864
+        },
+        {
+            "Station": "Muthukur",
+            "Latitude": 14.28944659172833,
+            "Longitude": 80.09468727410628,
+            "District": "Sri Potti Sriramulu Nell*",
+            "Fluoride": 0.7443373756184689
+        },
+        {
+            "Station": "Kota",
+            "Latitude": 14.041536971426456,
+            "Longitude": 80.0487732022436,
+            "District": "Sri Potti Sriramulu Nell*",
+            "Fluoride": 0.7185744189117745
+        },
+        {
+            "Station": "Varikuntapadu",
+            "Latitude": 14.99381765591218,
+            "Longitude": 79.42181723790479,
+            "District": "Sri Potti Sriramulu Nell*",
+            "Fluoride": 0.696132393836601
+        },
+        {
+            "Station": "Duttalur",
+            "Latitude": 14.852199233183738,
+            "Longitude": 79.40485555503557,
+            "District": "Sri Potti Sriramulu Nell*",
+            "Fluoride": 0.7185668408656652
+        },
+        {
+            "Station": "Vinjamur",
+            "Latitude": 14.834375111397442,
+            "Longitude": 79.58022280439042,
+            "District": "Sri Potti Sriramulu Nell*",
+            "Fluoride": 0.7144761320196749
+        },
+        {
+            "Station": "Kaligiri",
+            "Latitude": 14.828748985544145,
+            "Longitude": 79.69187911912407,
+            "District": "Sri Potti Sriramulu Nell*",
+            "Fluoride": 0.7129427517040103
+        },
+        {
+            "Station": "Jaladanki",
+            "Latitude": 14.885592005450647,
+            "Longitude": 79.9096848782703,
+            "District": "Sri Potti Sriramulu Nell*",
+            "Fluoride": 0.7027733904442429
+        },
+        {
+            "Station": "Anumasamudrampeta",
+            "Latitude": 14.689462590915596,
+            "Longitude": 79.67819466019286,
+            "District": "Sri Potti Sriramulu Nell*",
+            "Fluoride": 0.7525563980708063
+        },
+        {
+            "Station": "Buchireddipalem",
+            "Latitude": 14.539281428918402,
+            "Longitude": 79.88076386742968,
+            "District": "Sri Potti Sriramulu Nell*",
+            "Fluoride": 0.7839239537000054
+        },
+        {
+            "Station": "Chejerla",
+            "Latitude": 14.5204688299622,
+            "Longitude": 79.5670307659654,
+            "District": "Sri Potti Sriramulu Nell*",
+            "Fluoride": 0.7155773375701031
+        },
+        {
+            "Station": "Sangam",
+            "Latitude": 14.584574397588066,
+            "Longitude": 79.74982785437277,
+            "District": "Sri Potti Sriramulu Nell*",
+            "Fluoride": 0.8096486359696449
+        },
+        {
+            "Station": "Kaluvoya",
+            "Latitude": 14.512655847133745,
+            "Longitude": 79.41101302660785,
+            "District": "Sri Potti Sriramulu Nell*",
+            "Fluoride": 0.7204541518936309
+        },
+        {
+            "Station": "Ananthasagaram",
+            "Latitude": 14.570849923534375,
+            "Longitude": 79.40752286152326,
+            "District": "Sri Potti Sriramulu Nell*",
+            "Fluoride": 0.831703020796472
+        },
+        {
+            "Station": "Vontimitta",
+            "Latitude": 14.394801918278269,
+            "Longitude": 79.02631338151579,
+            "District": "Y.S.R.",
+            "Fluoride": 0.7158220234513701
+        },
+        {
+            "Station": "Penagalur",
+            "Latitude": 14.306906451895314,
+            "Longitude": 79.26251605916575,
+            "District": "Y.S.R.",
+            "Fluoride": 0.7458032439887123
+        },
+        {
+            "Station": "Nandalur",
+            "Latitude": 14.266363479757144,
+            "Longitude": 79.11442631421163,
+            "District": "Y.S.R.",
+            "Fluoride": 0.7432258080409587
+        },
+        {
+            "Station": "Podalakur",
+            "Latitude": 14.38571182991817,
+            "Longitude": 79.73339867932921,
+            "District": "Sri Potti Sriramulu Nell*",
+            "Fluoride": 0.7144315566392682
+        },
+        {
+            "Station": "Venkatachalam",
+            "Latitude": 14.326668154260775,
+            "Longitude": 79.92543504823156,
+            "District": "Sri Potti Sriramulu Nell*",
+            "Fluoride": 0.747887444382929
+        },
+        {
+            "Station": "Manubolu",
+            "Latitude": 14.199246114525568,
+            "Longitude": 79.87197897995824,
+            "District": "Sri Potti Sriramulu Nell*",
+            "Fluoride": 0.7310135440396991
+        },
+        {
+            "Station": "Sydapuram",
+            "Latitude": 14.177184699127947,
+            "Longitude": 79.7418284636672,
+            "District": "Sri Potti Sriramulu Nell*",
+            "Fluoride": 0.730314401594413
+        },
+        {
+            "Station": "Chitvel",
+            "Latitude": 14.170956152174806,
+            "Longitude": 79.3321426990719,
+            "District": "Y.S.R.",
+            "Fluoride": 0.7302225735762593
+        },
+        {
+            "Station": "Pullampeta",
+            "Latitude": 14.123907816227087,
+            "Longitude": 79.20905518400731,
+            "District": "Y.S.R.",
+            "Fluoride": 0.72716045842119
+        },
+        {
+            "Station": "Kolimigundla",
+            "Latitude": 15.075508628919323,
+            "Longitude": 78.10732488928511,
+            "District": "Kurnool",
+            "Fluoride": 0.7017649541475758
+        },
+        {
+            "Station": "Chagalamarri",
+            "Latitude": 14.963721784551257,
+            "Longitude": 78.59028113995497,
+            "District": "Kurnool",
+            "Fluoride": 0.6981116795718538
+        },
+        {
+            "Station": "Peddamudium",
+            "Latitude": 15.011805555920573,
+            "Longitude": 78.4520870834571,
+            "District": "Y.S.R.",
+            "Fluoride": 0.6948577701842611
+        },
+        {
+            "Station": "Duvvur",
+            "Latitude": 14.841053177350537,
+            "Longitude": 78.65349355091604,
+            "District": "Y.S.R.",
+            "Fluoride": 0.7161238362773091
+        },
+        {
+            "Station": "Porumamilla",
+            "Latitude": 15.009716685083392,
+            "Longitude": 78.9897855895629,
+            "District": "Y.S.R.",
+            "Fluoride": 0.695009799093471
+        },
+        {
+            "Station": "Khajipet",
+            "Latitude": 14.652574108801666,
+            "Longitude": 78.76957336234814,
+            "District": "Y.S.R.",
+            "Fluoride": 0.7837461972134266
+        },
+        {
+            "Station": "S.Mydukur",
+            "Latitude": 14.72652452418042,
+            "Longitude": 78.73236553943693,
+            "District": "Y.S.R.",
+            "Fluoride": 0.7317819095822148
+        },
+        {
+            "Station": "Yerraguntla",
+            "Latitude": 14.64019705346554,
+            "Longitude": 78.53999395969474,
+            "District": "Y.S.R.",
+            "Fluoride": 0.7902858769041398
+        },
+        {
+            "Station": "Simhadripuram",
+            "Latitude": 14.628464584253761,
+            "Longitude": 78.12761667811654,
+            "District": "Y.S.R.",
+            "Fluoride": 0.7855060295516512
+        },
+        {
+            "Station": "Thondur",
+            "Latitude": 14.57511804504919,
+            "Longitude": 78.28198855115996,
+            "District": "Y.S.R.",
+            "Fluoride": 0.8229428389517567
+        },
+        {
+            "Station": "Lingala",
+            "Latitude": 14.498313900857202,
+            "Longitude": 78.11408633685046,
+            "District": "Y.S.R.",
+            "Fluoride": 0.682221652649158
+        },
+        {
+            "Station": "Chennur",
+            "Latitude": 14.565952238796843,
+            "Longitude": 78.79855428003837,
+            "District": "Y.S.R.",
+            "Fluoride": 0.8454615043450017
+        },
+        {
+            "Station": "Vempalle",
+            "Latitude": 14.367458945472393,
+            "Longitude": 78.46022157539151,
+            "District": "Y.S.R.",
+            "Fluoride": 0.7191935629850308
+        },
+        {
+            "Station": "Talupula",
+            "Latitude": 14.241964543332461,
+            "Longitude": 78.2588627985927,
+            "District": "Anantapur",
+            "Fluoride": 0.7422841645036962
+        },
+        {
+            "Station": "Veeraballe",
+            "Latitude": 14.158753285826274,
+            "Longitude": 78.85752549121818,
+            "District": "Y.S.R.",
+            "Fluoride": 0.7297379253796773
+        },
+        {
+            "Station": "Lakkireddipalle",
+            "Latitude": 14.184762305653502,
+            "Longitude": 78.69965040775561,
+            "District": "Y.S.R.",
+            "Fluoride": 0.7301937114022449
+        },
+        {
+            "Station": "Galiveedu",
+            "Latitude": 14.022861146989431,
+            "Longitude": 78.50606582210547,
+            "District": "Y.S.R.",
+            "Fluoride": 0.7162474116712633
+        },
+        {
+            "Station": "D.Hirehal",
+            "Latitude": 15.013557506435486,
+            "Longitude": 76.83244354560782,
+            "District": "Anantapur",
+            "Fluoride": 0.6947294061903496
+        },
+        {
+            "Station": "Settur",
+            "Latitude": 14.447285390995631,
+            "Longitude": 76.98103786347725,
+            "District": "Anantapur",
+            "Fluoride": 0.7403905422920724
+        },
+        {
+            "Station": "Uravakonda",
+            "Latitude": 14.946518112833456,
+            "Longitude": 77.25782776235688,
+            "District": "Anantapur",
+            "Fluoride": 0.6991744700938813
+        },
+        {
+            "Station": "Kanekal",
+            "Latitude": 14.805949227929293,
+            "Longitude": 77.07796151200559,
+            "District": "Anantapur",
+            "Fluoride": 0.7123394560661449
+        },
+        {
+            "Station": "Pamidi",
+            "Latitude": 14.944772430484083,
+            "Longitude": 77.59129119482024,
+            "District": "Anantapur",
+            "Fluoride": 0.6992801064119569
+        },
+        {
+            "Station": "Garladinne",
+            "Latitude": 14.823808069049296,
+            "Longitude": 77.59892414206016,
+            "District": "Anantapur",
+            "Fluoride": 0.7114448275276126
+        },
+        {
+            "Station": "Singanamala",
+            "Latitude": 14.800515576829438,
+            "Longitude": 77.71957913431973,
+            "District": "Anantapur",
+            "Fluoride": 0.71177158441686
+        },
+        {
+            "Station": "Putlur",
+            "Latitude": 14.810670218637293,
+            "Longitude": 77.96430651409719,
+            "District": "Anantapur",
+            "Fluoride": 0.7121291328283718
+        },
+        {
+            "Station": "Narpala",
+            "Latitude": 14.712033217114902,
+            "Longitude": 77.8081501646913,
+            "District": "Anantapur",
+            "Fluoride": 0.7395730358110872
+        },
+        {
+            "Station": "Atmakur",
+            "Latitude": 14.646659106121726,
+            "Longitude": 77.35727392422044,
+            "District": "Anantapur",
+            "Fluoride": 0.7868585366919916
+        },
+        {
+            "Station": "Kudair",
+            "Latitude": 14.730521014997917,
+            "Longitude": 77.42785740195656,
+            "District": "Anantapur",
+            "Fluoride": 0.729682740152206
+        },
+        {
+            "Station": "Beluguppa",
+            "Latitude": 14.71392119896481,
+            "Longitude": 77.13428382227956,
+            "District": "Anantapur",
+            "Fluoride": 0.7385382294842603
+        },
+        {
+            "Station": "Kanaganapalle",
+            "Latitude": 14.445423574817664,
+            "Longitude": 77.52522966644283,
+            "District": "Anantapur",
+            "Fluoride": 0.7508502275647168
+        },
+        {
+            "Station": "Tadimarri",
+            "Latitude": 14.56234396094657,
+            "Longitude": 77.85896283783318,
+            "District": "Anantapur",
+            "Fluoride": 0.8596653226859716
+        },
+        {
+            "Station": "Bathalapalle",
+            "Latitude": 14.51644950241046,
+            "Longitude": 77.76859624588853,
+            "District": "Anantapur",
+            "Fluoride": 0.7172854089428714
+        },
+        {
+            "Station": "Kundurpi",
+            "Latitude": 14.29208704158454,
+            "Longitude": 77.03432963258007,
+            "District": "Anantapur",
+            "Fluoride": 0.7445326880069443
+        },
+        {
+            "Station": "Chennekothapalle",
+            "Latitude": 14.272226098668046,
+            "Longitude": 77.6273362932249,
+            "District": "Anantapur",
+            "Fluoride": 0.7433775698570995
+        },
+        {
+            "Station": "Mudigubba",
+            "Latitude": 14.348950375875452,
+            "Longitude": 77.99150667714521,
+            "District": "Anantapur",
+            "Fluoride": 0.7207840087348024
+        },
+        {
+            "Station": "Bukkapatnam",
+            "Latitude": 14.20053573068642,
+            "Longitude": 77.80034250411178,
+            "District": "Anantapur",
+            "Fluoride": 0.7311655818699772
+        },
+        {
+            "Station": "Roddam",
+            "Latitude": 14.093017815212866,
+            "Longitude": 77.4287898792726,
+            "District": "Anantapur",
+            "Fluoride": 0.7239556149890073
+        },
+        {
+            "Station": "Martur",
+            "Latitude": 15.984973082326336,
+            "Longitude": 80.10772511311954,
+            "District": "Prakasam",
+            "Fluoride": 0.7840617919002083
+        },
+        {
+            "Station": "Parchur",
+            "Latitude": 15.967579857167864,
+            "Longitude": 80.27588212916952,
+            "District": "Prakasam",
+            "Fluoride": 0.764584274526926
+        },
+        {
+            "Station": "Karamchedu",
+            "Latitude": 15.886228782456971,
+            "Longitude": 80.31181123710469,
+            "District": "Prakasam",
+            "Fluoride": 0.7206714969498437
+        },
+        {
+            "Station": "Nizampatnam",
+            "Latitude": 15.907765904309041,
+            "Longitude": 80.67034695188009,
+            "District": "Guntur",
+            "Fluoride": 0.7422793806345229
+        },
+        {
+            "Station": "Inkollu",
+            "Latitude": 15.827731019240135,
+            "Longitude": 80.19119396690054,
+            "District": "Prakasam",
+            "Fluoride": 0.7473049791875728
+        },
+        {
+            "Station": "Vetapalem",
+            "Latitude": 15.7832360732349,
+            "Longitude": 80.30645664559738,
+            "District": "Prakasam",
+            "Fluoride": 0.7217762394334306
+        },
+        {
+            "Station": "Chinaganjam",
+            "Latitude": 15.69412942002332,
+            "Longitude": 80.24156706472952,
+            "District": "Prakasam",
+            "Fluoride": 0.5612761327863016
+        },
+        {
+            "Station": "Tangutur",
+            "Latitude": 15.33895123007139,
+            "Longitude": 80.04067450188505,
+            "District": "Prakasam",
+            "Fluoride": 0.7260909378058399
+        },
+        {
+            "Station": "Singarayakonda",
+            "Latitude": 15.252827719171899,
+            "Longitude": 80.02347402884699,
+            "District": "Prakasam",
+            "Fluoride": 0.7402715670736612
+        },
+        {
+            "Station": "Ulavapadu",
+            "Latitude": 15.167384253507635,
+            "Longitude": 80.00750933760258,
+            "District": "Prakasam",
+            "Fluoride": 0.6869234485875452
+        },
+        {
+            "Station": "Dornala",
+            "Latitude": 15.907720414935795,
+            "Longitude": 79.09572267853055,
+            "District": "Prakasam",
+            "Fluoride": 0.74234086066402
+        },
+        {
+            "Station": "Peda  Araveedu",
+            "Latitude": 15.813980090938134,
+            "Longitude": 79.22350511984995,
+            "District": "Prakasam",
+            "Fluoride": 0.7591139096845131
+        },
+        {
+            "Station": "Tripuranthakam",
+            "Latitude": 15.998038134029935,
+            "Longitude": 79.4553184116294,
+            "District": "Prakasam",
+            "Fluoride": 0.7882248827395939
+        },
+        {
+            "Station": "Tarlupadu",
+            "Latitude": 15.657491796943898,
+            "Longitude": 79.22343751174337,
+            "District": "Prakasam",
+            "Fluoride": 0.589727614879695
+        },
+        {
+            "Station": "Ardhaveedu",
+            "Latitude": 15.67715456615682,
+            "Longitude": 78.96027656040194,
+            "District": "Prakasam",
+            "Fluoride": 0.5792030487375107
+        },
+        {
+            "Station": "Konakanamitla",
+            "Latitude": 15.652395457604134,
+            "Longitude": 79.48848555400215,
+            "District": "Prakasam",
+            "Fluoride": 0.5912559395987839
+        },
+        {
+            "Station": "Chimakurthi",
+            "Latitude": 15.586079734005905,
+            "Longitude": 79.86848831541036,
+            "District": "Prakasam",
+            "Fluoride": 0.591926414715252
+        },
+        {
+            "Station": "Racherla",
+            "Latitude": 15.463208417754592,
+            "Longitude": 78.96580163957378,
+            "District": "Prakasam",
+            "Fluoride": 0.6836438428012822
+        },
+        {
+            "Station": "Cumbum",
+            "Latitude": 15.580218858750458,
+            "Longitude": 79.10783629754182,
+            "District": "Prakasam",
+            "Fluoride": 0.5944197221996763
+        },
+        {
+            "Station": "Bestawaripeta",
+            "Latitude": 15.549487307542876,
+            "Longitude": 79.10121284018726,
+            "District": "Prakasam",
+            "Fluoride": 0.6455573860037758
+        },
+        {
+            "Station": "Komarolu",
+            "Latitude": 15.268405651620004,
+            "Longitude": 79.00144303688637,
+            "District": "Prakasam",
+            "Fluoride": 0.7381457991675479
+        },
+        {
+            "Station": "Pamur",
+            "Latitude": 15.097390921621798,
+            "Longitude": 79.41153704715072,
+            "District": "Prakasam",
+            "Fluoride": 0.6993111234079168
+        },
+        {
+            "Station": "Chandra Sekhara Puram",
+            "Latitude": 15.181899753096063,
+            "Longitude": 79.28169138133788,
+            "District": "Prakasam",
+            "Fluoride": 0.6977218631136926
+        },
+        {
+            "Station": "Gudluru",
+            "Latitude": 15.074046634540451,
+            "Longitude": 79.90350677688748,
+            "District": "Prakasam",
+            "Fluoride": 0.701899913240393
+        },
+        {
+            "Station": "Ponnaluru",
+            "Latitude": 15.27239342398808,
+            "Longitude": 79.79950677008274,
+            "District": "Prakasam",
+            "Fluoride": 0.7367257453946339
+        },
+        {
+            "Station": "Seetharamapuram",
+            "Latitude": 15.016951884204161,
+            "Longitude": 79.13867851731425,
+            "District": "Sri Potti Sriramulu Nell*",
+            "Fluoride": 0.6944784377810468
+        },
+        {
+            "Station": "Midthur",
+            "Latitude": 15.7702751978516,
+            "Longitude": 78.28980638246516,
+            "District": "Kurnool",
+            "Fluoride": 0.730791016895551
+        },
+        {
+            "Station": "Pagidyala",
+            "Latitude": 15.937834104797812,
+            "Longitude": 78.34235660847062,
+            "District": "Kurnool",
+            "Fluoride": 0.7552540545280132
+        },
+        {
+            "Station": "Atmakur",
+            "Latitude": 15.8811942150469,
+            "Longitude": 78.58679365634151,
+            "District": "Kurnool",
+            "Fluoride": 0.7166889183708879
+        },
+        {
+            "Station": "Velgode",
+            "Latitude": 15.719380076031305,
+            "Longitude": 78.57334374753101,
+            "District": "Kurnool",
+            "Fluoride": 0.6285651522944847
+        },
+        {
+            "Station": "Bethamcherla",
+            "Latitude": 15.451877376490994,
+            "Longitude": 78.14757690955638,
+            "District": "Kurnool",
+            "Fluoride": 0.7189213190285688
+        },
+        {
+            "Station": "Bandi Atmakur",
+            "Latitude": 15.581413001446846,
+            "Longitude": 78.52369245052444,
+            "District": "Kurnool",
+            "Fluoride": 0.5939042574903733
+        },
+        {
+            "Station": "Sirvel",
+            "Latitude": 15.32085310279254,
+            "Longitude": 78.53490714519384,
+            "District": "Kurnool",
+            "Fluoride": 0.7288865249357699
+        },
+        {
+            "Station": "Sanjamala",
+            "Latitude": 15.147426943624646,
+            "Longitude": 78.29967753613437,
+            "District": "Kurnool",
+            "Fluoride": 0.6879632956005516
+        },
+        {
+            "Station": "Rudravaram",
+            "Latitude": 15.243942583761076,
+            "Longitude": 78.60218728496655,
+            "District": "Kurnool",
+            "Fluoride": 0.7349908967198907
+        },
+        {
+            "Station": "Kalasapadu",
+            "Latitude": 15.108279645245403,
+            "Longitude": 78.94072475429422,
+            "District": "Y.S.R.",
+            "Fluoride": 0.697679958284712
+        },
+        {
+            "Station": "Uyyalawada",
+            "Latitude": 15.10193473857962,
+            "Longitude": 78.39550189918154,
+            "District": "Kurnool",
+            "Fluoride": 0.6986720607924867
+        },
+        {
+            "Station": "Gudur",
+            "Latitude": 15.77513683724582,
+            "Longitude": 77.80632255482217,
+            "District": "Kurnool",
+            "Fluoride": 0.728588315278009
+        },
+        {
+            "Station": "Yemmiganur",
+            "Latitude": 15.772668890959725,
+            "Longitude": 77.48296619967277,
+            "District": "Kurnool",
+            "Fluoride": 0.7298110157820705
+        },
+        {
+            "Station": "Nandavaram",
+            "Latitude": 15.85364288877077,
+            "Longitude": 77.48440634549858,
+            "District": "Kurnool",
+            "Fluoride": 0.6977752626972997
+        },
+        {
+            "Station": "Kosigi",
+            "Latitude": 15.856792364360494,
+            "Longitude": 77.24378687797208,
+            "District": "Kurnool",
+            "Fluoride": 0.7008850651093667
+        },
+        {
+            "Station": "Gonegandla",
+            "Latitude": 15.714329117751584,
+            "Longitude": 77.59553497995284,
+            "District": "Kurnool",
+            "Fluoride": 0.6174906943768251
+        },
+        {
+            "Station": "Kodumur",
+            "Latitude": 15.684276326750943,
+            "Longitude": 77.77102657410934,
+            "District": "Kurnool",
+            "Fluoride": 0.572544601662962
+        },
+        {
+            "Station": "Holagunda",
+            "Latitude": 15.488797993628124,
+            "Longitude": 77.048287542277,
+            "District": "Kurnool",
+            "Fluoride": 0.688839621633506
+        },
+        {
+            "Station": "Aspari",
+            "Latitude": 15.475659802148819,
+            "Longitude": 77.38817617750499,
+            "District": "Kurnool",
+            "Fluoride": 0.6921558307999075
+        },
+        {
+            "Station": "Devanakonda",
+            "Latitude": 15.538237267477449,
+            "Longitude": 77.5504757071853,
+            "District": "Kurnool",
+            "Fluoride": 0.6563180445956898
+        },
+        {
+            "Station": "Krishnagiri",
+            "Latitude": 15.555498129214012,
+            "Longitude": 77.83039484244138,
+            "District": "Kurnool",
+            "Fluoride": 0.6391849517010795
+        },
+        {
+            "Station": "Veldurthi",
+            "Latitude": 15.552498242246722,
+            "Longitude": 77.92945581479597,
+            "District": "Kurnool",
+            "Fluoride": 0.6424234408319933
+        },
+        {
+            "Station": "Tuggali",
+            "Latitude": 15.313528685621227,
+            "Longitude": 77.54530597189546,
+            "District": "Kurnool",
+            "Fluoride": 0.7301637547535955
+        },
+        {
+            "Station": "Peapally",
+            "Latitude": 15.233723487276354,
+            "Longitude": 77.74125151786018,
+            "District": "Kurnool",
+            "Fluoride": 0.7291589615129996
+        },
+        {
+            "Station": "Maddikera (East)",
+            "Latitude": 15.251478476258672,
+            "Longitude": 77.4150226819105,
+            "District": "Kurnool",
+            "Fluoride": 0.7394498277956623
+        },
+        {
+            "Station": "Yadiki",
+            "Latitude": 15.04922933256036,
+            "Longitude": 77.87445880253539,
+            "District": "Anantapur",
+            "Fluoride": 0.7038081068859766
+        },
+        {
+            "Station": "Vajrakarur",
+            "Latitude": 15.0272655488768,
+            "Longitude": 77.38482217545791,
+            "District": "Anantapur",
+            "Fluoride": 0.7050576603924296
+        },
+        {
+            "Station": "Vidapanakal",
+            "Latitude": 15.057694322863012,
+            "Longitude": 77.182584261508,
+            "District": "Anantapur",
+            "Fluoride": 0.7032286454396515
+        },
+        {
+            "Station": "Guntakal",
+            "Latitude": 15.170977405577545,
+            "Longitude": 77.37148610744846,
+            "District": "Anantapur",
+            "Fluoride": 0.6897268171668957
+        },
+        {
+            "Station": "Pedapudi",
+            "Latitude": 16.953306159504823,
+            "Longitude": 82.12876555713129,
+            "District": "East Godavari",
+            "Fluoride": 0.6366480691021963
+        },
+        {
+            "Station": "Karapa",
+            "Latitude": 16.899515028009727,
+            "Longitude": 82.16855043998012,
+            "District": "East Godavari",
+            "Fluoride": 0.8004297435260586
+        },
+        {
+            "Station": "Thallarevu",
+            "Latitude": 16.781427814107772,
+            "Longitude": 82.23060235425653,
+            "District": "East Godavari",
+            "Fluoride": 0.8402633748876445
+        },
+        {
+            "Station": "I. Polavaram",
+            "Latitude": 16.662684995573407,
+            "Longitude": 82.19031206036426,
+            "District": "East Godavari",
+            "Fluoride": 0.5136336273315686
+        },
+        {
+            "Station": "Uppalaguptam",
+            "Latitude": 16.55389222754185,
+            "Longitude": 82.0986187232203,
+            "District": "East Godavari",
+            "Fluoride": 0.8282735689120361
+        },
+        {
+            "Station": "Mummidivaram",
+            "Latitude": 16.643315251096077,
+            "Longitude": 82.10488841952439,
+            "District": "East Godavari",
+            "Fluoride": 0.51462283307098
+        },
+        {
+            "Station": "Nidadavole",
+            "Latitude": 16.907709476215537,
+            "Longitude": 81.67403491976246,
+            "District": "West Godavari",
+            "Fluoride": 0.7809497764386509
+        },
+        {
+            "Station": "Chagallu",
+            "Latitude": 16.98923039148634,
+            "Longitude": 81.6686183957045,
+            "District": "West Godavari",
+            "Fluoride": 1.4300000000000002
+        },
+        {
+            "Station": "Mandapeta",
+            "Latitude": 16.864340063856115,
+            "Longitude": 81.93039684611186,
+            "District": "East Godavari",
+            "Fluoride": 0.933495485016314
+        },
+        {
+            "Station": "Nallajerla",
+            "Latitude": 16.945943666091775,
+            "Longitude": 81.40604934340548,
+            "District": "West Godavari",
+            "Fluoride": 0.5572353844685216
+        },
+        {
+            "Station": "Dwarakatirumala",
+            "Latitude": 16.953341908859077,
+            "Longitude": 81.25578478882659,
+            "District": "West Godavari",
+            "Fluoride": 0.6358442494117764
+        },
+        {
+            "Station": "Atreyapuram",
+            "Latitude": 16.83275212062591,
+            "Longitude": 81.78965121398268,
+            "District": "East Godavari",
+            "Fluoride": 1.0438335397442495
+        },
+        {
+            "Station": "Kapileswarapuram",
+            "Latitude": 16.740263111249973,
+            "Longitude": 81.92053233817911,
+            "District": "East Godavari",
+            "Fluoride": 1.0303010228200515
+        },
+        {
+            "Station": "Alamuru",
+            "Latitude": 16.78747682047565,
+            "Longitude": 81.88451917308618,
+            "District": "East Godavari",
+            "Fluoride": 0.8817626281043642
+        },
+        {
+            "Station": "Attili",
+            "Latitude": 16.688973904537374,
+            "Longitude": 81.60675303995303,
+            "District": "West Godavari",
+            "Fluoride": 0.2544833944373939
+        },
+        {
+            "Station": "Pentapadu",
+            "Latitude": 16.78149831827922,
+            "Longitude": 81.52549003887803,
+            "District": "West Godavari",
+            "Fluoride": 0.8408133028492759
+        },
+        {
+            "Station": "Denduluru",
+            "Latitude": 16.758855738785428,
+            "Longitude": 81.16437056542794,
+            "District": "West Godavari",
+            "Fluoride": 0.6935942549964726
+        },
+        {
+            "Station": "Achanta",
+            "Latitude": 16.603560197177462,
+            "Longitude": 81.80825699707815,
+            "District": "West Godavari",
+            "Fluoride": 0.7430067111974602
+        },
+        {
+            "Station": "Penugonda",
+            "Latitude": 16.65399864675609,
+            "Longitude": 81.74466657594387,
+            "District": "West Godavari",
+            "Fluoride": 0.44409123301013514
+        },
+        {
+            "Station": "Palacole",
+            "Latitude": 16.519607974901064,
+            "Longitude": 81.72258777121267,
+            "District": "West Godavari",
+            "Fluoride": 1.0197018325181286
+        },
+        {
+            "Station": "Veeravasaram",
+            "Latitude": 16.5384472945234,
+            "Longitude": 81.62331677184635,
+            "District": "West Godavari",
+            "Fluoride": 0.8446033102346238
+        },
+        {
+            "Station": "Akividu",
+            "Latitude": 16.58233722448448,
+            "Longitude": 81.37608671263675,
+            "District": "West Godavari",
+            "Fluoride": 0.7300813321665631
+        },
+        {
+            "Station": "Pedapadu",
+            "Latitude": 16.638294507090098,
+            "Longitude": 81.03611439754344,
+            "District": "West Godavari",
+            "Fluoride": 0.5420329029249362
+        },
+        {
+            "Station": "Mogalthur",
+            "Latitude": 16.412653553876478,
+            "Longitude": 81.60548632467257,
+            "District": "West Godavari",
+            "Fluoride": 0.19059596623322075
+        },
+        {
+            "Station": "Penuganchiprolu",
+            "Latitude": 16.90358916093674,
+            "Longitude": 80.24470751926722,
+            "District": "Krishna",
+            "Fluoride": 0.7903606315797254
+        },
+        {
+            "Station": "Chandarlapadu",
+            "Latitude": 16.693302939899336,
+            "Longitude": 80.2013569023572,
+            "District": "Krishna",
+            "Fluoride": 0.41999167559747824
+        },
+        {
+            "Station": "Kanchikacherla",
+            "Latitude": 16.68538150032742,
+            "Longitude": 80.38828511099088,
+            "District": "Krishna",
+            "Fluoride": 0.23248401476566766
+        },
+        {
+            "Station": "Mylavaram",
+            "Latitude": 16.75695360114776,
+            "Longitude": 80.64215464271989,
+            "District": "Krishna",
+            "Fluoride": 0.73994757277883
+        },
+        {
+            "Station": "Agiripalle",
+            "Latitude": 16.679140734839642,
+            "Longitude": 80.78113784404204,
+            "District": "Krishna",
+            "Fluoride": 0.37909951380267837
+        },
+        {
+            "Station": "A.Konduru",
+            "Latitude": 16.962803823676328,
+            "Longitude": 80.6514360362354,
+            "District": "Krishna",
+            "Fluoride": 0.7773403052940087
+        },
+        {
+            "Station": "Atchampet",
+            "Latitude": 16.62842309768591,
+            "Longitude": 80.12057162175705,
+            "District": "Guntur",
+            "Fluoride": 0.5909424372646882
+        },
+        {
+            "Station": "Krosuru",
+            "Latitude": 16.539970013647288,
+            "Longitude": 80.1359377098321,
+            "District": "Guntur",
+            "Fluoride": 0.8445536156851294
+        },
+        {
+            "Station": "Pedakurapadu",
+            "Latitude": 16.470898654837477,
+            "Longitude": 80.25662593885885,
+            "District": "Guntur",
+            "Fluoride": 0.9085651888925218
+        },
+        {
+            "Station": "Amaravathi",
+            "Latitude": 16.576143844101264,
+            "Longitude": 80.35766921187282,
+            "District": "Guntur",
+            "Fluoride": 0.735761162159787
+        },
+        {
+            "Station": "Tadikonda",
+            "Latitude": 16.419384394124314,
+            "Longitude": 80.45596135749824,
+            "District": "Guntur",
+            "Fluoride": 0.5767087314982875
+        },
+        {
+            "Station": "Piduguralla",
+            "Latitude": 16.48060907977883,
+            "Longitude": 79.88620985802558,
+            "District": "Guntur",
+            "Fluoride": 0.718316387535944
+        },
+        {
+            "Station": "Mangalagiri",
+            "Latitude": 16.43313806619837,
+            "Longitude": 80.56775945602809,
+            "District": "Guntur",
+            "Fluoride": 1.4233333333333336
+        },
+        {
+            "Station": "Nekarikallu",
+            "Latitude": 16.371481309969866,
+            "Longitude": 79.9418367159628,
+            "District": "Guntur",
+            "Fluoride": 0.6788442023177297
+        },
+        {
+            "Station": "Phirangipuram",
+            "Latitude": 16.290763455171337,
+            "Longitude": 80.2645817873243,
+            "District": "Guntur",
+            "Fluoride": 0.7879544848660036
+        },
+        {
+            "Station": "Kollipara",
+            "Latitude": 16.28758426092265,
+            "Longitude": 80.74681880635353,
+            "District": "Guntur",
+            "Fluoride": 0.7856511232339352
+        },
+        {
+            "Station": "Chebrolu",
+            "Latitude": 16.19881665405127,
+            "Longitude": 80.52490197198824,
+            "District": "Guntur",
+            "Fluoride": 0.7129366141179223
+        },
+        {
+            "Station": "Duggirala",
+            "Latitude": 16.326391346369586,
+            "Longitude": 80.62994075645155,
+            "District": "Guntur",
+            "Fluoride": 0.8338177579596058
+        },
+        {
+            "Station": "Kollur",
+            "Latitude": 16.184258526656652,
+            "Longitude": 80.79707473332671,
+            "District": "Guntur",
+            "Fluoride": 0.7153679947001781
+        },
+        {
+            "Station": "Prathipadu",
+            "Latitude": 16.182598975476022,
+            "Longitude": 80.33446278879642,
+            "District": "Guntur",
+            "Fluoride": 0.7290612302496797
+        },
+        {
+            "Station": "Kakumanu",
+            "Latitude": 16.05474259984235,
+            "Longitude": 80.39847243301254,
+            "District": "Guntur",
+            "Fluoride": 0.8061417748625298
+        },
+        {
+            "Station": "Ponnur",
+            "Latitude": 16.068264706682978,
+            "Longitude": 80.55108094818756,
+            "District": "Guntur",
+            "Fluoride": 0.7938413201639076
+        },
+        {
+            "Station": "Dachepalle",
+            "Latitude": 16.594696223180723,
+            "Longitude": 79.73420504934906,
+            "District": "Guntur",
+            "Fluoride": 0.7470246099870576
+        },
+        {
+            "Station": "Rentachintala",
+            "Latitude": 16.55468619609395,
+            "Longitude": 79.55368884094027,
+            "District": "Guntur",
+            "Fluoride": 0.7389305557396253
+        },
+        {
+            "Station": "Macherla",
+            "Latitude": 16.473798821216164,
+            "Longitude": 79.43537250921665,
+            "District": "Guntur",
+            "Fluoride": 0.7321946174681406
+        },
+        {
+            "Station": "Durgi",
+            "Latitude": 16.42625312565505,
+            "Longitude": 79.54167532299772,
+            "District": "Guntur",
+            "Fluoride": 1.4233333333333336
+        },
+        {
+            "Station": "Karempudi",
+            "Latitude": 16.427907672059106,
+            "Longitude": 79.72281097818541,
+            "District": "Guntur",
+            "Fluoride": 1.4233333333333333
+        },
+        {
+            "Station": "Veldurthi",
+            "Latitude": 16.349167951326553,
+            "Longitude": 79.36690011911064,
+            "District": "Guntur",
+            "Fluoride": 0.8237247298387634
+        },
+        {
+            "Station": "Rompicherla",
+            "Latitude": 16.209730512257284,
+            "Longitude": 79.91093649826067,
+            "District": "Guntur",
+            "Fluoride": 0.7167469420376129
+        },
+        {
+            "Station": "Ipur",
+            "Latitude": 16.22887546846198,
+            "Longitude": 79.77628573411161,
+            "District": "Guntur",
+            "Fluoride": 0.7211574535377957
+        },
+        {
+            "Station": "Pullalacheruvu",
+            "Latitude": 16.158874752477356,
+            "Longitude": 79.42878225359499,
+            "District": "Prakasam",
+            "Fluoride": 0.7292492719592936
+        },
+        {
+            "Station": "Bollapalle",
+            "Latitude": 16.186396787776257,
+            "Longitude": 79.68834602445035,
+            "District": "Guntur",
+            "Fluoride": 0.6973680603263804
+        },
+        {
+            "Station": "Yerragondapalem",
+            "Latitude": 16.041224376435643,
+            "Longitude": 79.30138094678938,
+            "District": "Prakasam",
+            "Fluoride": 0.8080957521224613
+        },
+        {
+            "Station": "Seethanagaram",
+            "Latitude": 17.177829394326814,
+            "Longitude": 81.69232724651931,
+            "District": "East Godavari",
+            "Fluoride": 0.2742708068996543
+        },
+        {
+            "Station": "Korukonda",
+            "Latitude": 17.169440547767685,
+            "Longitude": 81.83155499171968,
+            "District": "East Godavari",
+            "Fluoride": 0.26589995658557974
+        },
+        {
+            "Station": "Gokavaram",
+            "Latitude": 17.260052734597597,
+            "Longitude": 81.8486182111655,
+            "District": "East Godavari",
+            "Fluoride": 0.3145629379183769
+        },
+        {
+            "Station": "Devipatnam",
+            "Latitude": 17.316067092674835,
+            "Longitude": 81.66562457496724,
+            "District": "East Godavari",
+            "Fluoride": 0.21638859477488573
+        },
+        {
+            "Station": "Jaggampeta",
+            "Latitude": 17.170657397265582,
+            "Longitude": 82.05940725478027,
+            "District": "East Godavari",
+            "Fluoride": 0.26721013754038053
+        },
+        {
+            "Station": "Gopalapuram",
+            "Latitude": 17.10195331441711,
+            "Longitude": 81.54284851748973,
+            "District": "West Godavari",
+            "Fluoride": 0.3403694777675793
+        },
+        {
+            "Station": "Rajanagaram",
+            "Latitude": 17.077772049925485,
+            "Longitude": 81.8964555185593,
+            "District": "East Godavari",
+            "Fluoride": 0.5253404031149285
+        },
+        {
+            "Station": "Kamavarapukota",
+            "Latitude": 17.01023216492082,
+            "Longitude": 81.19162933726004,
+            "District": "West Godavari",
+            "Fluoride": 0.29118821884027096
+        },
+        {
+            "Station": "Rajavommangi",
+            "Latitude": 17.54526974561234,
+            "Longitude": 82.23525667127063,
+            "District": "East Godavari",
+            "Fluoride": 0.598978512373702
+        },
+        {
+            "Station": "Kotananduru",
+            "Latitude": 17.482722727080606,
+            "Longitude": 82.48938083136525,
+            "District": "East Godavari",
+            "Fluoride": 1.5818502490961477
+        },
+        {
+            "Station": "Thondangi",
+            "Latitude": 17.249011559855386,
+            "Longitude": 82.4566282641911,
+            "District": "East Godavari",
+            "Fluoride": 0.3188356903654656
+        },
+        {
+            "Station": "Yeleswaram",
+            "Latitude": 17.286785193878423,
+            "Longitude": 82.10432148556207,
+            "District": "East Godavari",
+            "Fluoride": 0.37445120658939124
+        },
+        {
+            "Station": "Gollaprolu",
+            "Latitude": 17.15583590997225,
+            "Longitude": 82.2842129641998,
+            "District": "East Godavari",
+            "Fluoride": 0.2950524486010594
+        },
+        {
+            "Station": "Samalkota",
+            "Latitude": 17.057065306403587,
+            "Longitude": 82.1747488603563,
+            "District": "East Godavari",
+            "Fluoride": 0.6779706191131649
+        },
+        {
+            "Station": "Kaviti",
+            "Latitude": 19.01136136595887,
+            "Longitude": 84.6890432611434,
+            "District": "Srikakulam",
+            "Fluoride": 0.1618152689472741
+        },
+        {
+            "Station": "Mandasa",
+            "Latitude": 18.869421042419667,
+            "Longitude": 84.46242386933493,
+            "District": "Srikakulam",
+            "Fluoride": 0.23482911106593055
+        },
+        {
+            "Station": "Palasa",
+            "Latitude": 18.77096226734276,
+            "Longitude": 84.41136822975645,
+            "District": "Srikakulam",
+            "Fluoride": 0.5817209596724795
+        },
+        {
+            "Station": "Meliaputti",
+            "Latitude": 18.772008056079887,
+            "Longitude": 84.17209956341426,
+            "District": "Srikakulam",
+            "Fluoride": 0.5794350808387189
+        },
+        {
+            "Station": "Ganguvarisigadam",
+            "Latitude": 18.377839224073746,
+            "Longitude": 83.68145179175465,
+            "District": "Srikakulam",
+            "Fluoride": 0.4328128099820383
+        },
+        {
+            "Station": "Nandigam",
+            "Latitude": 18.656786703356232,
+            "Longitude": 84.30355165770361,
+            "District": "Srikakulam",
+            "Fluoride": 0.7011131785095546
+        },
+        {
+            "Station": "Saravakota",
+            "Latitude": 18.59165396444518,
+            "Longitude": 84.05148086309218,
+            "District": "Srikakulam",
+            "Fluoride": 0.6336975736046897
+        },
+        {
+            "Station": "Mentada",
+            "Latitude": 18.311968555128495,
+            "Longitude": 83.25891410886723,
+            "District": "Vizianagaram",
+            "Fluoride": 0.5235443464182851
+        },
+        {
+            "Station": "Bondapalle",
+            "Latitude": 18.241608033534146,
+            "Longitude": 83.34748592346804,
+            "District": "Vizianagaram",
+            "Fluoride": 0.3477513689460255
+        },
+        {
+            "Station": "Gantyada",
+            "Latitude": 18.142777290498028,
+            "Longitude": 83.29357391976383,
+            "District": "Vizianagaram",
+            "Fluoride": 0.48520584257508015
+        },
+        {
+            "Station": "Pusapatirega",
+            "Latitude": 18.092895364429626,
+            "Longitude": 83.55108816902708,
+            "District": "Vizianagaram",
+            "Fluoride": 1.312917223183252
+        },
+        {
+            "Station": "Nellimarla",
+            "Latitude": 18.15787029437844,
+            "Longitude": 83.44781142101043,
+            "District": "Vizianagaram",
+            "Fluoride": 0.302440574389322
+        },
+        {
+            "Station": "Lakkavarapukota",
+            "Latitude": 18.025160631612227,
+            "Longitude": 83.16019853334946,
+            "District": "Vizianagaram",
+            "Fluoride": 1.1263201727818648
+        },
+        {
+            "Station": "Jami",
+            "Latitude": 18.05236185521438,
+            "Longitude": 83.26001144230928,
+            "District": "Vizianagaram",
+            "Fluoride": 1.1128194936428182
+        },
+        {
+            "Station": "Bhogapuram",
+            "Latitude": 18.030913675313812,
+            "Longitude": 83.49639037480787,
+            "District": "Vizianagaram",
+            "Fluoride": 1.1184401884038833
+        },
+        {
+            "Station": "Denkada",
+            "Latitude": 18.075116009497158,
+            "Longitude": 83.47528583522313,
+            "District": "Vizianagaram",
+            "Fluoride": 1.0579529933429903
+        },
+        {
+            "Station": "Srisailam",
+            "Latitude": 16.075894669452783,
+            "Longitude": 78.90792218958632,
+            "District": "Kurnool",
+            "Fluoride": 0.790336313457581
+        },
+        {
+            "Station": "Chintur",
+            "Latitude": 17.747625777152813,
+            "Longitude": 81.38870752315242,
+            "District": "East Godavari",
+            "Fluoride": 1.3471939639399284
+        },
+        {
+            "Station": "Rayavaram",
+            "Latitude": 16.903781963894925,
+            "Longitude": 82.00127731047414,
+            "District": "East Godavari",
+            "Fluoride": 0.7899041806278874
+        },
+        {
+            "Station": "Kukunoor",
+            "Latitude": 17.558904997066584,
+            "Longitude": 81.17636776367672,
+            "District": "West Godavari",
+            "Fluoride": 0.558280377296256
+        },
+        {
+            "Station": "Kunavaram",
+            "Latitude": 17.5752404136887,
+            "Longitude": 81.25400814038352,
+            "District": "East Godavari",
+            "Fluoride": 0.621263600235833
+        },
+        {
+            "Station": "Jeelugu Milli",
+            "Latitude": 17.212556811899344,
+            "Longitude": 81.13383545629496,
+            "District": "West Godavari",
+            "Fluoride": 0.28995904152548563
+        },
+        {
+            "Station": "Jangareddigudem",
+            "Latitude": 17.1225643948463,
+            "Longitude": 81.29644405045046,
+            "District": "West Godavari",
+            "Fluoride": 0.13234762317870663
+        },
+        {
+            "Station": "Koyyalagudem",
+            "Latitude": 17.127235536914306,
+            "Longitude": 81.42836805940296,
+            "District": "West Godavari",
+            "Fluoride": 0.18427395126422386
+        },
+        {
+            "Station": "Kotabommali",
+            "Latitude": 18.51980870430391,
+            "Longitude": 84.1600698578303,
+            "District": "Srikakulam",
+            "Fluoride": 0.6448703926015932
+        },
+        {
+            "Station": "Jalumuru",
+            "Latitude": 18.512225382355762,
+            "Longitude": 84.0387345327785,
+            "District": "Srikakulam",
+            "Fluoride": 0.6411291558189636
+        },
+        {
+            "Station": "Polaki",
+            "Latitude": 18.3719922533521,
+            "Longitude": 84.10248893507972,
+            "District": "Srikakulam",
+            "Fluoride": 0.43491149126565054
+        },
+        {
+            "Station": "Gara",
+            "Latitude": 18.330903575957297,
+            "Longitude": 84.05403797953218,
+            "District": "Srikakulam",
+            "Fluoride": 0.47937912710260855
+        },
+        {
+            "Station": "Kurupam",
+            "Latitude": 18.86522867682801,
+            "Longitude": 83.55063094002222,
+            "District": "Vizianagaram",
+            "Fluoride": 0.24261562205840873
+        },
+        {
+            "Station": "Komarada",
+            "Latitude": 18.896307587406056,
+            "Longitude": 83.4672354660235,
+            "District": "Vizianagaram",
+            "Fluoride": 0.1801300273617222
+        },
+        {
+            "Station": "Kothuru",
+            "Latitude": 18.77940235790081,
+            "Longitude": 83.88295465922337,
+            "District": "Srikakulam",
+            "Fluoride": 0.5629181206781442
+        },
+        {
+            "Station": "Hiramandalam",
+            "Latitude": 18.672164072574294,
+            "Longitude": 83.94958589825566,
+            "District": "Srikakulam",
+            "Fluoride": 0.6840935754690394
+        },
+        {
+            "Station": "Veeraghattam",
+            "Latitude": 18.688597990809697,
+            "Longitude": 83.60948483841244,
+            "District": "Srikakulam",
+            "Fluoride": 0.6743775369900753
+        },
+        {
+            "Station": "Makkuva",
+            "Latitude": 18.6624828627393,
+            "Longitude": 83.26745035793942,
+            "District": "Vizianagaram",
+            "Fluoride": 0.6933519172444959
+        },
+        {
+            "Station": "Balijipeta",
+            "Latitude": 18.61406071870209,
+            "Longitude": 83.52875584265475,
+            "District": "Vizianagaram",
+            "Fluoride": 0.42517969643011394
+        },
+        {
+            "Station": "Seethanagaram",
+            "Latitude": 18.65609941070036,
+            "Longitude": 83.37473671376887,
+            "District": "Vizianagaram",
+            "Fluoride": 0.702219438637331
+        },
+        {
+            "Station": "Pachipenta",
+            "Latitude": 18.47920022478714,
+            "Longitude": 83.1132311356122,
+            "District": "Vizianagaram",
+            "Fluoride": 0.6308716948156182
+        },
+        {
+            "Station": "Ramabhadrapuram",
+            "Latitude": 18.49608977664559,
+            "Longitude": 83.27981734048839,
+            "District": "Vizianagaram",
+            "Fluoride": 0.6352076969136836
+        },
+        {
+            "Station": "Therlam",
+            "Latitude": 18.48777123122393,
+            "Longitude": 83.50590173523948,
+            "District": "Vizianagaram",
+            "Fluoride": 0.6328919845290394
+        },
+        {
+            "Station": "Ponduru",
+            "Latitude": 18.35148774095963,
+            "Longitude": 83.75658003785426,
+            "District": "Srikakulam",
+            "Fluoride": 0.44671530015270217
+        },
+        {
+            "Station": "Amadalavalasa",
+            "Latitude": 18.410163688089312,
+            "Longitude": 83.90065791124111,
+            "District": "Srikakulam",
+            "Fluoride": 0.42555013461846286
+        },
+        {
+            "Station": "Rajam",
+            "Latitude": 18.44909612543783,
+            "Longitude": 83.6559135074907,
+            "District": "Srikakulam",
+            "Fluoride": 0.7019100442546421
+        },
+        {
+            "Station": "Owk",
+            "Latitude": 15.209048714980623,
+            "Longitude": 78.1168880232198,
+            "District": "Kurnool",
+            "Fluoride": 0.7150548736382302
+        },
+        {
+            "Station": "Kothavalasa",
+            "Latitude": 17.890555622728627,
+            "Longitude": 83.19079058758662,
+            "District": "Vizianagaram",
+            "Fluoride": 1.3346919836091549
+        },
+        {
+            "Station": "Kurichedu",
+            "Latitude": 15.907830807532093,
+            "Longitude": 79.57421046553375,
+            "District": "Prakasam",
+            "Fluoride": 0.7421921254172967
+        },
+        {
+            "Station": "Gudem Kotha Veedhi",
+            "Latitude": 17.863449596792176,
+            "Longitude": 82.19677453243337,
+            "District": "Visakhapatnam",
+            "Fluoride": 1.2548504354550902
+        },
+        {
+            "Station": "Madugula",
+            "Latitude": 17.916262176459508,
+            "Longitude": 82.81363034457071,
+            "District": "Visakhapatnam",
+            "Fluoride": 1.434983607166079
+        },
+        {
+            "Station": "Koyyuru",
+            "Latitude": 17.66132670313185,
+            "Longitude": 82.20861151974451,
+            "District": "Visakhapatnam",
+            "Fluoride": 1.299539888672033
+        },
+        {
+            "Station": "Kasimkota",
+            "Latitude": 17.667628423579675,
+            "Longitude": 82.96592346574104,
+            "District": "Visakhapatnam",
+            "Fluoride": 1.2580603565481079
+        },
+        {
+            "Station": "Nathavaram",
+            "Latitude": 17.56686626498383,
+            "Longitude": 82.48977840415041,
+            "District": "Visakhapatnam",
+            "Fluoride": 0.5451048320605707
+        },
+        {
+            "Station": "Makavarapalem",
+            "Latitude": 17.616729457459755,
+            "Longitude": 82.72814772394257,
+            "District": "Visakhapatnam",
+            "Fluoride": 1.284269913832601
+        },
+        {
+            "Station": "Kotauratla",
+            "Latitude": 17.564590968567583,
+            "Longitude": 82.68587435324653,
+            "District": "Visakhapatnam",
+            "Fluoride": 0.5279372581445408
+        },
+        {
+            "Station": "Nakkapalle",
+            "Latitude": 17.4094507805021,
+            "Longitude": 82.71736398165767,
+            "District": "Visakhapatnam",
+            "Fluoride": 1.22500262088633
+        },
+        {
+            "Station": "Sabbavaram",
+            "Latitude": 17.791907320385004,
+            "Longitude": 83.12637813610213,
+            "District": "Visakhapatnam",
+            "Fluoride": 1.179511218190399
+        },
+        {
+            "Station": "Paravada",
+            "Latitude": 17.62831414364405,
+            "Longitude": 83.07896427566864,
+            "District": "Visakhapatnam",
+            "Fluoride": 1.3297684540682089
+        },
+        {
+            "Station": "Ananthagiri",
+            "Latitude": 18.233915473955083,
+            "Longitude": 83.0079383713669,
+            "District": "Visakhapatnam",
+            "Fluoride": 0.34996610075648216
+        },
+        {
+            "Station": "Devarapalle",
+            "Latitude": 17.98893155585222,
+            "Longitude": 82.98061595749019,
+            "District": "Visakhapatnam",
+            "Fluoride": 1.2219777002682155
+        },
+        {
+            "Station": "Araku Valley",
+            "Latitude": 18.323678277438123,
+            "Longitude": 82.8801011292219,
+            "District": "Visakhapatnam",
+            "Fluoride": 0.5102288414264742
+        },
+        {
+            "Station": "G.Madugula",
+            "Latitude": 18.013593415958077,
+            "Longitude": 82.53434522856406,
+            "District": "Visakhapatnam",
+            "Fluoride": 1.1486584252912726
+        },
+        {
+            "Station": "Savalyapuram H/O Kanamarlapudi",
+            "Latitude": 16.102751206133725,
+            "Longitude": 79.81531576622045,
+            "District": "Guntur",
+            "Fluoride": 0.7916359328716573
+        },
+        {
+            "Station": "Naidupet",
+            "Latitude": 13.909538158450049,
+            "Longitude": 79.89635921634503,
+            "District": "Sri Potti Sriramulu Nell*",
+            "Fluoride": 0.7218864319245206
+        },
+        {
+            "Station": "Anantapur",
+            "Latitude": 14.680548903323158,
+            "Longitude": 77.59711943923077,
+            "District": "Anantapur",
+            "Fluoride": 0.7580550716252796
+        },
+        {
+            "Station": "Kurnool",
+            "Latitude": 15.834086513157047,
+            "Longitude": 78.04586727704445,
+            "District": "Kurnool",
+            "Fluoride": 0.7137972876765519
+        },
+        {
+            "Station": "Kadapa",
+            "Latitude": 14.4835831099276,
+            "Longitude": 78.82408168839922,
+            "District": "Y.S.R.",
+            "Fluoride": 0.6889352407493665
+        },
+        {
+            "Station": "Nellore",
+            "Latitude": 14.450422048013328,
+            "Longitude": 79.98217900614036,
+            "District": "Sri Potti Sriramulu Nell*",
+            "Fluoride": 0.7241293858690369
+        },
+        {
+            "Station": "Chittoor",
+            "Latitude": 13.216616038585288,
+            "Longitude": 79.09871881871788,
+            "District": "Chittoor",
+            "Fluoride": 0.7153073194469027
+        },
+        {
+            "Station": "Guntur",
+            "Latitude": 16.298435860278428,
+            "Longitude": 80.4458812476091,
+            "District": "Guntur",
+            "Fluoride": 0.788676708036255
+        },
+        {
+            "Station": "Machilipatnam",
+            "Latitude": 16.184297479974866,
+            "Longitude": 81.12998052310273,
+            "District": "Krishna",
+            "Fluoride": 0.715046126767353
+        },
+        {
+            "Station": "Eluru",
+            "Latitude": 16.70684847880987,
+            "Longitude": 81.10297504563806,
+            "District": "West Godavari",
+            "Fluoride": 0.6303746701432166
+        },
+        {
+            "Station": "Kakinada (Rural)",
+            "Latitude": 16.95110979959302,
+            "Longitude": 82.23442043496253,
+            "District": "East Godavari",
+            "Fluoride": 0.6676302005816497
+        },
+        {
+            "Station": "Srikakulam",
+            "Latitude": 18.29769463502601,
+            "Longitude": 83.90224079936557,
+            "District": "Srikakulam",
+            "Fluoride": 0.3032764899721385
+        },
+        {
+            "Station": "Vizianagaram",
+            "Latitude": 18.12213037167516,
+            "Longitude": 83.41008407003109,
+            "District": "Vizianagaram",
+            "Fluoride": 0.7575287124359881
+        },
+        {
+            "Station": "Ongole",
+            "Latitude": 15.50478931729503,
+            "Longitude": 80.04643920126904,
+            "District": "Prakasam",
+            "Fluoride": 0.6808851135906407
+        },
+        {
+            "Station": "Visakhapatnam (Urban)",
+            "Latitude": 17.69612998534877,
+            "Longitude": 83.29467989859216,
+            "District": "Visakhapatnam",
+            "Fluoride": 1.2934594337561152
+        },
+        {
+            "Station": "Bangarupalem",
+            "Latitude": 13.193708271866168,
+            "Longitude": 78.91150149449652,
+            "District": "Chittoor",
+            "Fluoride": 0.7094887341427436
+        },
+        {
+            "Station": "Chinnagottigallu",
+            "Latitude": 13.651883368029354,
+            "Longitude": 79.08754603943963,
+            "District": "Chittoor",
+            "Fluoride": 0.6374987395320191
+        },
+        {
+            "Station": "Gudupalle",
+            "Latitude": 12.793397454244202,
+            "Longitude": 78.27947448378504,
+            "District": "Chittoor",
+            "Fluoride": 0.7117008241548268
+        },
+        {
+            "Station": "Gurramkonda",
+            "Latitude": 13.783768771206697,
+            "Longitude": 78.5881913567702,
+            "District": "Chittoor",
+            "Fluoride": 0.7639260411034942
+        },
+        {
+            "Station": "Mulakalacheruvu",
+            "Latitude": 13.801535388807194,
+            "Longitude": 78.26449965154207,
+            "District": "Chittoor",
+            "Fluoride": 0.7608082854579519
+        },
+        {
+            "Station": "Nagalapuram",
+            "Latitude": 13.386828783715794,
+            "Longitude": 79.79720143255228,
+            "District": "Chittoor",
+            "Fluoride": 0.7058797676970336
+        },
+        {
+            "Station": "Nimmanapalle",
+            "Latitude": 13.571654244530517,
+            "Longitude": 78.66940908814473,
+            "District": "Chittoor",
+            "Fluoride": 0.6935787596099613
+        },
+        {
+            "Station": "Nindra",
+            "Latitude": 13.380965497144238,
+            "Longitude": 79.70945883123068,
+            "District": "Chittoor",
+            "Fluoride": 0.7046933096865883
+        },
+        {
+            "Station": "Palasamudram",
+            "Latitude": 13.208942063619917,
+            "Longitude": 79.39295653995242,
+            "District": "Chittoor",
+            "Fluoride": 0.7125493062060407
+        },
+        {
+            "Station": "Peddapanjani",
+            "Latitude": 13.330501550443403,
+            "Longitude": 78.72544322426546,
+            "District": "Chittoor",
+            "Fluoride": 0.6935386204386269
+        },
+        {
+            "Station": "Pichatur",
+            "Latitude": 13.401828082566698,
+            "Longitude": 79.73981705669429,
+            "District": "Chittoor",
+            "Fluoride": 0.7094656663676481
+        },
+        {
+            "Station": "Pulicherla",
+            "Latitude": 13.59932467953162,
+            "Longitude": 79.04157193406482,
+            "District": "Chittoor",
+            "Fluoride": 0.6519588370922548
+        },
+        {
+            "Station": "Ramasamudram",
+            "Latitude": 13.366214669780465,
+            "Longitude": 78.42578215357346,
+            "District": "Chittoor",
+            "Fluoride": 0.7016794453100139
+        },
+        {
+            "Station": "Rompicherla",
+            "Latitude": 13.670683975778864,
+            "Longitude": 79.0454232739959,
+            "District": "Chittoor",
+            "Fluoride": 0.6338305204880414
+        },
+        {
+            "Station": "Santhipuram",
+            "Latitude": 12.873132647871959,
+            "Longitude": 78.40635461321563,
+            "District": "Chittoor",
+            "Fluoride": 0.7079824115157711
+        },
+        {
+            "Station": "Sodam",
+            "Latitude": 13.54728869701624,
+            "Longitude": 78.90705974582812,
+            "District": "Chittoor",
+            "Fluoride": 0.7183443012542131
+        },
+        {
+            "Station": "Srirangarajapuram",
+            "Latitude": 13.301086548891266,
+            "Longitude": 79.3603489437971,
+            "District": "Chittoor",
+            "Fluoride": 0.6832474660882023
+        },
+        {
+            "Station": "Thavanampalle",
+            "Latitude": 13.266934880769815,
+            "Longitude": 79.00353389625289,
+            "District": "Chittoor",
+            "Fluoride": 0.686409993881899
+        },
+        {
+            "Station": "Thottambedu",
+            "Latitude": 13.744752285878416,
+            "Longitude": 79.72669511920078,
+            "District": "Chittoor",
+            "Fluoride": 0.6498058924390651
+        },
+        {
+            "Station": "Tirupati (Rural)",
+            "Latitude": 13.610679198096872,
+            "Longitude": 79.44803714494178,
+            "District": "Chittoor",
+            "Fluoride": 0.6321078318174929
+        },
+        {
+            "Station": "Varadaiahpalem",
+            "Latitude": 13.599173147786908,
+            "Longitude": 79.93302637742272,
+            "District": "Chittoor",
+            "Fluoride": 0.6522118005937383
+        },
+        {
+            "Station": "Vedurukuppam",
+            "Latitude": 13.433209915387183,
+            "Longitude": 79.32043025868336,
+            "District": "Chittoor",
+            "Fluoride": 0.716244448023949
+        },
+        {
+            "Station": "Yadamarri",
+            "Latitude": 13.160237141109905,
+            "Longitude": 79.03903756925602,
+            "District": "Chittoor",
+            "Fluoride": 0.7069747702457345
+        },
+        {
+            "Station": "Yerpedu",
+            "Latitude": 13.698617134416477,
+            "Longitude": 79.588676432711,
+            "District": "Chittoor",
+            "Fluoride": 0.45027125174544613
+        },
+        {
+            "Station": "Yerravaripalem",
+            "Latitude": 13.705318669234732,
+            "Longitude": 79.13372430313245,
+            "District": "Chittoor",
+            "Fluoride": 0.7172773473399842
+        },
+        {
+            "Station": "Gangadhara Nellore",
+            "Latitude": 13.231966748117927,
+            "Longitude": 79.18036549114905,
+            "District": "Chittoor",
+            "Fluoride": 0.7143120989522395
+        },
+        {
+            "Station": "Gudipala",
+            "Latitude": 13.09307245697806,
+            "Longitude": 79.11681884222355,
+            "District": "Chittoor",
+            "Fluoride": 0.7027161060493189
+        },
+        {
+            "Station": "Kambhamvaripalle",
+            "Latitude": 13.805194033988053,
+            "Longitude": 78.91211865146975,
+            "District": "Chittoor",
+            "Fluoride": 0.7600695095751998
+        },
+        {
+            "Station": "Seethampeta",
+            "Latitude": 18.69516327039216,
+            "Longitude": 83.81700373771194,
+            "District": "Srikakulam",
+            "Fluoride": 0.6716825265179024
+        },
+        {
+            "Station": "Bhamini",
+            "Latitude": 18.91033225837158,
+            "Longitude": 83.82042430222663,
+            "District": "Srikakulam",
+            "Fluoride": 0.20593001853955428
+        },
+        {
+            "Station": "Kanchili",
+            "Latitude": 18.978658867476074,
+            "Longitude": 84.58182816866545,
+            "District": "Srikakulam",
+            "Fluoride": 0.2094538370059391
+        },
+        {
+            "Station": "Vajrapukothuru",
+            "Latitude": 18.693541119767133,
+            "Longitude": 84.44267763546037,
+            "District": "Srikakulam",
+            "Fluoride": 0.6723037775778267
+        },
+        {
+            "Station": "Vangara",
+            "Latitude": 18.619151238730108,
+            "Longitude": 83.60926931910107,
+            "District": "Srikakulam",
+            "Fluoride": 0.5863181115163277
+        },
+        {
+            "Station": "Regidi Amadalavalasa",
+            "Latitude": 18.555192753921773,
+            "Longitude": 83.70301686704288,
+            "District": "Srikakulam",
+            "Fluoride": 0.6855816006200681
+        },
+        {
+            "Station": "Santhabommali",
+            "Latitude": 18.53545122763181,
+            "Longitude": 84.20944494085333,
+            "District": "Srikakulam",
+            "Fluoride": 0.6559914814626004
+        },
+        {
+            "Station": "Burja",
+            "Latitude": 18.531506295057937,
+            "Longitude": 83.8006113082551,
+            "District": "Srikakulam",
+            "Fluoride": 0.6526041768498029
+        },
+        {
+            "Station": "Santhakaviti",
+            "Latitude": 18.470299937160267,
+            "Longitude": 83.77880078897678,
+            "District": "Srikakulam",
+            "Fluoride": 0.6290810111206308
+        },
+        {
+            "Station": "Laveru",
+            "Latitude": 18.238831327225384,
+            "Longitude": 83.69333271656464,
+            "District": "Srikakulam",
+            "Fluoride": 0.3483613867790967
+        },
+        {
+            "Station": "Ranastalam",
+            "Latitude": 18.198015149869672,
+            "Longitude": 83.70431635825479,
+            "District": "Srikakulam",
+            "Fluoride": 0.37450782080008893
+        },
+        {
+            "Station": "Etcherla",
+            "Latitude": 18.27867342232016,
+            "Longitude": 83.81924499931151,
+            "District": "Srikakulam",
+            "Fluoride": 0.3703615238272178
+        },
+        {
+            "Station": "Jiyyammavalasa",
+            "Latitude": 18.79046547031003,
+            "Longitude": 83.60100645881087,
+            "District": "Vizianagaram",
+            "Fluoride": 0.5369838089651728
+        },
+        {
+            "Station": "Garugubilli",
+            "Latitude": 18.71144405625739,
+            "Longitude": 83.49220548412357,
+            "District": "Vizianagaram",
+            "Fluoride": 0.6666642686300145
+        },
+        {
+            "Station": "Badangi",
+            "Latitude": 18.49550187552839,
+            "Longitude": 83.36684585571929,
+            "District": "Vizianagaram",
+            "Fluoride": 0.635030542352162
+        },
+        {
+            "Station": "Merakamudidam",
+            "Latitude": 18.410888861279677,
+            "Longitude": 83.46085772035703,
+            "District": "Vizianagaram",
+            "Fluoride": 0.4254396734439473
+        },
+        {
+            "Station": "Dattirajeru",
+            "Latitude": 18.380112924812963,
+            "Longitude": 83.39089423737215,
+            "District": "Vizianagaram",
+            "Fluoride": 0.4320886200399808
+        },
+        {
+            "Station": "Garividi",
+            "Latitude": 18.28424676120078,
+            "Longitude": 83.53736242352545,
+            "District": "Vizianagaram",
+            "Fluoride": 0.3538778424086759
+        },
+        {
+            "Station": "Cheepurupalle",
+            "Latitude": 18.31337343874605,
+            "Longitude": 83.56815106597772,
+            "District": "Vizianagaram",
+            "Fluoride": 0.5493183022626383
+        },
+        {
+            "Station": "Gurla",
+            "Latitude": 18.212268259733303,
+            "Longitude": 83.46589145700105,
+            "District": "Vizianagaram",
+            "Fluoride": 0.30516406158934634
+        },
+        {
+            "Station": "Vepada",
+            "Latitude": 18.00819404518045,
+            "Longitude": 83.08349985786008,
+            "District": "Vizianagaram",
+            "Fluoride": 1.1618194546193095
+        },
+        {
+            "Station": "Peda Bayalu",
+            "Latitude": 18.28649165456141,
+            "Longitude": 82.58899520276577,
+            "District": "Visakhapatnam",
+            "Fluoride": 0.34335581737814164
+        },
+        {
+            "Station": "Rolugunta",
+            "Latitude": 17.71549396192788,
+            "Longitude": 82.66767117709504,
+            "District": "Visakhapatnam",
+            "Fluoride": 1.7031761531317986
+        },
+        {
+            "Station": "Ravikamatham",
+            "Latitude": 17.794460462914557,
+            "Longitude": 82.80218916755018,
+            "District": "Visakhapatnam",
+            "Fluoride": 1.1812322492653726
+        },
+        {
+            "Station": "Cheedikada",
+            "Latitude": 17.928248759969314,
+            "Longitude": 82.89253141515061,
+            "District": "Visakhapatnam",
+            "Fluoride": 1.4931878866227726
+        },
+        {
+            "Station": "K.Kotapadu",
+            "Latitude": 17.885872405480413,
+            "Longitude": 83.0454120659578,
+            "District": "Visakhapatnam",
+            "Fluoride": 1.3192720697253915
+        },
+        {
+            "Station": "Pendurthi",
+            "Latitude": 17.82100416134436,
+            "Longitude": 83.20305158510173,
+            "District": "Visakhapatnam",
+            "Fluoride": 1.2266800483062166
+        },
+        {
+            "Station": "Anandapuram",
+            "Latitude": 17.903695526953268,
+            "Longitude": 83.3698951438321,
+            "District": "Visakhapatnam",
+            "Fluoride": 1.3823324964612107
+        },
+        {
+            "Station": "Padmanabham",
+            "Latitude": 17.98889177317182,
+            "Longitude": 83.33229230114777,
+            "District": "Visakhapatnam",
+            "Fluoride": 1.2221229327099534
+        },
+        {
+            "Station": "Gajuwaka",
+            "Latitude": 17.68531958886444,
+            "Longitude": 83.21635004873514,
+            "District": "Visakhapatnam",
+            "Fluoride": 0.9569402269404902
+        },
+        {
+            "Station": "Butchayyapeta",
+            "Latitude": 17.786901364832442,
+            "Longitude": 82.87716802471638,
+            "District": "Visakhapatnam",
+            "Fluoride": 1.196846659657763
+        },
+        {
+            "Station": "Munagapaka",
+            "Latitude": 17.636797405850306,
+            "Longitude": 82.99509530776852,
+            "District": "Visakhapatnam",
+            "Fluoride": 1.2454576963679163
+        },
+        {
+            "Station": "Atchutapuram",
+            "Latitude": 17.562667180156247,
+            "Longitude": 82.97977337548292,
+            "District": "Visakhapatnam",
+            "Fluoride": 0.5384256000958277
+        },
+        {
+            "Station": "Payakaraopeta",
+            "Latitude": 17.361691014427056,
+            "Longitude": 82.5517612685242,
+            "District": "Visakhapatnam",
+            "Fluoride": 0.16800549932038278
+        },
+        {
+            "Station": "S.Rayavaram",
+            "Latitude": 17.453149344899572,
+            "Longitude": 82.80583135992019,
+            "District": "Visakhapatnam",
+            "Fluoride": 1.275608069961614
+        },
+        {
+            "Station": "Rambilli",
+            "Latitude": 17.462096422775844,
+            "Longitude": 82.9306858809116,
+            "District": "Visakhapatnam",
+            "Fluoride": 1.3559319047383402
+        },
+        {
+            "Station": "Maredumilli",
+            "Latitude": 17.598825727366147,
+            "Longitude": 81.7149728307026,
+            "District": "East Godavari",
+            "Fluoride": 0.9826165740156808
+        },
+        {
+            "Station": "Sankhavaram",
+            "Latitude": 17.313324501072174,
+            "Longitude": 82.36486003180696,
+            "District": "East Godavari",
+            "Fluoride": 0.21062865054830465
+        },
+        {
+            "Station": "Gangavaram",
+            "Latitude": 17.410959818108864,
+            "Longitude": 81.91278162090713,
+            "District": "East Godavari",
+            "Fluoride": 1.2059173682536435
+        },
+        {
+            "Station": "Rampachodavaram",
+            "Latitude": 17.44161595919202,
+            "Longitude": 81.77596142804184,
+            "District": "East Godavari",
+            "Fluoride": 1.197356838406668
+        },
+        {
+            "Station": "Kirlampudi",
+            "Latitude": 17.1986021326558,
+            "Longitude": 82.18005194246521,
+            "District": "East Godavari",
+            "Fluoride": 0.27191063720483444
+        },
+        {
+            "Station": "Gandepalle",
+            "Latitude": 17.13657006582611,
+            "Longitude": 81.96336863814795,
+            "District": "East Godavari",
+            "Fluoride": 0.24228623580042286
+        },
+        {
+            "Station": "Rangampeta",
+            "Latitude": 17.086549219735208,
+            "Longitude": 81.98736660005888,
+            "District": "East Godavari",
+            "Fluoride": 0.4595949842500788
+        },
+        {
+            "Station": "Biccavolu",
+            "Latitude": 16.960198500504305,
+            "Longitude": 82.04794558449318,
+            "District": "East Godavari",
+            "Fluoride": 0.8245891839767392
+        },
+        {
+            "Station": "Anaparthy",
+            "Latitude": 16.93474947461303,
+            "Longitude": 81.95848711743557,
+            "District": "East Godavari",
+            "Fluoride": 0.7068279811164669
+        },
+        {
+            "Station": "Kadiam",
+            "Latitude": 16.91261939119024,
+            "Longitude": 81.81789205193115,
+            "District": "East Godavari",
+            "Fluoride": 0.7705311630965145
+        },
+        {
+            "Station": "Kajuluru",
+            "Latitude": 16.796643752859335,
+            "Longitude": 82.17145986669136,
+            "District": "East Godavari",
+            "Fluoride": 0.9191831682622227
+        },
+        {
+            "Station": "Ravulapalem",
+            "Latitude": 16.764396365169244,
+            "Longitude": 81.84279102137711,
+            "District": "East Godavari",
+            "Fluoride": 0.6775783727573574
+        },
+        {
+            "Station": "Pamarru",
+            "Latitude": 16.759027179110287,
+            "Longitude": 82.00242575356431,
+            "District": "East Godavari",
+            "Fluoride": 0.6891927421149667
+        },
+        {
+            "Station": "Ainavilli",
+            "Latitude": 16.66097951854991,
+            "Longitude": 82.01289138893236,
+            "District": "East Godavari",
+            "Fluoride": 0.5210503533746763
+        },
+        {
+            "Station": "P.Gannavaram",
+            "Latitude": 16.591263949536934,
+            "Longitude": 81.89029815119159,
+            "District": "East Godavari",
+            "Fluoride": 0.75372165019847
+        },
+        {
+            "Station": "Mamidikuduru",
+            "Latitude": 16.503427870500214,
+            "Longitude": 81.92261312383802,
+            "District": "East Godavari",
+            "Fluoride": 0.8622231502081855
+        },
+        {
+            "Station": "Malikipuram",
+            "Latitude": 16.409329516497618,
+            "Longitude": 81.80386338014266,
+            "District": "East Godavari",
+            "Fluoride": 0.37002414305369746
+        },
+        {
+            "Station": "Sakhinetipalle",
+            "Latitude": 16.413426086892176,
+            "Longitude": 81.75239887326093,
+            "District": "East Godavari",
+            "Fluoride": 0.20856895998669525
+        },
+        {
+            "Station": "Allavaram",
+            "Latitude": 16.515714800103837,
+            "Longitude": 81.98737986188743,
+            "District": "East Godavari",
+            "Fluoride": 1.0548298535476472
+        },
+        {
+            "Station": "Katrenikona",
+            "Latitude": 16.581417879159844,
+            "Longitude": 82.15391969213536,
+            "District": "East Godavari",
+            "Fluoride": 0.7316560110831694
+        },
+        {
+            "Station": "Lingapalem",
+            "Latitude": 16.947061798564594,
+            "Longitude": 80.99057875806217,
+            "District": "West Godavari",
+            "Fluoride": 0.6892104927769964
+        },
+        {
+            "Station": "T.Narasapuram",
+            "Latitude": 17.104112519307677,
+            "Longitude": 81.079641938547,
+            "District": "West Godavari",
+            "Fluoride": 0.3194828847168297
+        },
+        {
+            "Station": "Tallapudi",
+            "Latitude": 17.12117227021739,
+            "Longitude": 81.66584093240677,
+            "District": "West Godavari",
+            "Fluoride": 0.11112231494447858
+        },
+        {
+            "Station": "Devarapalle",
+            "Latitude": 17.03142688807692,
+            "Longitude": 81.55613029761163,
+            "District": "West Godavari",
+            "Fluoride": 0.4572883372664206
+        },
+        {
+            "Station": "Unguturu",
+            "Latitude": 16.822632931814354,
+            "Longitude": 81.42595588074414,
+            "District": "West Godavari",
+            "Fluoride": 1.1126205373025413
+        },
+        {
+            "Station": "Bhimadole",
+            "Latitude": 16.812626393595473,
+            "Longitude": 81.26491818220411,
+            "District": "West Godavari",
+            "Fluoride": 1.0067128654765105
+        },
+        {
+            "Station": "Pedavegi",
+            "Latitude": 16.809867834731303,
+            "Longitude": 81.10592932433315,
+            "District": "West Godavari",
+            "Fluoride": 0.9791129349070103
+        },
+        {
+            "Station": "Nidamarru",
+            "Latitude": 16.722930139104395,
+            "Longitude": 81.41986252822191,
+            "District": "West Godavari",
+            "Fluoride": 0.9915709822115122
+        },
+        {
+            "Station": "Undrajavaram",
+            "Latitude": 16.790248581899693,
+            "Longitude": 81.69840641823649,
+            "District": "West Godavari",
+            "Fluoride": 0.8968312517059162
+        },
+        {
+            "Station": "Peravali",
+            "Latitude": 16.753357676486214,
+            "Longitude": 81.74009034857909,
+            "District": "West Godavari",
+            "Fluoride": 0.8190387944999413
+        },
+        {
+            "Station": "Ganapavaram",
+            "Latitude": 16.700749605682102,
+            "Longitude": 81.4614645205325,
+            "District": "West Godavari",
+            "Fluoride": 0.5912990854001414
+        },
+        {
+            "Station": "Undi",
+            "Latitude": 16.586538452509167,
+            "Longitude": 81.45830765736781,
+            "District": "West Godavari",
+            "Fluoride": 0.7116480009441888
+        },
+        {
+            "Station": "Palacoderu",
+            "Latitude": 16.58641646385325,
+            "Longitude": 81.54597654653045,
+            "District": "West Godavari",
+            "Fluoride": 0.7079460358450717
+        },
+        {
+            "Station": "Penumantra",
+            "Latitude": 16.645828665740474,
+            "Longitude": 81.64989393078693,
+            "District": "West Godavari",
+            "Fluoride": 0.47761567129119237
+        },
+        {
+            "Station": "Iragavaram",
+            "Latitude": 16.692512173343566,
+            "Longitude": 81.7083673657049,
+            "District": "West Godavari",
+            "Fluoride": 0.39378643707645317
+        },
+        {
+            "Station": "Poduru",
+            "Latitude": 16.5890146368429,
+            "Longitude": 81.75256178902593,
+            "District": "West Godavari",
+            "Fluoride": 0.7746144201445695
+        },
+        {
+            "Station": "Kalla",
+            "Latitude": 16.53681171981227,
+            "Longitude": 81.4108661791292,
+            "District": "West Godavari",
+            "Fluoride": 0.8446036492955682
+        },
+        {
+            "Station": "Yelamanchili",
+            "Latitude": 16.481031090342253,
+            "Longitude": 81.78181117722198,
+            "District": "West Godavari",
+            "Fluoride": 0.7169801793697105
+        },
+        {
+            "Station": "Vatsavai",
+            "Latitude": 16.979082988562915,
+            "Longitude": 80.24310800871673,
+            "District": "Krishna",
+            "Fluoride": 0.22495477795397528
+        },
+        {
+            "Station": "Veerullapadu",
+            "Latitude": 16.818742130532595,
+            "Longitude": 80.39795523068267,
+            "District": "Krishna",
+            "Fluoride": 1.0874294618167966
+        },
+        {
+            "Station": "Gampalagudem",
+            "Latitude": 16.998442497574914,
+            "Longitude": 80.52220005071769,
+            "District": "Krishna",
+            "Fluoride": 0.5211437908496731
+        },
+        {
+            "Station": "Tiruvuru",
+            "Latitude": 17.115381294842173,
+            "Longitude": 80.6104948563259,
+            "District": "Krishna",
+            "Fluoride": 0.1833571843537687
+        },
+        {
+            "Station": "Koduru",
+            "Latitude": 16.007203032324085,
+            "Longitude": 81.03235089847409,
+            "District": "Krishna",
+            "Fluoride": 0.7805594610811215
+        },
+        {
+            "Station": "Reddigudem",
+            "Latitude": 16.869936359317958,
+            "Longitude": 80.73654515084314,
+            "District": "Krishna",
+            "Fluoride": 0.8873756139709598
+        },
+        {
+            "Station": "Vissannapet",
+            "Latitude": 16.94260336469333,
+            "Longitude": 80.78513619147273,
+            "District": "Krishna",
+            "Fluoride": 0.5951642223395409
+        },
+        {
+            "Station": "Chatrai",
+            "Latitude": 16.99298265249444,
+            "Longitude": 80.86301086228036,
+            "District": "Krishna",
+            "Fluoride": 1.2097162307930285
+        },
+        {
+            "Station": "Musunuru",
+            "Latitude": 16.82759710192516,
+            "Longitude": 80.93492182902082,
+            "District": "Krishna",
+            "Fluoride": 1.0711389851035584
+        },
+        {
+            "Station": "Bapulapadu",
+            "Latitude": 16.64248619951864,
+            "Longitude": 80.96580677356648,
+            "District": "Krishna",
+            "Fluoride": 0.5192788121719553
+        },
+        {
+            "Station": "G.Konduru",
+            "Latitude": 16.678439744082578,
+            "Longitude": 80.57352155568763,
+            "District": "Krishna",
+            "Fluoride": 0.3893369185931634
+        },
+        {
+            "Station": "Ibrahimpatnam",
+            "Latitude": 16.59436689265586,
+            "Longitude": 80.52389279741152,
+            "District": "Krishna",
+            "Fluoride": 0.7473759486963109
+        },
+        {
+            "Station": "Unguturu",
+            "Latitude": 16.512835381019705,
+            "Longitude": 80.88397929631978,
+            "District": "Krishna",
+            "Fluoride": 1.2628969771037462
+        },
+        {
+            "Station": "Nandivada",
+            "Latitude": 16.4977156134467,
+            "Longitude": 80.98701746706833,
+            "District": "Krishna",
+            "Fluoride": 0.7705489392609155
+        },
+        {
+            "Station": "Mandavalli",
+            "Latitude": 16.51138689797931,
+            "Longitude": 81.15531272845067,
+            "District": "Krishna",
+            "Fluoride": 1.0510352443557378
+        },
+        {
+            "Station": "Kalidindi",
+            "Latitude": 16.50598083438137,
+            "Longitude": 81.30016089282056,
+            "District": "Krishna",
+            "Fluoride": 0.8436661919025603
+        },
+        {
+            "Station": "Kruthivennu",
+            "Latitude": 16.37801005823646,
+            "Longitude": 81.3690916941144,
+            "District": "Krishna",
+            "Fluoride": 0.6298090091615428
+        },
+        {
+            "Station": "Bantumilli",
+            "Latitude": 16.37086396725449,
+            "Longitude": 81.27257716351927,
+            "District": "Krishna",
+            "Fluoride": 0.683027343491353
+        },
+        {
+            "Station": "Mudinepalle",
+            "Latitude": 16.421705264263302,
+            "Longitude": 81.10898129212043,
+            "District": "Krishna",
+            "Fluoride": 0.6863778085826451
+        },
+        {
+            "Station": "Pedaparupudi",
+            "Latitude": 16.425427574355687,
+            "Longitude": 80.95588159341945,
+            "District": "Krishna",
+            "Fluoride": 0.8349598897759897
+        },
+        {
+            "Station": "Kankipadu",
+            "Latitude": 16.43542257070709,
+            "Longitude": 80.76859782979967,
+            "District": "Krishna",
+            "Fluoride": 1.4233333333333336
+        },
+        {
+            "Station": "Penamaluru",
+            "Latitude": 16.468377236783418,
+            "Longitude": 80.71881226430249,
+            "District": "Krishna",
+            "Fluoride": 0.9755048657501674
+        },
+        {
+            "Station": "Thotlavalluru",
+            "Latitude": 16.34768745189128,
+            "Longitude": 80.78287601584486,
+            "District": "Krishna",
+            "Fluoride": 0.8366393720042664
+        },
+        {
+            "Station": "Pamidimukkala",
+            "Latitude": 16.281407385908146,
+            "Longitude": 80.86794880617573,
+            "District": "Krishna",
+            "Fluoride": 0.7786761758711968
+        },
+        {
+            "Station": "Vuyyuru",
+            "Latitude": 16.363967251563693,
+            "Longitude": 80.84332092492636,
+            "District": "Krishna",
+            "Fluoride": 0.7235796727839346
+        },
+        {
+            "Station": "Gudlavalleru",
+            "Latitude": 16.345041571933738,
+            "Longitude": 81.05398665949703,
+            "District": "Krishna",
+            "Fluoride": 0.8608770587966156
+        },
+        {
+            "Station": "Dumbriguda",
+            "Latitude": 18.28820920566884,
+            "Longitude": 82.79189487414448,
+            "District": "Visakhapatnam",
+            "Fluoride": 0.3329491238700991
+        },
+        {
+            "Station": "Golugonda",
+            "Latitude": 17.67854147438682,
+            "Longitude": 82.47083169692988,
+            "District": "Visakhapatnam",
+            "Fluoride": 1.1334994970526702
+        },
+        {
+            "Station": "Guduru",
+            "Latitude": 16.216089756059414,
+            "Longitude": 81.08195230754137,
+            "District": "Krishna",
+            "Fluoride": 0.718296354223225
+        },
+        {
+            "Station": "Movva",
+            "Latitude": 16.224525547065547,
+            "Longitude": 80.9150616564289,
+            "District": "Krishna",
+            "Fluoride": 0.7201844019385298
+        },
+        {
+            "Station": "Ghantasala",
+            "Latitude": 16.170067489428778,
+            "Longitude": 80.9431873501209,
+            "District": "Krishna",
+            "Fluoride": 0.7232654359875256
+        },
+        {
+            "Station": "Challapalle",
+            "Latitude": 16.114685312897183,
+            "Longitude": 80.93159850084743,
+            "District": "Krishna",
+            "Fluoride": 0.7878918422987607
+        },
+        {
+            "Station": "Mopidevi",
+            "Latitude": 16.06623446052769,
+            "Longitude": 80.92645474483562,
+            "District": "Krishna",
+            "Fluoride": 0.7950204131601343
+        },
+        {
+            "Station": "Nagayalanka",
+            "Latitude": 15.950157224295804,
+            "Longitude": 80.91932569138464,
+            "District": "Krishna",
+            "Fluoride": 0.7590891148380325
+        },
+        {
+            "Station": "Machavaram",
+            "Latitude": 16.570174641866927,
+            "Longitude": 79.86555231563464,
+            "District": "Guntur",
+            "Fluoride": 0.7374035445785377
+        },
+        {
+            "Station": "Bellamkonda",
+            "Latitude": 16.49145436923131,
+            "Longitude": 80.0079694834372,
+            "District": "Guntur",
+            "Fluoride": 0.6967017459807581
+        },
+        {
+            "Station": "Thullur",
+            "Latitude": 16.529713542608736,
+            "Longitude": 80.46997509659177,
+            "District": "Guntur",
+            "Fluoride": 0.8421212961638216
+        },
+        {
+            "Station": "Tadepalle",
+            "Latitude": 16.484425548823282,
+            "Longitude": 80.60690656107634,
+            "District": "Guntur",
+            "Fluoride": 0.7019637369275451
+        },
+        {
+            "Station": "Rajupalem",
+            "Latitude": 16.463951077541918,
+            "Longitude": 80.01719817459164,
+            "District": "Guntur",
+            "Fluoride": 1.4233333333333336
+        },
+        {
+            "Station": "Nuzendla",
+            "Latitude": 15.928013119022012,
+            "Longitude": 79.74029564045014,
+            "District": "Guntur",
+            "Fluoride": 0.7414036076963454
+        },
+        {
+            "Station": "Muppalla",
+            "Latitude": 16.32093779738958,
+            "Longitude": 80.09308900951908,
+            "District": "Guntur",
+            "Fluoride": 0.8201540951245444
+        },
+        {
+            "Station": "Nadendla",
+            "Latitude": 16.175995099919863,
+            "Longitude": 80.18536293861094,
+            "District": "Guntur",
+            "Fluoride": 0.7273243533646131
+        },
+        {
+            "Station": "Edlapadu",
+            "Latitude": 16.168910512888463,
+            "Longitude": 80.22485692002128,
+            "District": "Guntur",
+            "Fluoride": 0.722872950539121
+        },
+        {
+            "Station": "Medikonduru",
+            "Latitude": 16.346438905552223,
+            "Longitude": 80.29906018075431,
+            "District": "Guntur",
+            "Fluoride": 0.8478236254994875
+        },
+        {
+            "Station": "Pedakakani",
+            "Latitude": 16.34061102925805,
+            "Longitude": 80.4878235217493,
+            "District": "Guntur",
+            "Fluoride": 0.9099370980154379
+        },
+        {
+            "Station": "Vatticherukuru",
+            "Latitude": 16.182526913109296,
+            "Longitude": 80.44834819834739,
+            "District": "Guntur",
+            "Fluoride": 0.7296586344231357
+        },
+        {
+            "Station": "Pedanandipadu",
+            "Latitude": 16.071248173580518,
+            "Longitude": 80.33274346903814,
+            "District": "Guntur",
+            "Fluoride": 0.7923253317392586
+        },
+        {
+            "Station": "Tsundur",
+            "Latitude": 16.15883504176208,
+            "Longitude": 80.58414751787603,
+            "District": "Guntur",
+            "Fluoride": 0.729261497021412
+        },
+        {
+            "Station": "Amruthalur",
+            "Latitude": 16.119868819513705,
+            "Longitude": 80.66024831154326,
+            "District": "Guntur",
+            "Fluoride": 0.7487092720069652
+        },
+        {
+            "Station": "Vemuru",
+            "Latitude": 16.178922106506825,
+            "Longitude": 80.73906657991185,
+            "District": "Guntur",
+            "Fluoride": 0.7331332178276045
+        },
+        {
+            "Station": "Bhattiprolu",
+            "Latitude": 16.105147192270202,
+            "Longitude": 80.7821945655484,
+            "District": "Guntur",
+            "Fluoride": 0.790995812074714
+        },
+        {
+            "Station": "Cherukupalle H/O Arumbaka",
+            "Latitude": 16.047447806141356,
+            "Longitude": 80.67214988502836,
+            "District": "Guntur",
+            "Fluoride": 0.8247218616977846
+        },
+        {
+            "Station": "Pittalavanipalem",
+            "Latitude": 15.987471314107239,
+            "Longitude": 80.65071677854363,
+            "District": "Guntur",
+            "Fluoride": 0.7843256959535546
+        },
+        {
+            "Station": "Karlapalem",
+            "Latitude": 15.945187253676528,
+            "Longitude": 80.54704364800952,
+            "District": "Guntur",
+            "Fluoride": 0.7575657853087323
+        },
+        {
+            "Station": "Nagaram",
+            "Latitude": 16.006374386420777,
+            "Longitude": 80.72254995926532,
+            "District": "Guntur",
+            "Fluoride": 0.7816476411417491
+        },
+        {
+            "Station": "Donakonda",
+            "Latitude": 15.83480587919685,
+            "Longitude": 79.48390845796648,
+            "District": "Prakasam",
+            "Fluoride": 0.713200095789422
+        },
+        {
+            "Station": "Santhamaguluru",
+            "Latitude": 16.119722845385592,
+            "Longitude": 79.9583461114595,
+            "District": "Prakasam",
+            "Fluoride": 0.7488074784721586
+        },
+        {
+            "Station": "Ballikurava",
+            "Latitude": 15.996492533954974,
+            "Longitude": 80.0255084281996,
+            "District": "Prakasam",
+            "Fluoride": 0.7870882973160871
+        },
+        {
+            "Station": "Yeddana Pudi",
+            "Latitude": 15.9966263147589,
+            "Longitude": 80.17213118836213,
+            "District": "Prakasam",
+            "Fluoride": 0.7871730638461889
+        },
+        {
+            "Station": "Janakavarampanguluru",
+            "Latitude": 15.815795070854994,
+            "Longitude": 80.10678633861332,
+            "District": "Prakasam",
+            "Fluoride": 0.7481651925774939
+        },
+        {
+            "Station": "Mundlamuru",
+            "Latitude": 15.80091424846143,
+            "Longitude": 79.83799218777082,
+            "District": "Prakasam",
+            "Fluoride": 0.7393943244940493
+        },
+        {
+            "Station": "Thallur",
+            "Latitude": 15.73963161540614,
+            "Longitude": 79.88057529128862,
+            "District": "Prakasam",
+            "Fluoride": 0.6651336840158728
+        },
+        {
+            "Station": "Naguluppala Padu",
+            "Latitude": 15.642022851589125,
+            "Longitude": 80.11339850055148,
+            "District": "Prakasam",
+            "Fluoride": 0.5933463743099494
+        },
+        {
+            "Station": "Korisapadu",
+            "Latitude": 15.754129028929666,
+            "Longitude": 80.04194348990316,
+            "District": "Prakasam",
+            "Fluoride": 0.6850277153079393
+        },
+        {
+            "Station": "Marripudi",
+            "Latitude": 15.51415878395764,
+            "Longitude": 79.65287125204654,
+            "District": "Prakasam",
+            "Fluoride": 0.6750302246932234
+        },
+        {
+            "Station": "Maddipadu",
+            "Latitude": 15.621996824989282,
+            "Longitude": 80.02301880488183,
+            "District": "Prakasam",
+            "Fluoride": 0.5927186041146885
+        },
+        {
+            "Station": "Hanumanthuni Padu",
+            "Latitude": 15.459782943865626,
+            "Longitude": 79.40673209523992,
+            "District": "Prakasam",
+            "Fluoride": 0.6876723226258588
+        },
+        {
+            "Station": "Veligandla",
+            "Latitude": 15.34210038468437,
+            "Longitude": 79.34555088203578,
+            "District": "Prakasam",
+            "Fluoride": 0.7256541696411605
+        },
+        {
+            "Station": "Kanigiri",
+            "Latitude": 15.403638302939148,
+            "Longitude": 79.50709405809464,
+            "District": "Prakasam",
+            "Fluoride": 0.7203848148485184
+        },
+        {
+            "Station": "Kondapi",
+            "Latitude": 15.412014199824881,
+            "Longitude": 79.85788139391272,
+            "District": "Prakasam",
+            "Fluoride": 0.7204585210476109
+        },
+        {
+            "Station": "Santhanuthala Padu",
+            "Latitude": 15.54373430259915,
+            "Longitude": 79.9410078557215,
+            "District": "Prakasam",
+            "Fluoride": 0.651239524390263
+        },
+        {
+            "Station": "Kotha Patnam",
+            "Latitude": 15.446558457013452,
+            "Longitude": 80.16555614121825,
+            "District": "Prakasam",
+            "Fluoride": 0.7423913094556298
+        },
+        {
+            "Station": "Zarugumilli",
+            "Latitude": 15.314674526428462,
+            "Longitude": 79.98694729331288,
+            "District": "Prakasam",
+            "Fluoride": 0.7299580753920807
+        },
+        {
+            "Station": "Pedacherlo Palle",
+            "Latitude": 15.277024630737687,
+            "Longitude": 79.56956701633798,
+            "District": "Prakasam",
+            "Fluoride": 0.7353589275032789
+        },
+        {
+            "Station": "Voletivaripalem",
+            "Latitude": 15.163466507877372,
+            "Longitude": 79.72893579240385,
+            "District": "Prakasam",
+            "Fluoride": 0.6837559532243821
+        },
+        {
+            "Station": "Lingasamudram",
+            "Latitude": 15.086829883489882,
+            "Longitude": 79.72334608843047,
+            "District": "Prakasam",
+            "Fluoride": 0.7006079306421051
+        },
+        {
+            "Station": "Kondapuram",
+            "Latitude": 14.99859747277315,
+            "Longitude": 79.67789005046319,
+            "District": "Sri Potti Sriramulu Nell*",
+            "Fluoride": 0.6958010931895032
+        },
+        {
+            "Station": "Vidavalur",
+            "Latitude": 14.57159189398488,
+            "Longitude": 80.06655221098588,
+            "District": "Sri Potti Sriramulu Nell*",
+            "Fluoride": 0.8300042594001965
+        },
+        {
+            "Station": "Dakkili",
+            "Latitude": 14.103382560260739,
+            "Longitude": 79.551936125413,
+            "District": "Sri Potti Sriramulu Nell*",
+            "Fluoride": 0.7251148759880878
+        },
+        {
+            "Station": "Balayapalle",
+            "Latitude": 14.067119619535257,
+            "Longitude": 79.68582142882026,
+            "District": "Sri Potti Sriramulu Nell*",
+            "Fluoride": 0.7206816234510762
+        },
+        {
+            "Station": "Ojili",
+            "Latitude": 14.004224267694086,
+            "Longitude": 79.90395786411078,
+            "District": "Sri Potti Sriramulu Nell*",
+            "Fluoride": 0.713215486037747
+        },
+        {
+            "Station": "Chillakur",
+            "Latitude": 14.128817648507011,
+            "Longitude": 79.86403124327981,
+            "District": "Sri Potti Sriramulu Nell*",
+            "Fluoride": 0.7275985086476852
+        },
+        {
+            "Station": "Vakadu",
+            "Latitude": 13.998938324590661,
+            "Longitude": 80.06547127808597,
+            "District": "Sri Potti Sriramulu Nell*",
+            "Fluoride": 0.7121617564768599
+        },
+        {
+            "Station": "Chittamur",
+            "Latitude": 13.955039807749046,
+            "Longitude": 80.06799974186166,
+            "District": "Sri Potti Sriramulu Nell*",
+            "Fluoride": 0.704024668443434
+        },
+        {
+            "Station": "Pellakur",
+            "Latitude": 13.83024528128428,
+            "Longitude": 79.80933857933918,
+            "District": "Sri Potti Sriramulu Nell*",
+            "Fluoride": 0.7539261108123405
+        },
+        {
+            "Station": "Doravarisatram",
+            "Latitude": 13.822253907852307,
+            "Longitude": 79.94521610350148,
+            "District": "Sri Potti Sriramulu Nell*",
+            "Fluoride": 0.7561141188558814
+        },
+        {
+            "Station": "Kondapuram",
+            "Latitude": 14.779958256240786,
+            "Longitude": 78.19014884791353,
+            "District": "Y.S.R.",
+            "Fluoride": 0.7002508013922856
+        },
+        {
+            "Station": "Mylavaram",
+            "Latitude": 14.854862950095606,
+            "Longitude": 78.33583250748143,
+            "District": "Y.S.R.",
+            "Fluoride": 0.7191045150457444
+        },
+        {
+            "Station": "Rajupalem",
+            "Latitude": 14.875423503185948,
+            "Longitude": 78.57561280210717,
+            "District": "Y.S.R.",
+            "Fluoride": 0.7034051198384982
+        },
+        {
+            "Station": "Brahmamgarimattam",
+            "Latitude": 14.822273242861366,
+            "Longitude": 78.87893473216081,
+            "District": "Y.S.R.",
+            "Fluoride": 0.710940906327891
+        },
+        {
+            "Station": "Gopavaram",
+            "Latitude": 14.720473367782601,
+            "Longitude": 79.11451654459201,
+            "District": "Y.S.R.",
+            "Fluoride": 0.7349958427135693
+        },
+        {
+            "Station": "Chapad",
+            "Latitude": 14.731410222204875,
+            "Longitude": 78.65814388480017,
+            "District": "Y.S.R.",
+            "Fluoride": 0.7292176503790528
+        },
+        {
+            "Station": "Muddanur",
+            "Latitude": 14.68857826924103,
+            "Longitude": 78.39400349311794,
+            "District": "Y.S.R.",
+            "Fluoride": 0.7530915102769509
+        },
+        {
+            "Station": "Pulivendla",
+            "Latitude": 14.422648898393756,
+            "Longitude": 78.22654979685,
+            "District": "Y.S.R.",
+            "Fluoride": 0.7259556208660615
+        },
+        {
+            "Station": "Vemula",
+            "Latitude": 14.371384835407124,
+            "Longitude": 78.32075674861798,
+            "District": "Y.S.R.",
+            "Fluoride": 0.7190051661547805
+        },
+        {
+            "Station": "Veerapunayunipalle",
+            "Latitude": 14.470561006115286,
+            "Longitude": 78.47060003824438,
+            "District": "Y.S.R.",
+            "Fluoride": 0.6542718194024568
+        },
+        {
+            "Station": "Vallur",
+            "Latitude": 14.570854056771427,
+            "Longitude": 78.72226447993707,
+            "District": "Y.S.R.",
+            "Fluoride": 0.8316933231252562
+        },
+        {
+            "Station": "Atlur",
+            "Latitude": 14.558845397333005,
+            "Longitude": 79.0543846974887,
+            "District": "Y.S.R.",
+            "Fluoride": 0.8619197586644097
+        },
+        {
+            "Station": "Chinthakommadinne",
+            "Latitude": 14.431772838614464,
+            "Longitude": 78.78790372826572,
+            "District": "Y.S.R.",
+            "Fluoride": 0.7357157259216067
+        },
+        {
+            "Station": "Pendlimarri",
+            "Latitude": 14.445533996666299,
+            "Longitude": 78.63891254907678,
+            "District": "Y.S.R.",
+            "Fluoride": 0.7502093799496873
+        },
+        {
+            "Station": "Chakrayapet",
+            "Latitude": 14.26514896438338,
+            "Longitude": 78.49599082722355,
+            "District": "Y.S.R.",
+            "Fluoride": 0.7432106251862297
+        },
+        {
+            "Station": "Sambepalle",
+            "Latitude": 13.95738927184247,
+            "Longitude": 78.75220084217024,
+            "District": "Y.S.R.",
+            "Fluoride": 0.7028457363973633
+        },
+        {
+            "Station": "Ramapuram",
+            "Latitude": 14.2195519244502,
+            "Longitude": 78.75140154907821,
+            "District": "Y.S.R.",
+            "Fluoride": 0.7386459284342745
+        },
+        {
+            "Station": "Obulavaripalle",
+            "Latitude": 14.042061798433304,
+            "Longitude": 79.26973223841951,
+            "District": "Y.S.R.",
+            "Fluoride": 0.7186326393055482
+        },
+        {
+            "Station": "Mantralayam",
+            "Latitude": 15.943296117271764,
+            "Longitude": 77.42429231108905,
+            "District": "Kurnool",
+            "Fluoride": 0.7569798144662784
+        },
+        {
+            "Station": "Kowthalam",
+            "Latitude": 15.773652296304544,
+            "Longitude": 77.13896508605725,
+            "District": "Kurnool",
+            "Fluoride": 0.7293531540086221
+        },
+        {
+            "Station": "Pedda Kadubur",
+            "Latitude": 15.743726091727478,
+            "Longitude": 77.35433536783944,
+            "District": "Kurnool",
+            "Fluoride": 0.6712354331466911
+        },
+        {
+            "Station": "C.Belagal",
+            "Latitude": 15.818921027137616,
+            "Longitude": 77.67008455021104,
+            "District": "Kurnool",
+            "Fluoride": 0.7499190436411524
+        },
+        {
+            "Station": "Kothapalle",
+            "Latitude": 15.947248054765192,
+            "Longitude": 78.54505938171546,
+            "District": "Kurnool",
+            "Fluoride": 0.758199661512859
+        },
+        {
+            "Station": "Pamulapadu",
+            "Latitude": 15.838990746683056,
+            "Longitude": 78.49224091157964,
+            "District": "Kurnool",
+            "Fluoride": 0.7110012058376932
+        },
+        {
+            "Station": "Orvakal",
+            "Latitude": 15.68545362667941,
+            "Longitude": 78.1786026003441,
+            "District": "Kurnool",
+            "Fluoride": 0.5712194134025476
+        },
+        {
+            "Station": "Halaharvi",
+            "Latitude": 15.33213514396433,
+            "Longitude": 77.15770442707593,
+            "District": "Kurnool",
+            "Fluoride": 0.7270858613309212
+        },
+        {
+            "Station": "Panyam",
+            "Latitude": 15.51755466258731,
+            "Longitude": 78.34831575448605,
+            "District": "Kurnool",
+            "Fluoride": 0.6727144429531108
+        },
+        {
+            "Station": "Gadivemula",
+            "Latitude": 15.679228516846374,
+            "Longitude": 78.42277774708889,
+            "District": "Kurnool",
+            "Fluoride": 0.577478259890732
+        },
+        {
+            "Station": "Mahanandi",
+            "Latitude": 15.470359382669491,
+            "Longitude": 78.6263592604295,
+            "District": "Kurnool",
+            "Fluoride": 0.691439697243669
+        },
+        {
+            "Station": "Gospadu",
+            "Latitude": 15.355235347965888,
+            "Longitude": 78.41811385403385,
+            "District": "Kurnool",
+            "Fluoride": 0.7239862589403017
+        },
+        {
+            "Station": "Chippagiri",
+            "Latitude": 15.22849069297717,
+            "Longitude": 77.31909061804728,
+            "District": "Kurnool",
+            "Fluoride": 0.7262083234424168
+        },
+        {
+            "Station": "Dornipadu",
+            "Latitude": 15.20558995895456,
+            "Longitude": 78.4493201879404,
+            "District": "Kurnool",
+            "Fluoride": 0.7129946260889815
+        },
+        {
+            "Station": "Bommanahal",
+            "Latitude": 14.999473162080466,
+            "Longitude": 76.97852121614079,
+            "District": "Anantapur",
+            "Fluoride": 0.6957398364819912
+        },
+        {
+            "Station": "Peddavadugur",
+            "Latitude": 15.020565600351631,
+            "Longitude": 77.674511307794,
+            "District": "Anantapur",
+            "Fluoride": 0.705380578025215
+        },
+        {
+            "Station": "Peddapappur",
+            "Latitude": 14.928772304893663,
+            "Longitude": 77.862432785434,
+            "District": "Anantapur",
+            "Fluoride": 0.7002335900448704
+        },
+        {
+            "Station": "Gummagatta",
+            "Latitude": 14.565553448707714,
+            "Longitude": 76.86507561456638,
+            "District": "Anantapur",
+            "Fluoride": 0.8468247292936338
+        },
+        {
+            "Station": "Brahmasamudram",
+            "Latitude": 14.567932365717416,
+            "Longitude": 76.94439605285693,
+            "District": "Anantapur",
+            "Fluoride": 0.8392936890555387
+        },
+        {
+            "Station": "Bukkaraya Samudram",
+            "Latitude": 14.69414310829478,
+            "Longitude": 77.63409844776436,
+            "District": "Anantapur",
+            "Fluoride": 0.7497602329818989
+        },
+        {
+            "Station": "Raptadu",
+            "Latitude": 14.618521983102491,
+            "Longitude": 77.60515457030826,
+            "District": "Anantapur",
+            "Fluoride": 0.7885917681226887
+        },
+        {
+            "Station": "Kambadur",
+            "Latitude": 14.346854156966138,
+            "Longitude": 77.22974051386407,
+            "District": "Anantapur",
+            "Fluoride": 0.721028161624432
+        },
+        {
+            "Station": "Nambulipulikunta",
+            "Latitude": 14.056656825999147,
+            "Longitude": 78.4112465238426,
+            "District": "Anantapur",
+            "Fluoride": 0.7191960372645949
+        },
+        {
+            "Station": "Vararamachandrapuram",
+            "Latitude": 17.56880066083569,
+            "Longitude": 81.28293231958212,
+            "District": "East Godavari",
+            "Fluoride": 0.5607540819804928
+        },
+        {
+            "Station": "Lakshminarsupeta",
+            "Latitude": 18.61762885982176,
+            "Longitude": 83.96182837789951,
+            "District": "Srikakulam",
+            "Fluoride": 0.52019073744461
+        },
+        {
+            "Station": "Sarubujjili",
+            "Latitude": 18.53908126358905,
+            "Longitude": 83.92574168390392,
+            "District": "Srikakulam",
+            "Fluoride": 0.6595963582879015
+        },
+        {
+            "Station": "Gummalakshmipuram",
+            "Latitude": 18.973148522963285,
+            "Longitude": 83.65269459050278,
+            "District": "Vizianagaram",
+            "Fluoride": 0.21453997970715394
+        },
+        {
+            "Station": "Munchingi Puttu",
+            "Latitude": 18.36677393378259,
+            "Longitude": 82.50807747276352,
+            "District": "Visakhapatnam",
+            "Fluoride": 0.4371368604155423
+        },
+        {
+            "Station": "Hukumpeta",
+            "Latitude": 18.150284169530554,
+            "Longitude": 82.69579675939596,
+            "District": "Visakhapatnam",
+            "Fluoride": 0.39557765206388995
+        },
+        {
+            "Station": "Visakhapatnam (Rural)",
+            "Latitude": 17.761970362057863,
+            "Longitude": 83.30346502142226,
+            "District": "Visakhapatnam",
+            "Fluoride": 1.2116442148690374
+        },
+        {
+            "Station": "Y. Ramavaram",
+            "Latitude": 17.678462607290246,
+            "Longitude": 81.95796061305093,
+            "District": "East Godavari",
+            "Fluoride": 1.1348562498075703
+        },
+        {
+            "Station": "Rajahmundry (Urban)",
+            "Latitude": 17.018304884849186,
+            "Longitude": 81.77414677098082,
+            "District": "East Godavari",
+            "Fluoride": 0.31239601392028266
+        },
+        {
+            "Station": "Kothapalle",
+            "Latitude": 17.08806569233084,
+            "Longitude": 82.31802050475879,
+            "District": "East Godavari",
+            "Fluoride": 0.44951739277061653
+        },
+        {
+            "Station": "Kakinada (Urban)",
+            "Latitude": 16.951001714149577,
+            "Longitude": 82.23450238018106,
+            "District": "East Godavari",
+            "Fluoride": 0.6685787012324591
+        },
+        {
+            "Station": "Ambajipeta",
+            "Latitude": 16.59361128693439,
+            "Longitude": 81.94609074290884,
+            "District": "East Godavari",
+            "Fluoride": 0.7483259385187254
+        },
+        {
+            "Station": "Buttayagudem",
+            "Latitude": 17.206051406168633,
+            "Longitude": 81.31938659161553,
+            "District": "West Godavari",
+            "Fluoride": 0.2818893577163415
+        },
+        {
+            "Station": "Vijayawada (Urban)",
+            "Latitude": 16.516412216934135,
+            "Longitude": 80.63091347020747,
+            "District": "Krishna",
+            "Fluoride": 1.0570251946110707
+        },
+        {
+            "Station": "Pamarru",
+            "Latitude": 16.32663397326166,
+            "Longitude": 80.96081596561326,
+            "District": "Krishna",
+            "Fluoride": 0.8344791803632697
+        },
+        {
+            "Station": "Chilakaluripet\n H/O.Purushoth*",
+            "Latitude": 16.08641572785578,
+            "Longitude": 80.15598809978714,
+            "District": "Guntur",
+            "Fluoride": 0.7914268976606575
+        },
+        {
+            "Station": "Dagadarthi",
+            "Latitude": 14.669484723154422,
+            "Longitude": 79.93495561819151,
+            "District": "Sri Potti Sriramulu Nell*",
+            "Fluoride": 0.7652295718611328
+        },
+        {
+            "Station": "Kovur",
+            "Latitude": 14.498748004094175,
+            "Longitude": 79.9849133008971,
+            "District": "Sri Potti Sriramulu Nell*",
+            "Fluoride": 0.6777854873762278
+        },
+        {
+            "Station": "B.Kodur",
+            "Latitude": 14.879178285160133,
+            "Longitude": 78.97800782997508,
+            "District": "Y.S.R.",
+            "Fluoride": 0.7031681368034661
+        },
+        {
+            "Station": "Sri Avadhutha Kasinayana",
+            "Latitude": 15.051809688781566,
+            "Longitude": 78.93214781333631,
+            "District": "Y.S.R.",
+            "Fluoride": 0.7036381671672903
+        },
+        {
+            "Station": "Kallur",
+            "Latitude": 15.81639812334578,
+            "Longitude": 78.02938145783236,
+            "District": "Kurnool",
+            "Fluoride": 0.7448548903867963
+        },
+        {
+            "Station": "Jupadu Bungalow",
+            "Latitude": 15.863717854201337,
+            "Longitude": 78.38327265441677,
+            "District": "Kurnool",
+            "Fluoride": 0.7049573693015208
+        },
+        {
+            "Station": "Yellanur",
+            "Latitude": 14.70001400671683,
+            "Longitude": 78.07220851054367,
+            "District": "Anantapur",
+            "Fluoride": 0.7463344092130041
+        },
+        {
+            "Station": "Gandlapenta",
+            "Latitude": 14.096745639719574,
+            "Longitude": 78.27281437157359,
+            "District": "Anantapur",
+            "Fluoride": 0.7243822546773556
+        },
+        {
+            "Station": "Nallamada",
+            "Latitude": 14.142778866341446,
+            "Longitude": 77.9813615759419,
+            "District": "Anantapur",
+            "Fluoride": 0.7287227768501898
+        },
+        {
+            "Station": "Kothacheruvu",
+            "Latitude": 14.183927443018687,
+            "Longitude": 77.77025415052577,
+            "District": "Anantapur",
+            "Fluoride": 0.7302236975558346
+        },
+        {
+            "Station": "Ramagiri",
+            "Latitude": 14.306258867342121,
+            "Longitude": 77.49688564710247,
+            "District": "Anantapur",
+            "Fluoride": 0.7457421145331575
+        },
+        {
+            "Station": "Gudibanda",
+            "Latitude": 13.975468802001329,
+            "Longitude": 77.10436501402533,
+            "District": "Anantapur",
+            "Fluoride": 0.7056859446929933
+        },
+        {
+            "Station": "Agali",
+            "Latitude": 13.78459229193871,
+            "Longitude": 77.05397043029141,
+            "District": "Anantapur",
+            "Fluoride": 0.7637977177094754
+        },
+        {
+            "Station": "Puttaparthi",
+            "Latitude": 14.16935456041624,
+            "Longitude": 77.81054565894031,
+            "District": "Anantapur",
+            "Fluoride": 0.7301789230174756
+        },
+        {
+            "Station": "Obuladevaracheruvu",
+            "Latitude": 14.025550096761206,
+            "Longitude": 78.00125998712052,
+            "District": "Anantapur",
+            "Fluoride": 0.7166178062906384
+        },
+        {
+            "Station": "Nallacheruvu",
+            "Latitude": 13.986019680999648,
+            "Longitude": 78.18565584406994,
+            "District": "Anantapur",
+            "Fluoride": 0.7090476008726564
+        },
+        {
+            "Station": "Tanakal",
+            "Latitude": 13.921372328194165,
+            "Longitude": 78.1946621752421,
+            "District": "Anantapur",
+            "Fluoride": 0.7175428201162037
+        },
+        {
+            "Station": "Amadagur",
+            "Latitude": 13.888712650770504,
+            "Longitude": 78.0217286838758,
+            "District": "Anantapur",
+            "Fluoride": 0.7293768157106648
+        },
+        {
+            "Station": "Somandepalle",
+            "Latitude": 14.00750093097027,
+            "Longitude": 77.60931661054664,
+            "District": "Anantapur",
+            "Fluoride": 0.713818728018324
+        },
+        {
+            "Station": "Buchinaidu Kandriga",
+            "Latitude": 13.699642535673252,
+            "Longitude": 79.85105599528232,
+            "District": "Chittoor",
+            "Fluoride": 0.553750164578546
+        },
+        {
+            "Station": "Ramachandrapuram",
+            "Latitude": 13.548824812841284,
+            "Longitude": 79.40101711311533,
+            "District": "Chittoor",
+            "Fluoride": 0.7190670462965605
+        },
+        {
+            "Station": "Irala",
+            "Latitude": 13.38680673153863,
+            "Longitude": 78.983039631648,
+            "District": "Chittoor",
+            "Fluoride": 0.7058753065113066
+        },
+        {
+            "Station": "Gangavaram",
+            "Latitude": 13.231155856861777,
+            "Longitude": 78.76932161128637,
+            "District": "Chittoor",
+            "Fluoride": 0.7149297481556629
+        },
+        {
+            "Station": "K.V.B.Puram",
+            "Latitude": 13.532826371427582,
+            "Longitude": 79.738040022874,
+            "District": "Chittoor",
+            "Fluoride": 0.7395880841817782
+        },
+        {
+            "Station": "Velairpadu",
+            "Latitude": 17.527326655904865,
+            "Longitude": 81.26035123533454,
+            "District": "West Godavari",
+            "Fluoride": 0.9639848388917045
+        },
+        {
+            "Station": "Pedagantyada",
+            "Latitude": 17.61636280896074,
+            "Longitude": 83.17694617463599,
+            "District": "Visakhapatnam",
+            "Fluoride": 1.273827650892388
+        },
+        {
+            "Station": "Rowthulapudi",
+            "Latitude": 17.377197753099342,
+            "Longitude": 82.37163358596739,
+            "District": "East Godavari",
+            "Fluoride": 0.4735787907196558
+        }
+    ]
+}

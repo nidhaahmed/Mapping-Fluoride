@@ -1,0 +1,762 @@
+{
+    "stations": [
+        {
+            "Station": "Nagavali River near NH-16 Bridge, Up stream of Srikakulam, before cofluence of\ntown Sewage .",
+            "Latitude": 18.3158821,
+            "Longitude": 83.9272346,
+            "District": "Srikakulam",
+            "Fluoride": 0.6
+        },
+        {
+            "Station": "Nagavali River near Water pump house (Killipalem), Down stream of Srikakulam,\nafter confluence of town sewage",
+            "Latitude": 18.2708903343021,
+            "Longitude": 83.9106808595696,
+            "District": "Srikakulam",
+            "Fluoride": 0.38
+        },
+        {
+            "Station": "River Vamsadhara at Battili (V), Bhamini (M), Parvathipuram Manyam District",
+            "Latitude": 19.0122905,
+            "Longitude": 83.7857627,
+            "District": "Parvathipuram Manyam District",
+            "Fluoride": 0.16
+        },
+        {
+            "Station": "Sea Water,Bay of Bengal,after Confluence of marine outfall of M/s.Aurobindo pharma Ltd, M/s.Andhra Organics Ltd and M/s.Lantech Pharmaceuticals Ltd, Dhonipeta(V), Ranasthalam, Srikakulam",
+            "Latitude": 18.1975758,
+            "Longitude": 83.7038348999999,
+            "District": "Srikakulam",
+            "Fluoride": 0.38
+        },
+        {
+            "Station": "River Vamsadhara at Gara (V&M),\nSrikakulam",
+            "Latitude": 18.2949165,
+            "Longitude": 83.8938017999999,
+            "District": "Srikakulam",
+            "Fluoride": 0.25
+        },
+        {
+            "Station": "Patha Tekkali Cheruvu at Patha Tekkali (V),Vajrapu Kotturu (M), Srikakulam District",
+            "Latitude": 18.6288398,
+            "Longitude": 84.3617283999999,
+            "District": "Srikakulam",
+            "Fluoride": 0.77
+        },
+        {
+            "Station": "Nowpada Sample at Nowpada (V), Tekkali\n(M), Srikakulam District",
+            "Latitude": 18.6336911,
+            "Longitude": 84.3608793,
+            "District": "Srikakulam",
+            "Fluoride": 0.84
+        },
+        {
+            "Station": "Dali Tank at Vemulada (V), Tekkali (M),\nSrikakulam District",
+            "Latitude": 18.611836,
+            "Longitude": 84.2376584,
+            "District": "Srikakulam",
+            "Fluoride": 0.32
+        },
+        {
+            "Station": "River Nagavali Immediate Border between Andhra Pradesh & Orissa States, Near Sivalayam, Kuneru (V), Komarada\n(M),Parvathipuram Manyam District.",
+            "Latitude": 18.896252,
+            "Longitude": 83.4660878999999,
+            "District": "Parvathipuram Manyam District",
+            "Fluoride": 0.18
+        },
+        {
+            "Station": "Sea water, Bay of Bengal, after confluence of Marine outfall of M/s Myan & M/s SMS Pharmaceuticals Ltd., Thammayyapalem, Poosapatirega, Vizianagaram District.",
+            "Latitude": 18.0922075,
+            "Longitude": 83.5511468999999,
+            "District": "Vizianagaram",
+            "Fluoride": 1.33
+        },
+        {
+            "Station": "Tatipudi Reservoir, Gantyada (M),\nVizianagaram District",
+            "Latitude": 18.1722115,
+            "Longitude": 83.1913807,
+            "District": "Vizianagaram",
+            "Fluoride": 0.05
+        },
+        {
+            "Station": "Pedda Cheruvu, Vizianagaram District",
+            "Latitude": 18.6021665,
+            "Longitude": 83.1862520999999,
+            "District": "Vizianagaram",
+            "Fluoride": 0.71
+        },
+        {
+            "Station": "Koti Cheruvu, Bobbili Town, Vizianagaram\nDistrict",
+            "Latitude": 18.5727886,
+            "Longitude": 83.356381,
+            "District": "Vizianagaram",
+            "Fluoride": 0.79
+        },
+        {
+            "Station": "Water sample collected at River Godavari After Confluence with Sabari Tributary (Kunavaram) at Weddigudem (V), V.R.Puram (M), Alluri Sita Ramaraju District",
+            "Latitude": 17.5644225,
+            "Longitude": 81.2973009,
+            "District": "ASR District",
+            "Fluoride": 0.31
+        },
+        {
+            "Station": "River Sabari at Kunavaram (V), V.R.Puram, Alluri Sita Ramaraju District",
+            "Latitude": 17.5644225,
+            "Longitude": 81.2973009,
+            "District": "ASR District",
+            "Fluoride": 0.743431372549019
+        },
+        {
+            "Station": "Kondakarla-Ava Lake, Kondakarla",
+            "Latitude": 17.5957632,
+            "Longitude": 82.9930964,
+            "District": "Visakhapatnam",
+            "Fluoride": 0.98
+        },
+        {
+            "Station": "Yeleru Canal, Near Pharma City,\nVisakhapatnam",
+            "Latitude": 17.6868159,
+            "Longitude": 83.2184815,
+            "District": "Visakhapatnam",
+            "Fluoride": 0.89
+        },
+        {
+            "Station": "Rushikonda Beach, Rushikonda,\nVisakhapatnam",
+            "Latitude": 17.7825201,
+            "Longitude": 83.3851153999999,
+            "District": "Visakhapatnam",
+            "Fluoride": 1.71
+        },
+        {
+            "Station": "Meghadrigedda Reservoir, Visakhapatnam",
+            "Latitude": 17.781236,
+            "Longitude": 83.1809775999999,
+            "District": "Visakhapatnam",
+            "Fluoride": 0.48
+        },
+        {
+            "Station": "Sea water sample collected at Annavaram (V), Chippada, Bheemunipatnam (M), Visakhapatnam Distrit",
+            "Latitude": 17.9332102,
+            "Longitude": 83.4566857,
+            "District": "Visakhapatnam",
+            "Fluoride": 1.52
+        },
+        {
+            "Station": "Creek water sample collected at Sardar Vallabhai Patel Bridge, Naval Dockyard,\nVisakhapatnam",
+            "Latitude": 17.7110898,
+            "Longitude": 83.2630126,
+            "District": "Visakhapatnam",
+            "Fluoride": 1.91
+        },
+        {
+            "Station": "Sea water sample collected at Dondawaka,\nPayakaraopeta, Triupati",
+            "Latitude": 17.362436,
+            "Longitude": 82.553086,
+            "District": "Anakapalli",
+            "Fluoride": 0.15
+        },
+        {
+            "Station": "Sea water sample collected at Rajanagaram,\nNakkapalli",
+            "Latitude": 17.4072904,
+            "Longitude": 82.7154634,
+            "District": "Anakapalli",
+            "Fluoride": 1.26
+        },
+        {
+            "Station": "Sea water sample collected at Pudimadaka,\nAtchutapuram",
+            "Latitude": 17.4927131,
+            "Longitude": 83.0027674,
+            "District": "Anakapalli",
+            "Fluoride": 1.78
+        },
+        {
+            "Station": "Sea water sample collected at\nTikkavanipalem, Parawada",
+            "Latitude": 17.6217306,
+            "Longitude": 83.0817699,
+            "District": "Anakapalli",
+            "Fluoride": 1.45
+        },
+        {
+            "Station": "D/s of River Godavari at Rajahmundry\n(Dowlaiswaram)",
+            "Latitude": 16.955761,
+            "Longitude": 81.7927436,
+            "District": "East Godavari",
+            "Fluoride": 0.743431372549019
+        },
+        {
+            "Station": "Samalkota Canal Near Samalkota,\nKakinada, Kakinada District",
+            "Latitude": 17.0500453,
+            "Longitude": 82.1679386,
+            "District": "Kakinada District",
+            "Fluoride": 0.84
+        },
+        {
+            "Station": "Teki drain at Tallarevu, East Godavari\nDistrict",
+            "Latitude": 16.7618247293814,
+            "Longitude": 82.0622932494652,
+            "District": "East Godavari",
+            "Fluoride": 0.61
+        },
+        {
+            "Station": "River Godavari at Rajahmundry U/s of  Nalla channel",
+            "Latitude": 17.0005383,
+            "Longitude": 81.8040345,
+            "District": "East Godavari",
+            "Fluoride": 0.26
+        },
+        {
+            "Station": "River Godavari at Rajahmundry D/s of  Nalla channel",
+            "Latitude": 16.9783774,
+            "Longitude": 81.7984752999999,
+            "District": "East Godavari",
+            "Fluoride": 0.11
+        },
+        {
+            "Station": "D/s River Godavari Dowleiswaram after\nconfluence of STP Outlet",
+            "Latitude": 16.955761,
+            "Longitude": 81.7927436,
+            "District": "East Godavari",
+            "Fluoride": 0.22
+        },
+        {
+            "Station": "River Gowthami (Godavari) Govalanka, Injaram (V), Near GMC Balayogi Bridge,\nTallarevu (M), East Godavari District",
+            "Latitude": 16.7306374,
+            "Longitude": 82.1755501,
+            "District": "East Godavari",
+            "Fluoride": 1.33
+        },
+        {
+            "Station": "Sea water Bay of Bengal, Uppada Beach Road, Kakinada, East Godavari District",
+            "Latitude": 16.9913227,
+            "Longitude": 82.277426,
+            "District": "East Godavari",
+            "Fluoride": 1.04
+        },
+        {
+            "Station": "Sea water Bay of Bengal, Near Deep water port, Kakinada, East Godavari District (1Km\naway from jetty)",
+            "Latitude": 16.9710235,
+            "Longitude": 82.274254,
+            "District": "East Godavari",
+            "Fluoride": 0.67
+        },
+        {
+            "Station": "Sea water Bay of Bengal, Near\nKumbhabhishekam Temple, Kakinada, East Godavari District",
+            "Latitude": 16.9577692,
+            "Longitude": 82.2695014999999,
+            "District": "East Godavari",
+            "Fluoride": 1.2
+        },
+        {
+            "Station": "Uppalanka Mudflats, Mahalakshmi Nagar,\nTurangi (V), Kakinada",
+            "Latitude": 16.9353642,
+            "Longitude": 82.2284821,
+            "District": "Kakinada District",
+            "Fluoride": 0.72
+        },
+        {
+            "Station": "P.E.Chinnaiah Palem cheruvu",
+            "Latitude": 17.07899,
+            "Longitude": 81.666949,
+            "District": "East Godavari",
+            "Fluoride": 0.51
+        },
+        {
+            "Station": "Gacchakayala Pora (Lagoon)",
+            "Latitude": 16.5199128813055,
+            "Longitude": 82.1408914149326,
+            "District": "East Godavari",
+            "Fluoride": 1.06
+        },
+        {
+            "Station": "Pampa Reservoir, Annavaram (V&M),\nKakinada",
+            "Latitude": 17.2873006,
+            "Longitude": 82.4075192,
+            "District": "Kakinada District",
+            "Fluoride": 0.38
+        },
+        {
+            "Station": "Yeleswaram Reservoir,Yeleswaram,\nKakinada",
+            "Latitude": 17.3075168,
+            "Longitude": 82.0962312,
+            "District": "Kakinada District",
+            "Fluoride": 0.18
+        },
+        {
+            "Station": "Coolling water blow downs from Andhra Sugars Ltd., Kovvur, Before joining River\nGodavari",
+            "Latitude": 17.0125618,
+            "Longitude": 81.727383,
+            "District": "Kakinada District",
+            "Fluoride": 0.19
+        },
+        {
+            "Station": "Sea water Bay of Bengal, Near Shivalayam,\nAddaripeta (V), Kakinada",
+            "Latitude": 16.9890648,
+            "Longitude": 82.2474648,
+            "District": "Kakinada District",
+            "Fluoride": 1.3
+        },
+        {
+            "Station": "Sea water sample collected at Kakinada Fishing Harbour",
+            "Latitude": 16.9890648,
+            "Longitude": 82.2474648,
+            "District": "Kakinada District",
+            "Fluoride": 1.52
+        },
+        {
+            "Station": "Confluence point of Gowthami Godavari at Bhairavapalem (V), Thallrevu (M), Kakinada\nDistrict",
+            "Latitude": 16.9890648,
+            "Longitude": 82.2474648,
+            "District": "Kakinada Godavari",
+            "Fluoride": 1.47
+        },
+        {
+            "Station": "Sea water sample collected at Tulyabhaga- Sangarasamga, River at Koringa Wildlife Sanctuary, Koringa (V), Kakinada",
+            "Latitude": 16.8212486,
+            "Longitude": 82.2982966,
+            "District": "Kakinada District",
+            "Fluoride": 1.13
+        },
+        {
+            "Station": "Bay of Bengal at Odalarevu (V), Allavaram (M), Dr.B.R.Ambedkar Konaseema District",
+            "Latitude": 16.512902,
+            "Longitude": 81.9882370999999,
+            "District": "Dr. B.R.\nAmbdekar Konaseema District",
+            "Fluoride": 1.41
+        },
+        {
+            "Station": "U/s of River Godavari at Rajahmundry (Kumaradevam)",
+            "Latitude": 17.0660129,
+            "Longitude": 81.7068388,
+            "District": "East Godavari",
+            "Fluoride": 0.54
+        },
+        {
+            "Station": "Sea water Bay of Bengal at Perupalem Beach, Perupalem (V), Mogalturu (M), West Godavari District",
+            "Latitude": 16.4129245,
+            "Longitude": 81.6064007,
+            "District": "West Godavari",
+            "Fluoride": 0.17
+        },
+        {
+            "Station": "River Godavari at Polavaram",
+            "Latitude": 17.2475104,
+            "Longitude": 81.6426999,
+            "District": "West Godavari",
+            "Fluoride": 0.32
+        },
+        {
+            "Station": "River Vasista Godavari U/s of Narasapuram Town, Before confluence of Town Sewage",
+            "Latitude": 16.4393431,
+            "Longitude": 81.7014331,
+            "District": "West Godavari",
+            "Fluoride": 1.47
+        },
+        {
+            "Station": "River Vasista Godavari D/s of Narasapuram Town, After confluence of Town Sewage",
+            "Latitude": 16.4393431,
+            "Longitude": 81.7014331,
+            "District": "West Godavari",
+            "Fluoride": 0.94
+        },
+        {
+            "Station": "Sea water, Bay of Bengal, After confluence of River Vasista Godavari at Chinnamainavanilanka (V) , Narasapuram\n(M), West Godavari District.",
+            "Latitude": 16.4393431,
+            "Longitude": 81.7014331,
+            "District": "West Godavari",
+            "Fluoride": 1.86
+        },
+        {
+            "Station": "Gosthani River sample before confluence with M/s Delta Paper Mill effluents, Vendra\n(V), Palakoderu (M)",
+            "Latitude": 16.5861566,
+            "Longitude": 81.5479871,
+            "District": "West Godavari",
+            "Fluoride": 0.7
+        },
+        {
+            "Station": "Gosthani River sample after confluence with M/s Delta Paper Mill effluents, Vendra (V), Palakoderu (M) but before confluence with\nYanamadurru drain",
+            "Latitude": 16.4889675,
+            "Longitude": 81.5287857,
+            "District": "West Godavari",
+            "Fluoride": 0.65
+        },
+        {
+            "Station": "Gostha Nadi-Velpuru Canal at Hanuman Temple D/s of Tanuku Town, Attili (M)",
+            "Latitude": 16.6870295,
+            "Longitude": 81.6078635,
+            "District": "West Godavari",
+            "Fluoride": 0.16
+        },
+        {
+            "Station": "Yerrakaluva Reservoir, Konguvarigudem (V), Jangareddygudem (M), West Godvari\nDistrict",
+            "Latitude": 17.1205268,
+            "Longitude": 81.2983022,
+            "District": "West Godavari",
+            "Fluoride": 0.1
+        },
+        {
+            "Station": "Inlet of STP at Rajahmundry",
+            "Latitude": 17.0005383,
+            "Longitude": 81.8040345,
+            "District": "East Godavari",
+            "Fluoride": 0.743431372549019
+        },
+        {
+            "Station": "Outlet of STP at Rajahmundry",
+            "Latitude": 17.0005383,
+            "Longitude": 81.8040345,
+            "District": "East Godavari",
+            "Fluoride": 0.56
+        },
+        {
+            "Station": "Upstream of river Krishna at Prakasam\nbarrage",
+            "Latitude": 16.5020777,
+            "Longitude": 80.603335,
+            "District": "NTR",
+            "Fluoride": 0.8
+        },
+        {
+            "Station": "Upstream of Pennar river at Somasila",
+            "Latitude": 14.499339,
+            "Longitude": 79.3063471,
+            "District": "Nellore",
+            "Fluoride": 0.67
+        },
+        {
+            "Station": "Puligadda aqueduct near Avanigadda (V)",
+            "Latitude": 16.0463213,
+            "Longitude": 80.9065536999999,
+            "District": "Krishna",
+            "Fluoride": 0.83
+        },
+        {
+            "Station": "River Krishna at Amaravathi",
+            "Latitude": 16.5130887,
+            "Longitude": 80.5164523,
+            "District": "Guntur",
+            "Fluoride": 0.72
+        },
+        {
+            "Station": "Downstream of Krishna river at Vedadri",
+            "Latitude": 16.7992648,
+            "Longitude": 80.1484407,
+            "District": "NTR",
+            "Fluoride": 0.92
+        },
+        {
+            "Station": "Budameru canal near BDG at NH-5, Keesarapalli",
+            "Latitude": 16.522853,
+            "Longitude": 80.779208,
+            "District": "Krishna",
+            "Fluoride": 0.74
+        },
+        {
+            "Station": "Guntatippa drain B/C with Ryves canal at Enikepadu, Vijayawada",
+            "Latitude": 16.5061743,
+            "Longitude": 80.6480153,
+            "District": "Krishna",
+            "Fluoride": 0.83
+        },
+        {
+            "Station": "Downstream of Paleru river at Jaggaiahpet",
+            "Latitude": 16.8812247,
+            "Longitude": 80.0287881,
+            "District": "NTR",
+            "Fluoride": 0.86
+        },
+        {
+            "Station": "Pavitra Sangamam at Ibrahimpatnam",
+            "Latitude": 16.5888124,
+            "Longitude": 80.5210891999999,
+            "District": "NTR",
+            "Fluoride": 0.78
+        },
+        {
+            "Station": "River Krishna after confluence with River\nMusi at Vadapalli (V)",
+            "Latitude": 16.7050207,
+            "Longitude": 79.653016,
+            "District": "Palnadu",
+            "Fluoride": 0.62
+        },
+        {
+            "Station": "Sea Water Bay of Bengal Fishing Harbor,\nNizampatnam",
+            "Latitude": 15.9069453,
+            "Longitude": 80.6690697,
+            "District": "Bapatla",
+            "Fluoride": 0.743431372549019
+        },
+        {
+            "Station": "Sea Water, Bay of Bengal. Kothapatnam\nBeach",
+            "Latitude": 15.446762,
+            "Longitude": 80.1659792999999,
+            "District": "Prakasam",
+            "Fluoride": 0.743431372549019
+        },
+        {
+            "Station": "Sea Water Bay of Bengal, Vadarevu Beach,\nChirala",
+            "Latitude": 15.8166616,
+            "Longitude": 80.35869,
+            "District": "Bapatla",
+            "Fluoride": 0.743431372549019
+        },
+        {
+            "Station": "Anumalapalle Cheruvu, Anumalapalle (V),\nRacherla (M)",
+            "Latitude": 15.4619524,
+            "Longitude": 78.9648055,
+            "District": "Prakasam",
+            "Fluoride": 0.68
+        },
+        {
+            "Station": "Krishnapatnam Port",
+            "Latitude": 14.2545822,
+            "Longitude": 80.109357,
+            "District": "Nellore",
+            "Fluoride": 0.743431372549019
+        },
+        {
+            "Station": "Sea Water Bay of Bengal Manginapudi\nBeach, Machilipatnam",
+            "Latitude": 16.1808917,
+            "Longitude": 81.1302716,
+            "District": "Krishna",
+            "Fluoride": 0.743431372549019
+        },
+        {
+            "Station": "Uppalapadu Tank",
+            "Latitude": 16.3048631,
+            "Longitude": 80.5146713,
+            "District": "Guntur",
+            "Fluoride": 0.78
+        },
+        {
+            "Station": "Interu Swamps",
+            "Latitude": 16.340606267409,
+            "Longitude": 81.3250238508365,
+            "District": "Krishna",
+            "Fluoride": 0.91
+        },
+        {
+            "Station": "Budampadu Cheruvu, Budampadu (V)",
+            "Latitude": 16.2600092,
+            "Longitude": 80.4722817,
+            "District": "Guntur",
+            "Fluoride": 0.73
+        },
+        {
+            "Station": "Pampula Cheruvu",
+            "Latitude": 16.1872330503148,
+            "Longitude": 81.1231488309409,
+            "District": "Krishna",
+            "Fluoride": 0.69
+        },
+        {
+            "Station": "Cumbum Cheruvu, Cumbum (V & M),\nPrakasam District",
+            "Latitude": 15.5907554,
+            "Longitude": 79.0902057,
+            "District": "Prakasam",
+            "Fluoride": 0.59
+        },
+        {
+            "Station": "Nellore Swarnala Cheruvu(Nellore Tank, Near Barashahid Dargha, Nellore",
+            "Latitude": 14.4423409,
+            "Longitude": 79.9622566,
+            "District": "Nellore",
+            "Fluoride": 0.77
+        },
+        {
+            "Station": "Kanigiri Reservoir, Vavveru (V), Buchireddypalem (M)",
+            "Latitude": 14.5603161,
+            "Longitude": 79.873164,
+            "District": "Nellore",
+            "Fluoride": 0.87
+        },
+        {
+            "Station": "Sea water, Pakala Beach, Pakala (V),\nSingarayakonda (M)",
+            "Latitude": 15.2578742,
+            "Longitude": 80.0248857,
+            "District": "Prakasam",
+            "Fluoride": 0.743431372549019
+        },
+        {
+            "Station": "Sea Water, Bay of Bengal, Surya Lanka\nBeach",
+            "Latitude": 13.531665,
+            "Longitude": 87.5395855,
+            "District": "Bapatla",
+            "Fluoride": 0.743431372549019
+        },
+        {
+            "Station": "Mypadu Beach",
+            "Latitude": 14.5066232,
+            "Longitude": 80.178788,
+            "District": "Nellore",
+            "Fluoride": 0.743431372549019
+        },
+        {
+            "Station": "Upputeru before confluence with sea at\nChinnagollapalem",
+            "Latitude": 16.3580011,
+            "Longitude": 81.521241,
+            "District": "Krishna",
+            "Fluoride": 0.743431372549019
+        },
+        {
+            "Station": "River Thungabhadra at Bavapuram",
+            "Latitude": 15.8486633,
+            "Longitude": 77.9453091,
+            "District": "Kurnool",
+            "Fluoride": 0.68
+        },
+        {
+            "Station": "River Krishna at  Sangameshwaram",
+            "Latitude": 15.9997326,
+            "Longitude": 78.3785343,
+            "District": "Nandyal",
+            "Fluoride": 0.79
+        },
+        {
+            "Station": "River Pennar at Pushpagiri",
+            "Latitude": 12.6674335379009,
+            "Longitude": 75.6718258979297,
+            "District": "Kadapa",
+            "Fluoride": 0.72
+        },
+        {
+            "Station": "Pulicat lake between Sullurpet & SHAR\ncentre",
+            "Latitude": 13.7008756,
+            "Longitude": 80.0209065,
+            "District": "Tirupati",
+            "Fluoride": 0.83
+        },
+        {
+            "Station": "River Krishna D/s. of  Srisailam (Pathalaganga)",
+            "Latitude": 16.0767681,
+            "Longitude": 78.875583,
+            "District": "Nandyal",
+            "Fluoride": 0.79
+        },
+        {
+            "Station": "River Tungabhadra near Sivalayam Temple at Gondiparla (V)",
+            "Latitude": 15.844125,
+            "Longitude": 78.0708985,
+            "District": "Kurnool",
+            "Fluoride": 0.72
+        },
+        {
+            "Station": "River Tungabhadra at Padidempadu (V), Kurnool (M)",
+            "Latitude": 15.8115091,
+            "Longitude": 78.0944301,
+            "District": "Kurnool",
+            "Fluoride": 0.78
+        },
+        {
+            "Station": "Papavinasanam Reservoir, Tirumala",
+            "Latitude": 13.6989553,
+            "Longitude": 79.3505251,
+            "District": "Tirupati",
+            "Fluoride": 0.38
+        },
+        {
+            "Station": "Chengambakam tank, Sricity SEZ",
+            "Latitude": 13.5499373,
+            "Longitude": 80.0021349,
+            "District": "Tirupati",
+            "Fluoride": 0.72
+        },
+        {
+            "Station": "Pathakotha Cheruvu, Pathakotha (V),\nGuntakal (M)",
+            "Latitude": 15.1590097,
+            "Longitude": 77.5117542999999,
+            "District": "Anantapur",
+            "Fluoride": 0.68
+        },
+        {
+            "Station": "Mid Pennar Reservoir, Penakacherla (V),\nGarladinne (M)",
+            "Latitude": 14.819586,
+            "Longitude": 77.5954558,
+            "District": "Anantapur",
+            "Fluoride": 0.71
+        },
+        {
+            "Station": "Kattamanchi Cheruvu, near new RTC Bus\nStand",
+            "Latitude": 13.2245558,
+            "Longitude": 79.1082784,
+            "District": "Chittoor",
+            "Fluoride": 0.72
+        },
+        {
+            "Station": "Bramha Sagar, wet land, Kadapa.",
+            "Latitude": 14.4673154,
+            "Longitude": 78.8242089,
+            "District": "Kadapa",
+            "Fluoride": 0.63
+        },
+        {
+            "Station": "Sangameshwaram back water, lift irrigation scheme, Muchumarri (V)",
+            "Latitude": 16.0232497,
+            "Longitude": 78.3301422999999,
+            "District": "Nandyal",
+            "Fluoride": 0.74
+        },
+        {
+            "Station": "Devuni kadapa cheruvu pathakadapa",
+            "Latitude": 14.4900219,
+            "Longitude": 78.8329555,
+            "District": "Kadapa",
+            "Fluoride": 0.72
+        },
+        {
+            "Station": "Palasamudram lake, palasamudram(V)\n,Penukonda( M)",
+            "Latitude": 13.9627732,
+            "Longitude": 77.6750869,
+            "District": "Sri Satya Sai",
+            "Fluoride": 0.7
+        },
+        {
+            "Station": "Singanamala cheruvu, singanamala (M)",
+            "Latitude": 14.7797121,
+            "Longitude": 77.741911,
+            "District": "Anantapur",
+            "Fluoride": 0.7
+        },
+        {
+            "Station": "NTR jalasyam, kalvagunta(V)",
+            "Latitude": 13.2832146,
+            "Longitude": 79.1329801,
+            "District": "Chittoor",
+            "Fluoride": 0.67
+        },
+        {
+            "Station": "Gajuladinne Reservoir, Gajuladinne(v) Gonegandla (M)",
+            "Latitude": 15.6933813,
+            "Longitude": 77.619379,
+            "District": "Kurnool",
+            "Fluoride": 0.56
+        },
+        {
+            "Station": "Gargeyapuram lake, Gargeyapuram (V&M)",
+            "Latitude": 15.7912799,
+            "Longitude": 78.1155265,
+            "District": "Kurnool",
+            "Fluoride": 0.7
+        },
+        {
+            "Station": "Kotnur Cheruvu, Hindupuram, Satya Sai District",
+            "Latitude": 13.8426597,
+            "Longitude": 77.5102236,
+            "District": "Sri Satya Sai",
+            "Fluoride": 0.75
+        },
+        {
+            "Station": "Kothacheruvu, Puttaparthy, Satya Sai District",
+            "Latitude": 14.1883776,
+            "Longitude": 77.7652346,
+            "District": "Sri Satya Sai",
+            "Fluoride": 0.73
+        },
+        {
+            "Station": "Thondamanadu Lake, Sri Kalahasthi Mandal,",
+            "Latitude": 13.7054172,
+            "Longitude": 79.6645949,
+            "District": "Tirupati",
+            "Fluoride": 0.72
+        }
+    ]
+}
+        
+            
